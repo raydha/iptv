@@ -73423,166 +73423,21 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20200110000500 +0800" stop="20200110003000 +0800" channel="Fox Crime">
-    <title lang="en">COPS S31E21</title>
-    <sub-title lang="en">Formula For Disaster</sub-title>
-    <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
-  </programme>
-  <programme start="20200110003000 +0800" stop="20200110005500 +0800" channel="Fox Crime">
-    <title lang="en">COPS S31E22</title>
-    <sub-title lang="en">Baby Driver</sub-title>
-    <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
-  </programme>
-  <programme start="20200110005500 +0800" stop="20200110014000 +0800" channel="Fox Crime">
-    <title lang="en">The Mentalist S7E9</title>
-    <sub-title lang="en">Copper Bullet</sub-title>
-    <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
+  <programme start="20200109000000 +0000" stop="20200109010500 +0000" channel="Fox Crime">
+    <title lang="en">Line Of Duty S4E1</title>
+    <desc lang="en">The acclaimed police corruption drama returns for a 4th series. When DCI Roz Huntley captures a serial killer, the chief forensic investigator alerts AC-12 to a possible miscarriage of justice.</desc>
     <credits>
-      <actor>Simon Baker</actor>
-      <actor>Robin Tunney</actor>
-      <actor>Tim Kang</actor>
-      <actor>Owain Yeoman</actor>
-      <actor>Amanda Righetti</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Detective</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110014000 +0800" stop="20200110022500 +0800" channel="Fox Crime">
-    <title lang="en">The Mentalist S7E10</title>
-    <sub-title lang="en">Nothing Gold Can Stay</sub-title>
-    <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
-    <credits>
-      <actor>Simon Baker</actor>
-      <actor>Robin Tunney</actor>
-      <actor>Tim Kang</actor>
-      <actor>Owain Yeoman</actor>
-      <actor>Amanda Righetti</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Detective</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110022500 +0800" stop="20200110031000 +0800" channel="Fox Crime">
-    <title lang="en">The Mentalist S7E11</title>
-    <sub-title lang="en">Byzantium</sub-title>
-    <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
-    <credits>
-      <actor>Simon Baker</actor>
-      <actor>Robin Tunney</actor>
-      <actor>Tim Kang</actor>
-      <actor>Owain Yeoman</actor>
-      <actor>Amanda Righetti</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Detective</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110031000 +0800" stop="20200110035500 +0800" channel="Fox Crime">
-    <title lang="en">CSI Miami S10E3</title>
-    <sub-title lang="en">Blown Away</sub-title>
-    <desc lang="en">A tornado touches down on a murder scene, damaging the evidence and putting Ryan and Walter in grave danger.</desc>
-    <category lang="en">TV Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Western</category>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20200110035500 +0800" stop="20200110044000 +0800" channel="Fox Crime">
-    <title lang="en">CSI Miami S10E4</title>
-    <sub-title lang="en">Look Whoas Taunting</sub-title>
-    <desc lang="en">The team chases a sadistic killer who takes women's eyes, and a new nemesis challenges Horatio.</desc>
-    <category lang="en">TV Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Western</category>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20200110044000 +0800" stop="20200110052500 +0800" channel="Fox Crime">
-    <title lang="en">CSI Miami S10E5</title>
-    <sub-title lang="en">Killer Regrets</sub-title>
-    <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
-    <category lang="en">TV Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Western</category>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20200110052500 +0800" stop="20200110060000 +0800" channel="Fox Crime">
-    <title lang="en">VICE S6E2</title>
-    <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
-    <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
-    <credits>
-      <actor>Shane Smith</actor>
-      <actor>Ben Anderson</actor>
-      <actor>Isobel Yeung</actor>
-      <actor>Gianna Toboni^</actor>
-    </credits>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20200110060000 +0800" stop="20200110063500 +0800" channel="Fox Crime">
-    <title lang="en">VICE S6E3</title>
-    <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
-    <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
-    <credits>
-      <actor>Shane Smith</actor>
-      <actor>Ben Anderson</actor>
-      <actor>Isobel Yeung</actor>
-      <actor>Gianna Toboni^</actor>
-    </credits>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20200110063500 +0800" stop="20200110072000 +0800" channel="Fox Crime">
-    <title lang="en">American Crime S3E7</title>
-    <desc lang="en">In the days following a fatal altercation in the webcam house, Dustin reaches out to Kimara for help, realizing he is no longer safe. Kimara struggles with the burden of a difficult moral choice and decides to take time off of work at her shelter. Meanwhile, Nicholas and Clair's volatile marriage continues to unravel, which in turn makes Gabrielle commit an ill-conceived act based on fear for her life. Jeanette becomes alarmed when Raelyn overreacts to a random drug test request.</desc>
-    <credits>
-      <director>So Yong Kim</director>
-      <director>Julie Ha(C)Bert</director>
-      <actor>Felicity Huffman</actor>
-      <actor>Regina King</actor>
-      <actor>Timothy Hutton</actor>
-      <actor>Lili Taylor</actor>
-      <actor>Connor Jessup</actor>
+      <actor>Vicky Mcclure</actor>
+      <actor>Adrian Dunbar</actor>
+      <actor>Martin Compston</actor>
+      <actor>Craig Parkinson</actor>
+      <actor>Thandie Newton</actor>
     </credits>
     <category lang="en">TV Series</category>
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200110072000 +0800" stop="20200110080500 +0800" channel="Fox Crime">
-    <title lang="en">American Crime S3E8</title>
-    <desc lang="en">Kimara advises Dustin to inform the police about the crime that took place in the webcam house, which leads to an unforeseen outcome. Meanwhile, detectives open up a troubling investigation into Clair and Nicholas, who maintain their innocence and contend that Gabrielle is the guilty party. Jeanette must confront and consider the costs and sacrifices of social change.</desc>
-    <credits>
-      <director>So Yong Kim</director>
-      <director>Julie Ha(C)Bert</director>
-      <actor>Felicity Huffman</actor>
-      <actor>Regina King</actor>
-      <actor>Timothy Hutton</actor>
-      <actor>Lili Taylor</actor>
-      <actor>Connor Jessup</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110080500 +0800" stop="20200110085000 +0800" channel="Fox Crime">
+  <programme start="20200109010500 +0000" stop="20200109015000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E8</title>
     <sub-title lang="en">The Whites Of His Eyes</sub-title>
     <desc lang="en">Jane worries for Lisbon's safety when the team puts itself in the line of fire to protect the witness in a murder investigation from a skilled assassin.</desc>
@@ -73598,7 +73453,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200110085000 +0800" stop="20200110093500 +0800" channel="Fox Crime">
+  <programme start="20200109015000 +0000" stop="20200109023500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E9</title>
     <sub-title lang="en">Copper Bullet</sub-title>
     <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
@@ -73614,7 +73469,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200110093500 +0800" stop="20200110102000 +0800" channel="Fox Crime">
+  <programme start="20200109023500 +0000" stop="20200109032000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E10</title>
     <sub-title lang="en">Nothing Gold Can Stay</sub-title>
     <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
@@ -73630,74 +73485,10 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200110102000 +0800" stop="20200110110500 +0800" channel="Fox Crime">
-    <title lang="en">The Mentalist S7E11</title>
-    <sub-title lang="en">Byzantium</sub-title>
-    <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
-    <credits>
-      <actor>Simon Baker</actor>
-      <actor>Robin Tunney</actor>
-      <actor>Tim Kang</actor>
-      <actor>Owain Yeoman</actor>
-      <actor>Amanda Righetti</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Detective</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110110500 +0800" stop="20200110115000 +0800" channel="Fox Crime">
-    <title lang="en">The Mentalist S7E12</title>
-    <sub-title lang="en">Brown Shag Carpet</sub-title>
-    <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
-    <credits>
-      <actor>Simon Baker</actor>
-      <actor>Robin Tunney</actor>
-      <actor>Tim Kang</actor>
-      <actor>Owain Yeoman</actor>
-      <actor>Amanda Righetti</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Detective</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110115000 +0800" stop="20200110122500 +0800" channel="Fox Crime">
-    <title lang="en">VICE S6E2</title>
-    <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
-    <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
-    <credits>
-      <actor>Shane Smith</actor>
-      <actor>Ben Anderson</actor>
-      <actor>Isobel Yeung</actor>
-      <actor>Gianna Toboni^</actor>
-    </credits>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20200110122500 +0800" stop="20200110130000 +0800" channel="Fox Crime">
-    <title lang="en">VICE S6E3</title>
-    <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
-    <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
-    <credits>
-      <actor>Shane Smith</actor>
-      <actor>Ben Anderson</actor>
-      <actor>Isobel Yeung</actor>
-      <actor>Gianna Toboni^</actor>
-    </credits>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20200110130000 +0800" stop="20200110134500 +0800" channel="Fox Crime">
-    <title lang="en">CSI Miami S10E5</title>
-    <sub-title lang="en">Killer Regrets</sub-title>
-    <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
+  <programme start="20200109032000 +0000" stop="20200109040500 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E3</title>
+    <sub-title lang="en">Blown Away</sub-title>
+    <desc lang="en">A tornado touches down on a murder scene, damaging the evidence and putting Ryan and Walter in grave danger.</desc>
     <category lang="en">TV Series</category>
     <category lang="en">Crime</category>
     <category lang="en">Western</category>
@@ -73705,10 +73496,10 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200110134500 +0800" stop="20200110143000 +0800" channel="Fox Crime">
-    <title lang="en">CSI Miami S10E6</title>
-    <sub-title lang="en">By The Book</sub-title>
-    <desc lang="en">In a deserted mansion, the CSIs find a body hanging that appears to have been killed by a vampire.</desc>
+  <programme start="20200109040500 +0000" stop="20200109045500 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E4</title>
+    <sub-title lang="en">Look Whoas Taunting</sub-title>
+    <desc lang="en">The team chases a sadistic killer who takes women's eyes, and a new nemesis challenges Horatio.</desc>
     <category lang="en">TV Series</category>
     <category lang="en">Crime</category>
     <category lang="en">Western</category>
@@ -73716,21 +73507,14 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200110143000 +0800" stop="20200110145500 +0800" channel="Fox Crime">
-    <title lang="en">COPS S31E21</title>
-    <sub-title lang="en">Formula For Disaster</sub-title>
-    <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
+  <programme start="20200109045500 +0000" stop="20200109052000 +0000" channel="Fox Crime">
+    <title lang="en">Jail: Big Texas S1E20</title>
+    <sub-title lang="en">Drunk Dunk</sub-title>
+    <desc lang="en">After falling down a flight of stairs while drunk, a young man is amazed he is in jail. An officer explains to a young man why carrying a gun-shaped knife isn't a good idea. An expectant father is arrested.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200110145500 +0800" stop="20200110152000 +0800" channel="Fox Crime">
-    <title lang="en">COPS S31E22</title>
-    <sub-title lang="en">Baby Driver</sub-title>
-    <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
-  </programme>
-  <programme start="20200110152000 +0800" stop="20200110161500 +0800" channel="Fox Crime">
+  <programme start="20200109052000 +0000" stop="20200109061500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E1</title>
     <sub-title lang="en">Raised In The System</sub-title>
     <desc lang="en">In an episode that offers a frank and unflinching look at young people caught up in the criminal justice system, Michael Kenneth Williams explores why the country's mass incarceration problem cannot be fixed without first addressing the juvenile justice problem, and investigates solutions local communities are employing that are resulting in drastic drops in crime and incarceration.</desc>
@@ -73746,7 +73530,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200110161500 +0800" stop="20200110165000 +0800" channel="Fox Crime">
+  <programme start="20200109061500 +0000" stop="20200109065000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -73762,88 +73546,28 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200110165000 +0800" stop="20200110172500 +0800" channel="Fox Crime">
-    <title lang="en">VICE S6E3</title>
-    <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
-    <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
-    <credits>
-      <actor>Shane Smith</actor>
-      <actor>Ben Anderson</actor>
-      <actor>Isobel Yeung</actor>
-      <actor>Gianna Toboni^</actor>
-    </credits>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20200110172500 +0800" stop="20200110181500 +0800" channel="Fox Crime">
-    <title lang="en">Rogue S3E18</title>
-    <sub-title lang="en">Close To Heaven</sub-title>
-    <desc lang="en">Ethan discovers Tilda's plan to kill him, but gets the upper hand, interrogates her, and learns the truth. Marty forces a captured Mia to use the flash drive. Harper deals with the aftermath of the task force being shot up.</desc>
-    <credits>
-      <actor>Cole Hauser</actor>
-      <actor>Thandie Newton</actor>
-      <actor>Sarah Jeffery</actor>
-      <actor>Ashley Greene</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110181500 +0800" stop="20200110191500 +0800" channel="Fox Crime">
-    <title lang="en">Rogue S3E19</title>
-    <sub-title lang="en">How To Treat Us</sub-title>
-    <desc lang="en">Ethan, Marty, and Mia scramble to get enough money to keep the Russian mob off their back. Harper and Patrick's investigation leads them to Tilda's dead body and Marty. Marlon fights for his relationship with Zipporah.</desc>
-    <credits>
-      <actor>Cole Hauser</actor>
-      <actor>Thandie Newton</actor>
-      <actor>Sarah Jeffery</actor>
-      <actor>Ashley Greene</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110191500 +0800" stop="20200110194000 +0800" channel="Fox Crime">
+  <programme start="20200109065000 +0000" stop="20200109071500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E20</title>
     <sub-title lang="en">Not In My Back Yard</sub-title>
     <desc lang="en">Deputies engage in a suspenseful stand-off with a wanted man. Two brothers do their best to play it cool, but police can hear what they're hiding. A petty dispute between neighbors turns serious when one resorts to revenge.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200110194000 +0800" stop="20200110200500 +0800" channel="Fox Crime">
+  <programme start="20200109071500 +0000" stop="20200109074000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E21</title>
     <sub-title lang="en">Formula For Disaster</sub-title>
     <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200110200500 +0800" stop="20200110203000 +0800" channel="Fox Crime">
+  <programme start="20200109074000 +0000" stop="20200109080500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E22</title>
     <sub-title lang="en">Baby Driver</sub-title>
     <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200110203000 +0800" stop="20200110211500 +0800" channel="Fox Crime">
-    <title lang="en">The Mentalist S7E7</title>
-    <sub-title lang="en">Little Yellow House</sub-title>
-    <desc lang="en">Lisbon and Jane go to Chicago to find Lisbon's younger brother when they find out that the Feds are looking for him because he is a potential witness in a murder.</desc>
-    <credits>
-      <actor>Simon Baker</actor>
-      <actor>Robin Tunney</actor>
-      <actor>Tim Kang</actor>
-      <actor>Owain Yeoman</actor>
-      <actor>Amanda Righetti</actor>
-    </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Detective</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-  </programme>
-  <programme start="20200110211500 +0800" stop="20200110220000 +0800" channel="Fox Crime">
+  <programme start="20200109080500 +0000" stop="20200109085000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E8</title>
     <sub-title lang="en">The Whites Of His Eyes</sub-title>
     <desc lang="en">Jane worries for Lisbon's safety when the team puts itself in the line of fire to protect the witness in a murder investigation from a skilled assassin.</desc>
@@ -73859,7 +73583,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200110220000 +0800" stop="20200110224500 +0800" channel="Fox Crime">
+  <programme start="20200109085000 +0000" stop="20200109093500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E9</title>
     <sub-title lang="en">Copper Bullet</sub-title>
     <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
@@ -73875,42 +73599,100 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200110224500 +0800" stop="20200110231000 +0800" channel="Fox Crime">
-    <title lang="en">Jail: Big Texas S1E18</title>
-    <sub-title lang="en">Panhandling Problems</sub-title>
-    <desc lang="en">Angry over her arrest, a woman becomes combative with officers. Busted once again for drugs, a smart young woman knows she is making dumb choices but can't stop using. Officers get a laugh from an arrested panhandler.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
+  <programme start="20200109093500 +0000" stop="20200109102000 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E10</title>
+    <sub-title lang="en">Nothing Gold Can Stay</sub-title>
+    <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
   </programme>
-  <programme start="20200110231000 +0800" stop="20200110233500 +0800" channel="Fox Crime">
-    <title lang="en">Jail: Big Texas S1E19</title>
-    <sub-title lang="en">Ring Swallower</sub-title>
-    <desc lang="en">Officers get seriously hands on when a man tries to swallow his ring. One man fights with his girlfriend in a bathroom, while another fights with his at home, and both are arrested for domestic violence.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality Show</category>
+  <programme start="20200109102000 +0000" stop="20200109110500 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E11</title>
+    <sub-title lang="en">Byzantium</sub-title>
+    <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
   </programme>
-  <programme start="20200110233500 +0800" stop="20200111000500 +0800" channel="Fox Crime">
+  <programme start="20200109110500 +0000" stop="20200109113000 +0000" channel="Fox Crime">
     <title lang="en">Jail: Big Texas S1E20</title>
     <sub-title lang="en">Drunk Dunk</sub-title>
     <desc lang="en">After falling down a flight of stairs while drunk, a young man is amazed he is in jail. An officer explains to a young man why carrying a gun-shaped knife isn't a good idea. An expectant father is arrested.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200111000500 +0800" stop="20200111011000 +0800" channel="Fox Crime">
-    <title lang="en">Line Of Duty S4E1</title>
-    <desc lang="en">The acclaimed police corruption drama returns for a 4th series. When DCI Roz Huntley captures a serial killer, the chief forensic investigator alerts AC-12 to a possible miscarriage of justice.</desc>
+  <programme start="20200109113000 +0000" stop="20200109122500 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E1</title>
+    <sub-title lang="en">Raised In The System</sub-title>
+    <desc lang="en">In an episode that offers a frank and unflinching look at young people caught up in the criminal justice system, Michael Kenneth Williams explores why the country's mass incarceration problem cannot be fixed without first addressing the juvenile justice problem, and investigates solutions local communities are employing that are resulting in drastic drops in crime and incarceration.</desc>
     <credits>
-      <actor>Vicky Mcclure</actor>
-      <actor>Adrian Dunbar</actor>
-      <actor>Martin Compston</actor>
-      <actor>Craig Parkinson</actor>
-      <actor>Thandie Newton</actor>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
     </credits>
-    <category lang="en">TV Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Western</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20200111011000 +0800" stop="20200111021500 +0800" channel="Fox Crime">
+  <programme start="20200109122500 +0000" stop="20200109130000 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E2</title>
+    <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
+    <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109130000 +0000" stop="20200109134500 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E4</title>
+    <sub-title lang="en">Look Whoas Taunting</sub-title>
+    <desc lang="en">The team chases a sadistic killer who takes women's eyes, and a new nemesis challenges Horatio.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109134500 +0000" stop="20200109143000 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E5</title>
+    <sub-title lang="en">Killer Regrets</sub-title>
+    <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109143000 +0000" stop="20200109153500 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E2</title>
     <desc lang="en">A dismembered body is discovered, and worries grow when DCI Roz Huntley fails to report for duty. AC-12 crank up their investigation into Operation Trapdoor, concerned that Michael Farmer will go to jail for crimes he didn't commit. With suspicions that Roz may have withheld crucial evidence, a new DCI is drafted in to run Operation Trapdoor. Kate makes progress in her undercover role, but AC 12's investigation falters when they realise that their main informant, forensic investigator Tim Ifield, has also gone missing...</desc>
     <credits>
@@ -73924,23 +73706,302 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111021500 +0800" stop="20200111030000 +0800" channel="Fox Crime">
-    <title lang="en">American Crime S3E6</title>
-    <desc lang="en">Nicholas and Clair's marriage reaches a new level of dispair; Jeanette adjusts to being on her own and Shae's frustrations come to a head.</desc>
+  <programme start="20200109153500 +0000" stop="20200109163000 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E1</title>
+    <sub-title lang="en">Raised In The System</sub-title>
+    <desc lang="en">In an episode that offers a frank and unflinching look at young people caught up in the criminal justice system, Michael Kenneth Williams explores why the country's mass incarceration problem cannot be fixed without first addressing the juvenile justice problem, and investigates solutions local communities are employing that are resulting in drastic drops in crime and incarceration.</desc>
     <credits>
-      <director>So Yong Kim</director>
-      <director>Julie Ha(C)Bert</director>
-      <actor>Felicity Huffman</actor>
-      <actor>Regina King</actor>
-      <actor>Timothy Hutton</actor>
-      <actor>Lili Taylor</actor>
-      <actor>Connor Jessup</actor>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109163000 +0000" stop="20200109170500 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E2</title>
+    <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
+    <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109170500 +0000" stop="20200109175000 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E3</title>
+    <sub-title lang="en">Blown Away</sub-title>
+    <desc lang="en">A tornado touches down on a murder scene, damaging the evidence and putting Ryan and Walter in grave danger.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109175000 +0000" stop="20200109183500 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E4</title>
+    <sub-title lang="en">Look Whoas Taunting</sub-title>
+    <desc lang="en">The team chases a sadistic killer who takes women's eyes, and a new nemesis challenges Horatio.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109183500 +0000" stop="20200109192000 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E5</title>
+    <sub-title lang="en">Killer Regrets</sub-title>
+    <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109192000 +0000" stop="20200109200500 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E9</title>
+    <sub-title lang="en">Copper Bullet</sub-title>
+    <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
     </credits>
     <category lang="en">TV Series</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111030000 +0800" stop="20200111034500 +0800" channel="Fox Crime">
+  <programme start="20200109200500 +0000" stop="20200109205000 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E10</title>
+    <sub-title lang="en">Nothing Gold Can Stay</sub-title>
+    <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200109205000 +0000" stop="20200109213500 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E11</title>
+    <sub-title lang="en">Byzantium</sub-title>
+    <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200109213500 +0000" stop="20200109223000 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E1</title>
+    <sub-title lang="en">Raised In The System</sub-title>
+    <desc lang="en">In an episode that offers a frank and unflinching look at young people caught up in the criminal justice system, Michael Kenneth Williams explores why the country's mass incarceration problem cannot be fixed without first addressing the juvenile justice problem, and investigates solutions local communities are employing that are resulting in drastic drops in crime and incarceration.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109223000 +0000" stop="20200109230500 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E2</title>
+    <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
+    <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109230500 +0000" stop="20200109234000 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E3</title>
+    <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
+    <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200109234000 +0000" stop="20200110000500 +0000" channel="Fox Crime">
+    <title lang="en">COPS S31E20</title>
+    <sub-title lang="en">Not In My Back Yard</sub-title>
+    <desc lang="en">Deputies engage in a suspenseful stand-off with a wanted man. Two brothers do their best to play it cool, but police can hear what they're hiding. A petty dispute between neighbors turns serious when one resorts to revenge.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110000500 +0000" stop="20200110003000 +0000" channel="Fox Crime">
+    <title lang="en">COPS S31E21</title>
+    <sub-title lang="en">Formula For Disaster</sub-title>
+    <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110003000 +0000" stop="20200110005500 +0000" channel="Fox Crime">
+    <title lang="en">COPS S31E22</title>
+    <sub-title lang="en">Baby Driver</sub-title>
+    <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110005500 +0000" stop="20200110014000 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E9</title>
+    <sub-title lang="en">Copper Bullet</sub-title>
+    <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110014000 +0000" stop="20200110022500 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E10</title>
+    <sub-title lang="en">Nothing Gold Can Stay</sub-title>
+    <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110022500 +0000" stop="20200110031000 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E11</title>
+    <sub-title lang="en">Byzantium</sub-title>
+    <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110031000 +0000" stop="20200110035500 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E3</title>
+    <sub-title lang="en">Blown Away</sub-title>
+    <desc lang="en">A tornado touches down on a murder scene, damaging the evidence and putting Ryan and Walter in grave danger.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110035500 +0000" stop="20200110044000 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E4</title>
+    <sub-title lang="en">Look Whoas Taunting</sub-title>
+    <desc lang="en">The team chases a sadistic killer who takes women's eyes, and a new nemesis challenges Horatio.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110044000 +0000" stop="20200110052500 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E5</title>
+    <sub-title lang="en">Killer Regrets</sub-title>
+    <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110052500 +0000" stop="20200110060000 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E2</title>
+    <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
+    <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110060000 +0000" stop="20200110063500 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E3</title>
+    <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
+    <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110063500 +0000" stop="20200110072000 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E7</title>
     <desc lang="en">In the days following a fatal altercation in the webcam house, Dustin reaches out to Kimara for help, realizing he is no longer safe. Kimara struggles with the burden of a difficult moral choice and decides to take time off of work at her shelter. Meanwhile, Nicholas and Clair's volatile marriage continues to unravel, which in turn makes Gabrielle commit an ill-conceived act based on fear for her life. Jeanette becomes alarmed when Raelyn overreacts to a random drug test request.</desc>
     <credits>
@@ -73956,7 +74017,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111034500 +0800" stop="20200111043000 +0800" channel="Fox Crime">
+  <programme start="20200110072000 +0000" stop="20200110080500 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E8</title>
     <desc lang="en">Kimara advises Dustin to inform the police about the crime that took place in the webcam house, which leads to an unforeseen outcome. Meanwhile, detectives open up a troubling investigation into Clair and Nicholas, who maintain their innocence and contend that Gabrielle is the guilty party. Jeanette must confront and consider the costs and sacrifices of social change.</desc>
     <credits>
@@ -73972,7 +74033,397 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111043000 +0800" stop="20200111052000 +0800" channel="Fox Crime">
+  <programme start="20200110080500 +0000" stop="20200110085000 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E8</title>
+    <sub-title lang="en">The Whites Of His Eyes</sub-title>
+    <desc lang="en">Jane worries for Lisbon's safety when the team puts itself in the line of fire to protect the witness in a murder investigation from a skilled assassin.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110085000 +0000" stop="20200110093500 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E9</title>
+    <sub-title lang="en">Copper Bullet</sub-title>
+    <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110093500 +0000" stop="20200110102000 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E10</title>
+    <sub-title lang="en">Nothing Gold Can Stay</sub-title>
+    <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110102000 +0000" stop="20200110110500 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E11</title>
+    <sub-title lang="en">Byzantium</sub-title>
+    <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110110500 +0000" stop="20200110115000 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E12</title>
+    <sub-title lang="en">Brown Shag Carpet</sub-title>
+    <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110115000 +0000" stop="20200110122500 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E2</title>
+    <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
+    <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110122500 +0000" stop="20200110130000 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E3</title>
+    <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
+    <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110130000 +0000" stop="20200110134500 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E5</title>
+    <sub-title lang="en">Killer Regrets</sub-title>
+    <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110134500 +0000" stop="20200110143000 +0000" channel="Fox Crime">
+    <title lang="en">CSI Miami S10E6</title>
+    <sub-title lang="en">By The Book</sub-title>
+    <desc lang="en">In a deserted mansion, the CSIs find a body hanging that appears to have been killed by a vampire.</desc>
+    <category lang="en">TV Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Western</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110143000 +0000" stop="20200110145500 +0000" channel="Fox Crime">
+    <title lang="en">COPS S31E21</title>
+    <sub-title lang="en">Formula For Disaster</sub-title>
+    <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110145500 +0000" stop="20200110152000 +0000" channel="Fox Crime">
+    <title lang="en">COPS S31E22</title>
+    <sub-title lang="en">Baby Driver</sub-title>
+    <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110152000 +0000" stop="20200110161500 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E1</title>
+    <sub-title lang="en">Raised In The System</sub-title>
+    <desc lang="en">In an episode that offers a frank and unflinching look at young people caught up in the criminal justice system, Michael Kenneth Williams explores why the country's mass incarceration problem cannot be fixed without first addressing the juvenile justice problem, and investigates solutions local communities are employing that are resulting in drastic drops in crime and incarceration.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110161500 +0000" stop="20200110165000 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E2</title>
+    <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
+    <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110165000 +0000" stop="20200110172500 +0000" channel="Fox Crime">
+    <title lang="en">VICE S6E3</title>
+    <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
+    <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
+    <credits>
+      <actor>Shane Smith</actor>
+      <actor>Ben Anderson</actor>
+      <actor>Isobel Yeung</actor>
+      <actor>Gianna Toboni^</actor>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200110172500 +0000" stop="20200110181500 +0000" channel="Fox Crime">
+    <title lang="en">Rogue S3E18</title>
+    <sub-title lang="en">Close To Heaven</sub-title>
+    <desc lang="en">Ethan discovers Tilda's plan to kill him, but gets the upper hand, interrogates her, and learns the truth. Marty forces a captured Mia to use the flash drive. Harper deals with the aftermath of the task force being shot up.</desc>
+    <credits>
+      <actor>Cole Hauser</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Sarah Jeffery</actor>
+      <actor>Ashley Greene</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110181500 +0000" stop="20200110191500 +0000" channel="Fox Crime">
+    <title lang="en">Rogue S3E19</title>
+    <sub-title lang="en">How To Treat Us</sub-title>
+    <desc lang="en">Ethan, Marty, and Mia scramble to get enough money to keep the Russian mob off their back. Harper and Patrick's investigation leads them to Tilda's dead body and Marty. Marlon fights for his relationship with Zipporah.</desc>
+    <credits>
+      <actor>Cole Hauser</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Sarah Jeffery</actor>
+      <actor>Ashley Greene</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110191500 +0000" stop="20200110194000 +0000" channel="Fox Crime">
+    <title lang="en">COPS S31E20</title>
+    <sub-title lang="en">Not In My Back Yard</sub-title>
+    <desc lang="en">Deputies engage in a suspenseful stand-off with a wanted man. Two brothers do their best to play it cool, but police can hear what they're hiding. A petty dispute between neighbors turns serious when one resorts to revenge.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110194000 +0000" stop="20200110200500 +0000" channel="Fox Crime">
+    <title lang="en">COPS S31E21</title>
+    <sub-title lang="en">Formula For Disaster</sub-title>
+    <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110200500 +0000" stop="20200110203000 +0000" channel="Fox Crime">
+    <title lang="en">COPS S31E22</title>
+    <sub-title lang="en">Baby Driver</sub-title>
+    <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110203000 +0000" stop="20200110211500 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E7</title>
+    <sub-title lang="en">Little Yellow House</sub-title>
+    <desc lang="en">Lisbon and Jane go to Chicago to find Lisbon's younger brother when they find out that the Feds are looking for him because he is a potential witness in a murder.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110211500 +0000" stop="20200110220000 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E8</title>
+    <sub-title lang="en">The Whites Of His Eyes</sub-title>
+    <desc lang="en">Jane worries for Lisbon's safety when the team puts itself in the line of fire to protect the witness in a murder investigation from a skilled assassin.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110220000 +0000" stop="20200110224500 +0000" channel="Fox Crime">
+    <title lang="en">The Mentalist S7E9</title>
+    <sub-title lang="en">Copper Bullet</sub-title>
+    <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200110224500 +0000" stop="20200110231000 +0000" channel="Fox Crime">
+    <title lang="en">Jail: Big Texas S1E18</title>
+    <sub-title lang="en">Panhandling Problems</sub-title>
+    <desc lang="en">Angry over her arrest, a woman becomes combative with officers. Busted once again for drugs, a smart young woman knows she is making dumb choices but can't stop using. Officers get a laugh from an arrested panhandler.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110231000 +0000" stop="20200110233500 +0000" channel="Fox Crime">
+    <title lang="en">Jail: Big Texas S1E19</title>
+    <sub-title lang="en">Ring Swallower</sub-title>
+    <desc lang="en">Officers get seriously hands on when a man tries to swallow his ring. One man fights with his girlfriend in a bathroom, while another fights with his at home, and both are arrested for domestic violence.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200110233500 +0000" stop="20200111000500 +0000" channel="Fox Crime">
+    <title lang="en">Jail: Big Texas S1E20</title>
+    <sub-title lang="en">Drunk Dunk</sub-title>
+    <desc lang="en">After falling down a flight of stairs while drunk, a young man is amazed he is in jail. An officer explains to a young man why carrying a gun-shaped knife isn't a good idea. An expectant father is arrested.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality Show</category>
+  </programme>
+  <programme start="20200111000500 +0000" stop="20200111011000 +0000" channel="Fox Crime">
+    <title lang="en">Line Of Duty S4E1</title>
+    <desc lang="en">The acclaimed police corruption drama returns for a 4th series. When DCI Roz Huntley captures a serial killer, the chief forensic investigator alerts AC-12 to a possible miscarriage of justice.</desc>
+    <credits>
+      <actor>Vicky Mcclure</actor>
+      <actor>Adrian Dunbar</actor>
+      <actor>Martin Compston</actor>
+      <actor>Craig Parkinson</actor>
+      <actor>Thandie Newton</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200111011000 +0000" stop="20200111021500 +0000" channel="Fox Crime">
+    <title lang="en">Line Of Duty S4E2</title>
+    <desc lang="en">A dismembered body is discovered, and worries grow when DCI Roz Huntley fails to report for duty. AC-12 crank up their investigation into Operation Trapdoor, concerned that Michael Farmer will go to jail for crimes he didn't commit. With suspicions that Roz may have withheld crucial evidence, a new DCI is drafted in to run Operation Trapdoor. Kate makes progress in her undercover role, but AC 12's investigation falters when they realise that their main informant, forensic investigator Tim Ifield, has also gone missing...</desc>
+    <credits>
+      <actor>Vicky Mcclure</actor>
+      <actor>Adrian Dunbar</actor>
+      <actor>Martin Compston</actor>
+      <actor>Craig Parkinson</actor>
+      <actor>Thandie Newton</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200111021500 +0000" stop="20200111030000 +0000" channel="Fox Crime">
+    <title lang="en">American Crime S3E6</title>
+    <desc lang="en">Nicholas and Clair's marriage reaches a new level of dispair; Jeanette adjusts to being on her own and Shae's frustrations come to a head.</desc>
+    <credits>
+      <director>So Yong Kim</director>
+      <director>Julie Ha(C)Bert</director>
+      <actor>Felicity Huffman</actor>
+      <actor>Regina King</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Lili Taylor</actor>
+      <actor>Connor Jessup</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200111030000 +0000" stop="20200111034500 +0000" channel="Fox Crime">
+    <title lang="en">American Crime S3E7</title>
+    <desc lang="en">In the days following a fatal altercation in the webcam house, Dustin reaches out to Kimara for help, realizing he is no longer safe. Kimara struggles with the burden of a difficult moral choice and decides to take time off of work at her shelter. Meanwhile, Nicholas and Clair's volatile marriage continues to unravel, which in turn makes Gabrielle commit an ill-conceived act based on fear for her life. Jeanette becomes alarmed when Raelyn overreacts to a random drug test request.</desc>
+    <credits>
+      <director>So Yong Kim</director>
+      <director>Julie Ha(C)Bert</director>
+      <actor>Felicity Huffman</actor>
+      <actor>Regina King</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Lili Taylor</actor>
+      <actor>Connor Jessup</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200111034500 +0000" stop="20200111043000 +0000" channel="Fox Crime">
+    <title lang="en">American Crime S3E8</title>
+    <desc lang="en">Kimara advises Dustin to inform the police about the crime that took place in the webcam house, which leads to an unforeseen outcome. Meanwhile, detectives open up a troubling investigation into Clair and Nicholas, who maintain their innocence and contend that Gabrielle is the guilty party. Jeanette must confront and consider the costs and sacrifices of social change.</desc>
+    <credits>
+      <director>So Yong Kim</director>
+      <director>Julie Ha(C)Bert</director>
+      <actor>Felicity Huffman</actor>
+      <actor>Regina King</actor>
+      <actor>Timothy Hutton</actor>
+      <actor>Lili Taylor</actor>
+      <actor>Connor Jessup</actor>
+    </credits>
+    <category lang="en">TV Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Western</category>
+  </programme>
+  <programme start="20200111043000 +0000" stop="20200111052000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E1</title>
     <sub-title lang="en">Countermeasures</sub-title>
     <desc lang="en">Horatio and Natalia's lives hang in the balance, as Horatio stands between Natalia and certain death.</desc>
@@ -73983,7 +74434,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200111052000 +0800" stop="20200111061000 +0800" channel="Fox Crime">
+  <programme start="20200111052000 +0000" stop="20200111061000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E2</title>
     <sub-title lang="en">Stiff</sub-title>
     <desc lang="en">The CSIs are led into the sexy world of male gigolos when they uncover an unusual murder weapon.</desc>
@@ -73994,7 +74445,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200111061000 +0800" stop="20200111065500 +0800" channel="Fox Crime">
+  <programme start="20200111061000 +0000" stop="20200111065500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E3</title>
     <sub-title lang="en">Blown Away</sub-title>
     <desc lang="en">A tornado touches down on a murder scene, damaging the evidence and putting Ryan and Walter in grave danger.</desc>
@@ -74005,21 +74456,21 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200111065500 +0800" stop="20200111072000 +0800" channel="Fox Crime">
+  <programme start="20200111065500 +0000" stop="20200111072000 +0000" channel="Fox Crime">
     <title lang="en">Jail: Big Texas S1E19</title>
     <sub-title lang="en">Ring Swallower</sub-title>
     <desc lang="en">Officers get seriously hands on when a man tries to swallow his ring. One man fights with his girlfriend in a bathroom, while another fights with his at home, and both are arrested for domestic violence.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200111072000 +0800" stop="20200111075000 +0800" channel="Fox Crime">
+  <programme start="20200111072000 +0000" stop="20200111075000 +0000" channel="Fox Crime">
     <title lang="en">Jail: Big Texas S1E20</title>
     <sub-title lang="en">Drunk Dunk</sub-title>
     <desc lang="en">After falling down a flight of stairs while drunk, a young man is amazed he is in jail. An officer explains to a young man why carrying a gun-shaped knife isn't a good idea. An expectant father is arrested.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200111075000 +0800" stop="20200111083500 +0800" channel="Fox Crime">
+  <programme start="20200111075000 +0000" stop="20200111083500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E4</title>
     <sub-title lang="en">Black Market</sub-title>
     <desc lang="en">In order to find a group of jewel thieves, Lisbon must channel her inner Patrick, who is too sick to investigate. Abbott discovers that his past actions could cost his wife a promotion in Washington.</desc>
@@ -74035,7 +74486,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111083500 +0800" stop="20200111092000 +0800" channel="Fox Crime">
+  <programme start="20200111083500 +0000" stop="20200111092000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E6</title>
     <sub-title lang="en">Green Light</sub-title>
     <desc lang="en">Abbott's old colleague from the DEA asks for help to find out who got one of his agents killed, but he then tries to blackmail Abbott so that he can take all of the credit.</desc>
@@ -74051,7 +74502,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111092000 +0800" stop="20200111100500 +0800" channel="Fox Crime">
+  <programme start="20200111092000 +0000" stop="20200111100500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E7</title>
     <sub-title lang="en">Little Yellow House</sub-title>
     <desc lang="en">Lisbon and Jane go to Chicago to find Lisbon's younger brother when they find out that the Feds are looking for him because he is a potential witness in a murder.</desc>
@@ -74067,7 +74518,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111100500 +0800" stop="20200111105000 +0800" channel="Fox Crime">
+  <programme start="20200111100500 +0000" stop="20200111105000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E8</title>
     <sub-title lang="en">The Whites Of His Eyes</sub-title>
     <desc lang="en">Jane worries for Lisbon's safety when the team puts itself in the line of fire to protect the witness in a murder investigation from a skilled assassin.</desc>
@@ -74083,7 +74534,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111105000 +0800" stop="20200111113500 +0800" channel="Fox Crime">
+  <programme start="20200111105000 +0000" stop="20200111113500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E9</title>
     <sub-title lang="en">Copper Bullet</sub-title>
     <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
@@ -74099,7 +74550,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111113500 +0800" stop="20200111124000 +0800" channel="Fox Crime">
+  <programme start="20200111113500 +0000" stop="20200111124000 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E2</title>
     <desc lang="en">A dismembered body is discovered, and worries grow when DCI Roz Huntley fails to report for duty. AC-12 crank up their investigation into Operation Trapdoor, concerned that Michael Farmer will go to jail for crimes he didn't commit. With suspicions that Roz may have withheld crucial evidence, a new DCI is drafted in to run Operation Trapdoor. Kate makes progress in her undercover role, but AC 12's investigation falters when they realise that their main informant, forensic investigator Tim Ifield, has also gone missing...</desc>
     <credits>
@@ -74113,7 +74564,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111124000 +0800" stop="20200111133000 +0800" channel="Fox Crime">
+  <programme start="20200111124000 +0000" stop="20200111133000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E18</title>
     <sub-title lang="en">Close To Heaven</sub-title>
     <desc lang="en">Ethan discovers Tilda's plan to kill him, but gets the upper hand, interrogates her, and learns the truth. Marty forces a captured Mia to use the flash drive. Harper deals with the aftermath of the task force being shot up.</desc>
@@ -74127,7 +74578,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111133000 +0800" stop="20200111143000 +0800" channel="Fox Crime">
+  <programme start="20200111133000 +0000" stop="20200111143000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E19</title>
     <sub-title lang="en">How To Treat Us</sub-title>
     <desc lang="en">Ethan, Marty, and Mia scramble to get enough money to keep the Russian mob off their back. Harper and Patrick's investigation leads them to Tilda's dead body and Marty. Marlon fights for his relationship with Zipporah.</desc>
@@ -74141,7 +74592,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111143000 +0800" stop="20200111151500 +0800" channel="Fox Crime">
+  <programme start="20200111143000 +0000" stop="20200111151500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E1</title>
     <sub-title lang="en">Countermeasures</sub-title>
     <desc lang="en">Horatio and Natalia's lives hang in the balance, as Horatio stands between Natalia and certain death.</desc>
@@ -74152,7 +74603,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200111151500 +0800" stop="20200111160500 +0800" channel="Fox Crime">
+  <programme start="20200111151500 +0000" stop="20200111160500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E2</title>
     <sub-title lang="en">Stiff</sub-title>
     <desc lang="en">The CSIs are led into the sexy world of male gigolos when they uncover an unusual murder weapon.</desc>
@@ -74163,7 +74614,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200111160500 +0800" stop="20200111165000 +0800" channel="Fox Crime">
+  <programme start="20200111160500 +0000" stop="20200111165000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E3</title>
     <sub-title lang="en">Blown Away</sub-title>
     <desc lang="en">A tornado touches down on a murder scene, damaging the evidence and putting Ryan and Walter in grave danger.</desc>
@@ -74174,7 +74625,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200111165000 +0800" stop="20200111173500 +0800" channel="Fox Crime">
+  <programme start="20200111165000 +0000" stop="20200111173500 +0000" channel="Fox Crime">
     <title lang="en">Prime Suspect 1973 E6</title>
     <desc lang="en">Time is running out in the hunt for Julie Ann's murderer. Meanwhile Jane and the team have to deal with the fallout from the Bentleys' bank heist. Will things at the station ever be the same again?</desc>
     <credits>
@@ -74187,7 +74638,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111173500 +0800" stop="20200111184000 +0800" channel="Fox Crime">
+  <programme start="20200111173500 +0000" stop="20200111184000 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E1</title>
     <desc lang="en">The acclaimed police corruption drama returns for a 4th series. When DCI Roz Huntley captures a serial killer, the chief forensic investigator alerts AC-12 to a possible miscarriage of justice.</desc>
     <credits>
@@ -74201,7 +74652,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111184000 +0800" stop="20200111194500 +0800" channel="Fox Crime">
+  <programme start="20200111184000 +0000" stop="20200111194500 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E2</title>
     <desc lang="en">A dismembered body is discovered, and worries grow when DCI Roz Huntley fails to report for duty. AC-12 crank up their investigation into Operation Trapdoor, concerned that Michael Farmer will go to jail for crimes he didn't commit. With suspicions that Roz may have withheld crucial evidence, a new DCI is drafted in to run Operation Trapdoor. Kate makes progress in her undercover role, but AC 12's investigation falters when they realise that their main informant, forensic investigator Tim Ifield, has also gone missing...</desc>
     <credits>
@@ -74215,7 +74666,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111194500 +0800" stop="20200111203000 +0800" channel="Fox Crime">
+  <programme start="20200111194500 +0000" stop="20200111203000 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E6</title>
     <desc lang="en">Nicholas and Clair's marriage reaches a new level of dispair; Jeanette adjusts to being on her own and Shae's frustrations come to a head.</desc>
     <credits>
@@ -74231,7 +74682,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111203000 +0800" stop="20200111211500 +0800" channel="Fox Crime">
+  <programme start="20200111203000 +0000" stop="20200111211500 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E7</title>
     <desc lang="en">In the days following a fatal altercation in the webcam house, Dustin reaches out to Kimara for help, realizing he is no longer safe. Kimara struggles with the burden of a difficult moral choice and decides to take time off of work at her shelter. Meanwhile, Nicholas and Clair's volatile marriage continues to unravel, which in turn makes Gabrielle commit an ill-conceived act based on fear for her life. Jeanette becomes alarmed when Raelyn overreacts to a random drug test request.</desc>
     <credits>
@@ -74247,7 +74698,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111211500 +0800" stop="20200111220000 +0800" channel="Fox Crime">
+  <programme start="20200111211500 +0000" stop="20200111220000 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E8</title>
     <desc lang="en">Kimara advises Dustin to inform the police about the crime that took place in the webcam house, which leads to an unforeseen outcome. Meanwhile, detectives open up a troubling investigation into Clair and Nicholas, who maintain their innocence and contend that Gabrielle is the guilty party. Jeanette must confront and consider the costs and sacrifices of social change.</desc>
     <credits>
@@ -74263,7 +74714,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111220000 +0800" stop="20200111224500 +0800" channel="Fox Crime">
+  <programme start="20200111220000 +0000" stop="20200111224500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E10</title>
     <sub-title lang="en">Nothing Gold Can Stay</sub-title>
     <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
@@ -74279,7 +74730,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111224500 +0800" stop="20200111233000 +0800" channel="Fox Crime">
+  <programme start="20200111224500 +0000" stop="20200111233000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E11</title>
     <sub-title lang="en">Byzantium</sub-title>
     <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
@@ -74295,7 +74746,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200111233000 +0800" stop="20200112001500 +0800" channel="Fox Crime">
+  <programme start="20200111233000 +0000" stop="20200112001500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E12</title>
     <sub-title lang="en">Brown Shag Carpet</sub-title>
     <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
@@ -74311,7 +74762,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112001500 +0800" stop="20200112005000 +0800" channel="Fox Crime">
+  <programme start="20200112001500 +0000" stop="20200112005000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -74327,7 +74778,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112005000 +0800" stop="20200112012500 +0800" channel="Fox Crime">
+  <programme start="20200112005000 +0000" stop="20200112012500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -74343,28 +74794,28 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112012500 +0800" stop="20200112015000 +0800" channel="Fox Crime">
+  <programme start="20200112012500 +0000" stop="20200112015000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E20</title>
     <sub-title lang="en">Not In My Back Yard</sub-title>
     <desc lang="en">Deputies engage in a suspenseful stand-off with a wanted man. Two brothers do their best to play it cool, but police can hear what they're hiding. A petty dispute between neighbors turns serious when one resorts to revenge.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200112015000 +0800" stop="20200112021500 +0800" channel="Fox Crime">
+  <programme start="20200112015000 +0000" stop="20200112021500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E21</title>
     <sub-title lang="en">Formula For Disaster</sub-title>
     <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200112021500 +0800" stop="20200112024000 +0800" channel="Fox Crime">
+  <programme start="20200112021500 +0000" stop="20200112024000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E22</title>
     <sub-title lang="en">Baby Driver</sub-title>
     <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200112024000 +0800" stop="20200112033000 +0800" channel="Fox Crime">
+  <programme start="20200112024000 +0000" stop="20200112033000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E18</title>
     <sub-title lang="en">Close To Heaven</sub-title>
     <desc lang="en">Ethan discovers Tilda's plan to kill him, but gets the upper hand, interrogates her, and learns the truth. Marty forces a captured Mia to use the flash drive. Harper deals with the aftermath of the task force being shot up.</desc>
@@ -74378,7 +74829,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112033000 +0800" stop="20200112043000 +0800" channel="Fox Crime">
+  <programme start="20200112033000 +0000" stop="20200112043000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E19</title>
     <sub-title lang="en">How To Treat Us</sub-title>
     <desc lang="en">Ethan, Marty, and Mia scramble to get enough money to keep the Russian mob off their back. Harper and Patrick's investigation leads them to Tilda's dead body and Marty. Marlon fights for his relationship with Zipporah.</desc>
@@ -74392,7 +74843,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112043000 +0800" stop="20200112051500 +0800" channel="Fox Crime">
+  <programme start="20200112043000 +0000" stop="20200112051500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E3</title>
     <sub-title lang="en">Blown Away</sub-title>
     <desc lang="en">A tornado touches down on a murder scene, damaging the evidence and putting Ryan and Walter in grave danger.</desc>
@@ -74403,7 +74854,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112051500 +0800" stop="20200112060500 +0800" channel="Fox Crime">
+  <programme start="20200112051500 +0000" stop="20200112060500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E4</title>
     <sub-title lang="en">Look Whoas Taunting</sub-title>
     <desc lang="en">The team chases a sadistic killer who takes women's eyes, and a new nemesis challenges Horatio.</desc>
@@ -74414,7 +74865,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112060500 +0800" stop="20200112065000 +0800" channel="Fox Crime">
+  <programme start="20200112060500 +0000" stop="20200112065000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E5</title>
     <sub-title lang="en">Killer Regrets</sub-title>
     <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
@@ -74425,7 +74876,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112065000 +0800" stop="20200112072500 +0800" channel="Fox Crime">
+  <programme start="20200112065000 +0000" stop="20200112072500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -74441,7 +74892,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112072500 +0800" stop="20200112080000 +0800" channel="Fox Crime">
+  <programme start="20200112072500 +0000" stop="20200112080000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -74457,7 +74908,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112080000 +0800" stop="20200112084500 +0800" channel="Fox Crime">
+  <programme start="20200112080000 +0000" stop="20200112084500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E8</title>
     <sub-title lang="en">The Whites Of His Eyes</sub-title>
     <desc lang="en">Jane worries for Lisbon's safety when the team puts itself in the line of fire to protect the witness in a murder investigation from a skilled assassin.</desc>
@@ -74473,7 +74924,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112084500 +0800" stop="20200112093000 +0800" channel="Fox Crime">
+  <programme start="20200112084500 +0000" stop="20200112093000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E9</title>
     <sub-title lang="en">Copper Bullet</sub-title>
     <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
@@ -74489,7 +74940,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112093000 +0800" stop="20200112101500 +0800" channel="Fox Crime">
+  <programme start="20200112093000 +0000" stop="20200112101500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E10</title>
     <sub-title lang="en">Nothing Gold Can Stay</sub-title>
     <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
@@ -74505,7 +74956,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112101500 +0800" stop="20200112110000 +0800" channel="Fox Crime">
+  <programme start="20200112101500 +0000" stop="20200112110000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E11</title>
     <sub-title lang="en">Byzantium</sub-title>
     <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
@@ -74521,7 +74972,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112110000 +0800" stop="20200112114500 +0800" channel="Fox Crime">
+  <programme start="20200112110000 +0000" stop="20200112114500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E12</title>
     <sub-title lang="en">Brown Shag Carpet</sub-title>
     <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
@@ -74537,7 +74988,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112114500 +0800" stop="20200112123000 +0800" channel="Fox Crime">
+  <programme start="20200112114500 +0000" stop="20200112123000 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E7</title>
     <desc lang="en">In the days following a fatal altercation in the webcam house, Dustin reaches out to Kimara for help, realizing he is no longer safe. Kimara struggles with the burden of a difficult moral choice and decides to take time off of work at her shelter. Meanwhile, Nicholas and Clair's volatile marriage continues to unravel, which in turn makes Gabrielle commit an ill-conceived act based on fear for her life. Jeanette becomes alarmed when Raelyn overreacts to a random drug test request.</desc>
     <credits>
@@ -74553,7 +75004,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112123000 +0800" stop="20200112131500 +0800" channel="Fox Crime">
+  <programme start="20200112123000 +0000" stop="20200112131500 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E8</title>
     <desc lang="en">Kimara advises Dustin to inform the police about the crime that took place in the webcam house, which leads to an unforeseen outcome. Meanwhile, detectives open up a troubling investigation into Clair and Nicholas, who maintain their innocence and contend that Gabrielle is the guilty party. Jeanette must confront and consider the costs and sacrifices of social change.</desc>
     <credits>
@@ -74569,28 +75020,28 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112131500 +0800" stop="20200112134000 +0800" channel="Fox Crime">
+  <programme start="20200112131500 +0000" stop="20200112134000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E20</title>
     <sub-title lang="en">Not In My Back Yard</sub-title>
     <desc lang="en">Deputies engage in a suspenseful stand-off with a wanted man. Two brothers do their best to play it cool, but police can hear what they're hiding. A petty dispute between neighbors turns serious when one resorts to revenge.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200112134000 +0800" stop="20200112140500 +0800" channel="Fox Crime">
+  <programme start="20200112134000 +0000" stop="20200112140500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E21</title>
     <sub-title lang="en">Formula For Disaster</sub-title>
     <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200112140500 +0800" stop="20200112143000 +0800" channel="Fox Crime">
+  <programme start="20200112140500 +0000" stop="20200112143000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E22</title>
     <sub-title lang="en">Baby Driver</sub-title>
     <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200112143000 +0800" stop="20200112151500 +0800" channel="Fox Crime">
+  <programme start="20200112143000 +0000" stop="20200112151500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E3</title>
     <sub-title lang="en">Blown Away</sub-title>
     <desc lang="en">A tornado touches down on a murder scene, damaging the evidence and putting Ryan and Walter in grave danger.</desc>
@@ -74601,7 +75052,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112151500 +0800" stop="20200112160000 +0800" channel="Fox Crime">
+  <programme start="20200112151500 +0000" stop="20200112160000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E4</title>
     <sub-title lang="en">Look Whoas Taunting</sub-title>
     <desc lang="en">The team chases a sadistic killer who takes women's eyes, and a new nemesis challenges Horatio.</desc>
@@ -74612,7 +75063,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112160000 +0800" stop="20200112164500 +0800" channel="Fox Crime">
+  <programme start="20200112160000 +0000" stop="20200112164500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E5</title>
     <sub-title lang="en">Killer Regrets</sub-title>
     <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
@@ -74623,7 +75074,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112164500 +0800" stop="20200112173000 +0800" channel="Fox Crime">
+  <programme start="20200112164500 +0000" stop="20200112173000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E9</title>
     <sub-title lang="en">Copper Bullet</sub-title>
     <desc lang="en">Agent Peterson plans to use the information he has against Abbott to block his wife's nomination, so Patrick and the rest of the unit launches a plan to save him.</desc>
@@ -74639,7 +75090,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112173000 +0800" stop="20200112181500 +0800" channel="Fox Crime">
+  <programme start="20200112173000 +0000" stop="20200112181500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E10</title>
     <sub-title lang="en">Nothing Gold Can Stay</sub-title>
     <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
@@ -74655,7 +75106,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112181500 +0800" stop="20200112190000 +0800" channel="Fox Crime">
+  <programme start="20200112181500 +0000" stop="20200112190000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E11</title>
     <sub-title lang="en">Byzantium</sub-title>
     <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
@@ -74671,7 +75122,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112190000 +0800" stop="20200112194500 +0800" channel="Fox Crime">
+  <programme start="20200112190000 +0000" stop="20200112194500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E12</title>
     <sub-title lang="en">Brown Shag Carpet</sub-title>
     <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
@@ -74687,14 +75138,14 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112194500 +0800" stop="20200112201000 +0800" channel="Fox Crime">
+  <programme start="20200112194500 +0000" stop="20200112201000 +0000" channel="Fox Crime">
     <title lang="en">Jail: Big Texas S1E20</title>
     <sub-title lang="en">Drunk Dunk</sub-title>
     <desc lang="en">After falling down a flight of stairs while drunk, a young man is amazed he is in jail. An officer explains to a young man why carrying a gun-shaped knife isn't a good idea. An expectant father is arrested.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200112201000 +0800" stop="20200112210500 +0800" channel="Fox Crime">
+  <programme start="20200112201000 +0000" stop="20200112210500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E1</title>
     <sub-title lang="en">Raised In The System</sub-title>
     <desc lang="en">In an episode that offers a frank and unflinching look at young people caught up in the criminal justice system, Michael Kenneth Williams explores why the country's mass incarceration problem cannot be fixed without first addressing the juvenile justice problem, and investigates solutions local communities are employing that are resulting in drastic drops in crime and incarceration.</desc>
@@ -74710,7 +75161,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112210500 +0800" stop="20200112214000 +0800" channel="Fox Crime">
+  <programme start="20200112210500 +0000" stop="20200112214000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -74726,7 +75177,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112214000 +0800" stop="20200112221500 +0800" channel="Fox Crime">
+  <programme start="20200112214000 +0000" stop="20200112221500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -74742,7 +75193,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200112221500 +0800" stop="20200112231000 +0800" channel="Fox Crime">
+  <programme start="20200112221500 +0000" stop="20200112231000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E17</title>
     <sub-title lang="en">The Wheelbarrow</sub-title>
     <desc lang="en">Harper and Lowry interrogate Russian mobsters hoping to find Mia, but find clues about Patrick instead. Ethan and Jen conduct their own investigation into Mia's kidnapping. Marlon attempts to hide his bullet wound from Zipporah.</desc>
@@ -74756,7 +75207,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200112231000 +0800" stop="20200113000000 +0800" channel="Fox Crime">
+  <programme start="20200112231000 +0000" stop="20200113000000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E18</title>
     <sub-title lang="en">Close To Heaven</sub-title>
     <desc lang="en">Ethan discovers Tilda's plan to kill him, but gets the upper hand, interrogates her, and learns the truth. Marty forces a captured Mia to use the flash drive. Harper deals with the aftermath of the task force being shot up.</desc>
@@ -74770,7 +75221,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113000000 +0800" stop="20200113010000 +0800" channel="Fox Crime">
+  <programme start="20200113000000 +0000" stop="20200113010000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E19</title>
     <sub-title lang="en">How To Treat Us</sub-title>
     <desc lang="en">Ethan, Marty, and Mia scramble to get enough money to keep the Russian mob off their back. Harper and Patrick's investigation leads them to Tilda's dead body and Marty. Marlon fights for his relationship with Zipporah.</desc>
@@ -74784,7 +75235,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113010000 +0800" stop="20200113014500 +0800" channel="Fox Crime">
+  <programme start="20200113010000 +0000" stop="20200113014500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E10</title>
     <sub-title lang="en">Nothing Gold Can Stay</sub-title>
     <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
@@ -74800,7 +75251,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113014500 +0800" stop="20200113023000 +0800" channel="Fox Crime">
+  <programme start="20200113014500 +0000" stop="20200113023000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E11</title>
     <sub-title lang="en">Byzantium</sub-title>
     <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
@@ -74816,7 +75267,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113023000 +0800" stop="20200113031500 +0800" channel="Fox Crime">
+  <programme start="20200113023000 +0000" stop="20200113031500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E12</title>
     <sub-title lang="en">Brown Shag Carpet</sub-title>
     <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
@@ -74832,7 +75283,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113031500 +0800" stop="20200113040000 +0800" channel="Fox Crime">
+  <programme start="20200113031500 +0000" stop="20200113040000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E4</title>
     <sub-title lang="en">Look Whoas Taunting</sub-title>
     <desc lang="en">The team chases a sadistic killer who takes women's eyes, and a new nemesis challenges Horatio.</desc>
@@ -74843,7 +75294,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113040000 +0800" stop="20200113045000 +0800" channel="Fox Crime">
+  <programme start="20200113040000 +0000" stop="20200113045000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E5</title>
     <sub-title lang="en">Killer Regrets</sub-title>
     <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
@@ -74854,7 +75305,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113045000 +0800" stop="20200113053500 +0800" channel="Fox Crime">
+  <programme start="20200113045000 +0000" stop="20200113053500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E6</title>
     <sub-title lang="en">By The Book</sub-title>
     <desc lang="en">In a deserted mansion, the CSIs find a body hanging that appears to have been killed by a vampire.</desc>
@@ -74865,7 +75316,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113053500 +0800" stop="20200113061000 +0800" channel="Fox Crime">
+  <programme start="20200113053500 +0000" stop="20200113061000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -74881,7 +75332,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113061000 +0800" stop="20200113064500 +0800" channel="Fox Crime">
+  <programme start="20200113061000 +0000" stop="20200113064500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -74897,28 +75348,28 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113064500 +0800" stop="20200113071000 +0800" channel="Fox Crime">
+  <programme start="20200113064500 +0000" stop="20200113071000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E20</title>
     <sub-title lang="en">Not In My Back Yard</sub-title>
     <desc lang="en">Deputies engage in a suspenseful stand-off with a wanted man. Two brothers do their best to play it cool, but police can hear what they're hiding. A petty dispute between neighbors turns serious when one resorts to revenge.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200113071000 +0800" stop="20200113073500 +0800" channel="Fox Crime">
+  <programme start="20200113071000 +0000" stop="20200113073500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E21</title>
     <sub-title lang="en">Formula For Disaster</sub-title>
     <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200113073500 +0800" stop="20200113080000 +0800" channel="Fox Crime">
+  <programme start="20200113073500 +0000" stop="20200113080000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E22</title>
     <sub-title lang="en">Baby Driver</sub-title>
     <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200113080000 +0800" stop="20200113084500 +0800" channel="Fox Crime">
+  <programme start="20200113080000 +0000" stop="20200113084500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E10</title>
     <sub-title lang="en">Nothing Gold Can Stay</sub-title>
     <desc lang="en">The team is tracking down three men who committed an armored car heist.</desc>
@@ -74934,7 +75385,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113084500 +0800" stop="20200113093000 +0800" channel="Fox Crime">
+  <programme start="20200113084500 +0000" stop="20200113093000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E11</title>
     <sub-title lang="en">Byzantium</sub-title>
     <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
@@ -74950,7 +75401,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113093000 +0800" stop="20200113101500 +0800" channel="Fox Crime">
+  <programme start="20200113093000 +0000" stop="20200113101500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E12</title>
     <sub-title lang="en">Brown Shag Carpet</sub-title>
     <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
@@ -74966,7 +75417,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113101500 +0800" stop="20200113110000 +0800" channel="Fox Crime">
+  <programme start="20200113101500 +0000" stop="20200113110000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E13</title>
     <sub-title lang="en">White Orchids</sub-title>
     <desc lang="en">Patrick and Teresa decide to get married, but they are completely unaware that the serial killer Lazarus is still alive and plans to crash the wedding.</desc>
@@ -74982,21 +75433,21 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113110000 +0800" stop="20200113112500 +0800" channel="Fox Crime">
+  <programme start="20200113110000 +0000" stop="20200113112500 +0000" channel="Fox Crime">
     <title lang="en">Jail: Big Texas S1E19</title>
     <sub-title lang="en">Ring Swallower</sub-title>
     <desc lang="en">Officers get seriously hands on when a man tries to swallow his ring. One man fights with his girlfriend in a bathroom, while another fights with his at home, and both are arrested for domestic violence.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200113112500 +0800" stop="20200113115000 +0800" channel="Fox Crime">
+  <programme start="20200113112500 +0000" stop="20200113115000 +0000" channel="Fox Crime">
     <title lang="en">Jail: Big Texas S1E20</title>
     <sub-title lang="en">Drunk Dunk</sub-title>
     <desc lang="en">After falling down a flight of stairs while drunk, a young man is amazed he is in jail. An officer explains to a young man why carrying a gun-shaped knife isn't a good idea. An expectant father is arrested.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200113115000 +0800" stop="20200113122500 +0800" channel="Fox Crime">
+  <programme start="20200113115000 +0000" stop="20200113122500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -75012,7 +75463,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113122500 +0800" stop="20200113130000 +0800" channel="Fox Crime">
+  <programme start="20200113122500 +0000" stop="20200113130000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -75028,7 +75479,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113130000 +0800" stop="20200113134500 +0800" channel="Fox Crime">
+  <programme start="20200113130000 +0000" stop="20200113134500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E6</title>
     <sub-title lang="en">By The Book</sub-title>
     <desc lang="en">In a deserted mansion, the CSIs find a body hanging that appears to have been killed by a vampire.</desc>
@@ -75039,7 +75490,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113134500 +0800" stop="20200113143000 +0800" channel="Fox Crime">
+  <programme start="20200113134500 +0000" stop="20200113143000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E7</title>
     <sub-title lang="en">Sinner Takes All</sub-title>
     <desc lang="en">A high stakes poker game is disrupted by a masked assassin, leaving one player dead and the CSIs baffled.</desc>
@@ -75050,21 +75501,21 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113143000 +0800" stop="20200113145500 +0800" channel="Fox Crime">
+  <programme start="20200113143000 +0000" stop="20200113145500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E23</title>
     <sub-title lang="en">Little White Lies</sub-title>
     <desc lang="en">A man tries to jump out of a car when his friend takes him on a high-speed chase. A naive man puts himself in danger when he tries to make a quick buck. A deputy investigates a familiar man he finds walking down a dark road.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200113145500 +0800" stop="20200113152000 +0800" channel="Fox Crime">
+  <programme start="20200113145500 +0000" stop="20200113152000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E24</title>
     <sub-title lang="en">Under My Thumb</sub-title>
     <desc lang="en">COPS follows the hardworking men and women of law enforcement from across the country, capturing all the unexpected action, drama, and humor of their life on the beat.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200113152000 +0800" stop="20200113155500 +0800" channel="Fox Crime">
+  <programme start="20200113152000 +0000" stop="20200113155500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -75080,7 +75531,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113155500 +0800" stop="20200113163000 +0800" channel="Fox Crime">
+  <programme start="20200113155500 +0000" stop="20200113163000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -75096,7 +75547,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113163000 +0800" stop="20200113172000 +0800" channel="Fox Crime">
+  <programme start="20200113163000 +0000" stop="20200113172000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E5</title>
     <sub-title lang="en">Killer Regrets</sub-title>
     <desc lang="en">Horatio protects a Mexican police chief from the mysterious assassin who killed her husband.</desc>
@@ -75107,7 +75558,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113172000 +0800" stop="20200113180500 +0800" channel="Fox Crime">
+  <programme start="20200113172000 +0000" stop="20200113180500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E6</title>
     <sub-title lang="en">By The Book</sub-title>
     <desc lang="en">In a deserted mansion, the CSIs find a body hanging that appears to have been killed by a vampire.</desc>
@@ -75118,7 +75569,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113180500 +0800" stop="20200113185500 +0800" channel="Fox Crime">
+  <programme start="20200113180500 +0000" stop="20200113185500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E7</title>
     <sub-title lang="en">Sinner Takes All</sub-title>
     <desc lang="en">A high stakes poker game is disrupted by a masked assassin, leaving one player dead and the CSIs baffled.</desc>
@@ -75129,7 +75580,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113185500 +0800" stop="20200113194000 +0800" channel="Fox Crime">
+  <programme start="20200113185500 +0000" stop="20200113194000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E12</title>
     <sub-title lang="en">Brown Shag Carpet</sub-title>
     <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
@@ -75145,7 +75596,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113194000 +0800" stop="20200113202500 +0800" channel="Fox Crime">
+  <programme start="20200113194000 +0000" stop="20200113202500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E13</title>
     <sub-title lang="en">White Orchids</sub-title>
     <desc lang="en">Patrick and Teresa decide to get married, but they are completely unaware that the serial killer Lazarus is still alive and plans to crash the wedding.</desc>
@@ -75161,7 +75612,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113202500 +0800" stop="20200113212000 +0800" channel="Fox Crime">
+  <programme start="20200113202500 +0000" stop="20200113212000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E1</title>
     <sub-title lang="en">Raised In The System</sub-title>
     <desc lang="en">In an episode that offers a frank and unflinching look at young people caught up in the criminal justice system, Michael Kenneth Williams explores why the country's mass incarceration problem cannot be fixed without first addressing the juvenile justice problem, and investigates solutions local communities are employing that are resulting in drastic drops in crime and incarceration.</desc>
@@ -75177,7 +75628,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113212000 +0800" stop="20200113215500 +0800" channel="Fox Crime">
+  <programme start="20200113212000 +0000" stop="20200113215500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -75193,7 +75644,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113215500 +0800" stop="20200113223000 +0800" channel="Fox Crime">
+  <programme start="20200113215500 +0000" stop="20200113223000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -75209,7 +75660,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200113223000 +0800" stop="20200113231500 +0800" channel="Fox Crime">
+  <programme start="20200113223000 +0000" stop="20200113231500 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E7</title>
     <desc lang="en">In the days following a fatal altercation in the webcam house, Dustin reaches out to Kimara for help, realizing he is no longer safe. Kimara struggles with the burden of a difficult moral choice and decides to take time off of work at her shelter. Meanwhile, Nicholas and Clair's volatile marriage continues to unravel, which in turn makes Gabrielle commit an ill-conceived act based on fear for her life. Jeanette becomes alarmed when Raelyn overreacts to a random drug test request.</desc>
     <credits>
@@ -75225,7 +75676,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200113231500 +0800" stop="20200114000000 +0800" channel="Fox Crime">
+  <programme start="20200113231500 +0000" stop="20200114000000 +0000" channel="Fox Crime">
     <title lang="en">American Crime S3E8</title>
     <desc lang="en">Kimara advises Dustin to inform the police about the crime that took place in the webcam house, which leads to an unforeseen outcome. Meanwhile, detectives open up a troubling investigation into Clair and Nicholas, who maintain their innocence and contend that Gabrielle is the guilty party. Jeanette must confront and consider the costs and sacrifices of social change.</desc>
     <credits>
@@ -75241,7 +75692,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114000000 +0800" stop="20200114004500 +0800" channel="Fox Crime">
+  <programme start="20200114000000 +0000" stop="20200114004500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E11</title>
     <sub-title lang="en">Byzantium</sub-title>
     <desc lang="en">A 'psychic' comes forward offering assistance in solving a double homicide. The team needs Patrick's expertise in the situation, but he has disappeared while coping with his fears for Lisbon's safety.</desc>
@@ -75257,7 +75708,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114004500 +0800" stop="20200114013000 +0800" channel="Fox Crime">
+  <programme start="20200114004500 +0000" stop="20200114013000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E12</title>
     <sub-title lang="en">Brown Shag Carpet</sub-title>
     <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
@@ -75273,7 +75724,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114013000 +0800" stop="20200114021500 +0800" channel="Fox Crime">
+  <programme start="20200114013000 +0000" stop="20200114021500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E13</title>
     <sub-title lang="en">White Orchids</sub-title>
     <desc lang="en">Patrick and Teresa decide to get married, but they are completely unaware that the serial killer Lazarus is still alive and plans to crash the wedding.</desc>
@@ -75289,7 +75740,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114021500 +0800" stop="20200114030000 +0800" channel="Fox Crime">
+  <programme start="20200114021500 +0000" stop="20200114030000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E6</title>
     <sub-title lang="en">By The Book</sub-title>
     <desc lang="en">In a deserted mansion, the CSIs find a body hanging that appears to have been killed by a vampire.</desc>
@@ -75300,7 +75751,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114030000 +0800" stop="20200114035000 +0800" channel="Fox Crime">
+  <programme start="20200114030000 +0000" stop="20200114035000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E7</title>
     <sub-title lang="en">Sinner Takes All</sub-title>
     <desc lang="en">A high stakes poker game is disrupted by a masked assassin, leaving one player dead and the CSIs baffled.</desc>
@@ -75311,7 +75762,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114035000 +0800" stop="20200114042500 +0800" channel="Fox Crime">
+  <programme start="20200114035000 +0000" stop="20200114042500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -75327,7 +75778,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114042500 +0800" stop="20200114050000 +0800" channel="Fox Crime">
+  <programme start="20200114042500 +0000" stop="20200114050000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E4</title>
     <sub-title lang="en">The Parkland Effect</sub-title>
     <desc lang="en">As the young survivors of the Parkland, Florida school shooting make an impassioned plea for gun control, the NRA is pushing back with a narrative of their own: 'The only thing that stops a bad guy with a gun is a good guy with a gun.'.</desc>
@@ -75343,7 +75794,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114050000 +0800" stop="20200114060500 +0800" channel="Fox Crime">
+  <programme start="20200114050000 +0000" stop="20200114060500 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E1</title>
     <desc lang="en">The acclaimed police corruption drama returns for a 4th series. When DCI Roz Huntley captures a serial killer, the chief forensic investigator alerts AC-12 to a possible miscarriage of justice.</desc>
     <credits>
@@ -75357,7 +75808,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114060500 +0800" stop="20200114071000 +0800" channel="Fox Crime">
+  <programme start="20200114060500 +0000" stop="20200114071000 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E2</title>
     <desc lang="en">A dismembered body is discovered, and worries grow when DCI Roz Huntley fails to report for duty. AC-12 crank up their investigation into Operation Trapdoor, concerned that Michael Farmer will go to jail for crimes he didn't commit. With suspicions that Roz may have withheld crucial evidence, a new DCI is drafted in to run Operation Trapdoor. Kate makes progress in her undercover role, but AC 12's investigation falters when they realise that their main informant, forensic investigator Tim Ifield, has also gone missing...</desc>
     <credits>
@@ -75371,7 +75822,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114071000 +0800" stop="20200114075500 +0800" channel="Fox Crime">
+  <programme start="20200114071000 +0000" stop="20200114075500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E12</title>
     <sub-title lang="en">Brown Shag Carpet</sub-title>
     <desc lang="en">Patrick uses a risky move to draw out the serial killer, but the serial killer gets to Jane first and kidnaps him.</desc>
@@ -75387,7 +75838,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114075500 +0800" stop="20200114084000 +0800" channel="Fox Crime">
+  <programme start="20200114075500 +0000" stop="20200114084000 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E13</title>
     <sub-title lang="en">White Orchids</sub-title>
     <desc lang="en">Patrick and Teresa decide to get married, but they are completely unaware that the serial killer Lazarus is still alive and plans to crash the wedding.</desc>
@@ -75403,7 +75854,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114084000 +0800" stop="20200114093500 +0800" channel="Fox Crime">
+  <programme start="20200114084000 +0000" stop="20200114093500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E1</title>
     <sub-title lang="en">Ask The Dust</sub-title>
     <desc lang="en">Det. Harry Bosch is still pursuing the truth behind his mother's cold case when the murder of a high-profile attorney puts the city on edge, forcing Chief Irving to create a Task Force with Bosch in charge.</desc>
@@ -75419,7 +75870,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114093500 +0800" stop="20200114102500 +0800" channel="Fox Crime">
+  <programme start="20200114093500 +0000" stop="20200114102500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E2</title>
     <sub-title lang="en">Dreams Of Bunker Hill</sub-title>
     <desc lang="en">Bosch pulls out all the stops to try and get to the bottom of the Elias murder as quickly as possible while keeping the IA investigators on his Task Force in the dark.</desc>
@@ -75435,7 +75886,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114102500 +0800" stop="20200114111500 +0800" channel="Fox Crime">
+  <programme start="20200114102500 +0000" stop="20200114111500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E3</title>
     <sub-title lang="en">Devil In The House</sub-title>
     <desc lang="en">As the Task Force tries to clear the growing number of suspects, they discover a potentially explosive false alibi. Det. Santiago Robertson must put his personal relationships aside for the sake of the case.</desc>
@@ -75451,7 +75902,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114111500 +0800" stop="20200114115000 +0800" channel="Fox Crime">
+  <programme start="20200114111500 +0000" stop="20200114115000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E2</title>
     <sub-title lang="en">Battle For Jerusalem &amp; A Face In The Crowd</sub-title>
     <desc lang="en">'Battle for Jerusalem'- VICE correspondent reports on the aftermath of Trump's announcement from the front lines, and speaks with leaders and civilians on all sides of the ongoing Israeli-Palestinian conflict about the imminent consequences of the future move. 'A Face in the Crowd'- VICE investigates the blurry legal boundaries surrounding this technology and the potential it has to change the very nature of policing itself, both in China and in the United States.</desc>
@@ -75467,7 +75918,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114115000 +0800" stop="20200114122500 +0800" channel="Fox Crime">
+  <programme start="20200114115000 +0000" stop="20200114122500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -75483,7 +75934,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114122500 +0800" stop="20200114130000 +0800" channel="Fox Crime">
+  <programme start="20200114122500 +0000" stop="20200114130000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E4</title>
     <sub-title lang="en">The Parkland Effect</sub-title>
     <desc lang="en">As the young survivors of the Parkland, Florida school shooting make an impassioned plea for gun control, the NRA is pushing back with a narrative of their own: 'The only thing that stops a bad guy with a gun is a good guy with a gun.'.</desc>
@@ -75499,7 +75950,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114130000 +0800" stop="20200114134500 +0800" channel="Fox Crime">
+  <programme start="20200114130000 +0000" stop="20200114134500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E7</title>
     <sub-title lang="en">Sinner Takes All</sub-title>
     <desc lang="en">A high stakes poker game is disrupted by a masked assassin, leaving one player dead and the CSIs baffled.</desc>
@@ -75510,7 +75961,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114134500 +0800" stop="20200114143000 +0800" channel="Fox Crime">
+  <programme start="20200114134500 +0000" stop="20200114143000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E8</title>
     <sub-title lang="en">Dead Ringer</sub-title>
     <desc lang="en">When Horatio finds another corpse with missing eyes, everything points to his nemesis, “The Taunter” – except he has an airtight alibi.</desc>
@@ -75521,7 +75972,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114143000 +0800" stop="20200114151500 +0800" channel="Fox Crime">
+  <programme start="20200114143000 +0000" stop="20200114151500 +0000" channel="Fox Crime">
     <title lang="en">The Making Of The Mob: Chicago S1E1</title>
     <sub-title lang="en">Capone's First Kill</sub-title>
     <desc lang="en">Capone gets a taste of the underworld in Brooklyn with Johnny Torrio. Reuniting in Chicago, they start bootlegging and anger local Irish gangsters.</desc>
@@ -75535,7 +75986,7 @@
     <category lang="en">Crime</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114151500 +0800" stop="20200114160000 +0800" channel="Fox Crime">
+  <programme start="20200114151500 +0000" stop="20200114160000 +0000" channel="Fox Crime">
     <title lang="en">The Making Of The Mob: Chicago S1E2</title>
     <sub-title lang="en">A Death In The Family</sub-title>
     <desc lang="en">A new mayor forces Torrio and Capone outside Chicago to nearby Cicero. There, Capone's brother Frank fixes an election, placing himself in jeopardy.</desc>
@@ -75549,7 +76000,7 @@
     <category lang="en">Crime</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114160000 +0800" stop="20200114163500 +0800" channel="Fox Crime">
+  <programme start="20200114160000 +0000" stop="20200114163500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -75565,7 +76016,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114163500 +0800" stop="20200114171000 +0800" channel="Fox Crime">
+  <programme start="20200114163500 +0000" stop="20200114171000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E4</title>
     <sub-title lang="en">The Parkland Effect</sub-title>
     <desc lang="en">As the young survivors of the Parkland, Florida school shooting make an impassioned plea for gun control, the NRA is pushing back with a narrative of their own: 'The only thing that stops a bad guy with a gun is a good guy with a gun.'.</desc>
@@ -75581,7 +76032,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114171000 +0800" stop="20200114175500 +0800" channel="Fox Crime">
+  <programme start="20200114171000 +0000" stop="20200114175500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E7</title>
     <sub-title lang="en">Sinner Takes All</sub-title>
     <desc lang="en">A high stakes poker game is disrupted by a masked assassin, leaving one player dead and the CSIs baffled.</desc>
@@ -75592,7 +76043,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114175500 +0800" stop="20200114184000 +0800" channel="Fox Crime">
+  <programme start="20200114175500 +0000" stop="20200114184000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E8</title>
     <sub-title lang="en">Dead Ringer</sub-title>
     <desc lang="en">When Horatio finds another corpse with missing eyes, everything points to his nemesis, “The Taunter” – except he has an airtight alibi.</desc>
@@ -75603,7 +76054,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114184000 +0800" stop="20200114193000 +0800" channel="Fox Crime">
+  <programme start="20200114184000 +0000" stop="20200114193000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E1</title>
     <sub-title lang="en">Ask The Dust</sub-title>
     <desc lang="en">Det. Harry Bosch is still pursuing the truth behind his mother's cold case when the murder of a high-profile attorney puts the city on edge, forcing Chief Irving to create a Task Force with Bosch in charge.</desc>
@@ -75619,7 +76070,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114193000 +0800" stop="20200114202000 +0800" channel="Fox Crime">
+  <programme start="20200114193000 +0000" stop="20200114202000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E2</title>
     <sub-title lang="en">Dreams Of Bunker Hill</sub-title>
     <desc lang="en">Bosch pulls out all the stops to try and get to the bottom of the Elias murder as quickly as possible while keeping the IA investigators on his Task Force in the dark.</desc>
@@ -75635,7 +76086,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114202000 +0800" stop="20200114211000 +0800" channel="Fox Crime">
+  <programme start="20200114202000 +0000" stop="20200114211000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E3</title>
     <sub-title lang="en">Devil In The House</sub-title>
     <desc lang="en">As the Task Force tries to clear the growing number of suspects, they discover a potentially explosive false alibi. Det. Santiago Robertson must put his personal relationships aside for the sake of the case.</desc>
@@ -75651,7 +76102,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200114211000 +0800" stop="20200114214500 +0800" channel="Fox Crime">
+  <programme start="20200114211000 +0000" stop="20200114214500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E3</title>
     <sub-title lang="en">A Revolution In Ruins &amp; New Kids On The Blockchain</sub-title>
     <desc lang="en">'A Revolution in Ruins' Libya is in chaos. Rival governments compete for power, human smuggling is rampant, and black markets thrive for everything from oil to hard currency. 'New Kids on the Blockchain' Bitcoin's emergence as a global, digital currency has been as revolutionary as it has been erratic.</desc>
@@ -75667,7 +76118,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114214500 +0800" stop="20200114222000 +0800" channel="Fox Crime">
+  <programme start="20200114214500 +0000" stop="20200114222000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E4</title>
     <sub-title lang="en">The Parkland Effect</sub-title>
     <desc lang="en">As the young survivors of the Parkland, Florida school shooting make an impassioned plea for gun control, the NRA is pushing back with a narrative of their own: 'The only thing that stops a bad guy with a gun is a good guy with a gun.'.</desc>
@@ -75683,7 +76134,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114222000 +0800" stop="20200114225500 +0800" channel="Fox Crime">
+  <programme start="20200114222000 +0000" stop="20200114225500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E6</title>
     <sub-title lang="en">Iran In Iraq &amp; Dying On The Vine</sub-title>
     <desc lang="en">'Iran in Iraq' Iran and Iraq fought one of the longest and bloodiest wars of the 20th century, VICE correspondent travels to Iraq to see how Iran is exerting its growing influence over the war-torn country ahead of parliamentary elections. 'Dying on the Vine' From sinking cities to species extinction, the effects of climate change are expected to be disastrous.</desc>
@@ -75699,35 +76150,35 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200114225500 +0800" stop="20200114232000 +0800" channel="Fox Crime">
+  <programme start="20200114225500 +0000" stop="20200114232000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E21</title>
     <sub-title lang="en">Formula For Disaster</sub-title>
     <desc lang="en">A mouthy passenger keeps everyone on their toes during a routine traffic stop. Deputies track down a shoplifter that deals exclusively in baby products. A distressed boyfriend can't take any more of his volatile relationship.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200114232000 +0800" stop="20200114234500 +0800" channel="Fox Crime">
+  <programme start="20200114232000 +0000" stop="20200114234500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E22</title>
     <sub-title lang="en">Baby Driver</sub-title>
     <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200114234500 +0800" stop="20200115001000 +0800" channel="Fox Crime">
+  <programme start="20200114234500 +0000" stop="20200115001000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E23</title>
     <sub-title lang="en">Little White Lies</sub-title>
     <desc lang="en">A man tries to jump out of a car when his friend takes him on a high-speed chase. A naive man puts himself in danger when he tries to make a quick buck. A deputy investigates a familiar man he finds walking down a dark road.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200115001000 +0800" stop="20200115003500 +0800" channel="Fox Crime">
+  <programme start="20200115001000 +0000" stop="20200115003500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E24</title>
     <sub-title lang="en">Under My Thumb</sub-title>
     <desc lang="en">COPS follows the hardworking men and women of law enforcement from across the country, capturing all the unexpected action, drama, and humor of their life on the beat.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200115003500 +0800" stop="20200115012500 +0800" channel="Fox Crime">
+  <programme start="20200115003500 +0000" stop="20200115012500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E2</title>
     <sub-title lang="en">Dreams Of Bunker Hill</sub-title>
     <desc lang="en">Bosch pulls out all the stops to try and get to the bottom of the Elias murder as quickly as possible while keeping the IA investigators on his Task Force in the dark.</desc>
@@ -75743,7 +76194,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115012500 +0800" stop="20200115021500 +0800" channel="Fox Crime">
+  <programme start="20200115012500 +0000" stop="20200115021500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E3</title>
     <sub-title lang="en">Devil In The House</sub-title>
     <desc lang="en">As the Task Force tries to clear the growing number of suspects, they discover a potentially explosive false alibi. Det. Santiago Robertson must put his personal relationships aside for the sake of the case.</desc>
@@ -75759,7 +76210,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115021500 +0800" stop="20200115030000 +0800" channel="Fox Crime">
+  <programme start="20200115021500 +0000" stop="20200115030000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E7</title>
     <sub-title lang="en">Sinner Takes All</sub-title>
     <desc lang="en">A high stakes poker game is disrupted by a masked assassin, leaving one player dead and the CSIs baffled.</desc>
@@ -75770,7 +76221,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115030000 +0800" stop="20200115034500 +0800" channel="Fox Crime">
+  <programme start="20200115030000 +0000" stop="20200115034500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E8</title>
     <sub-title lang="en">Dead Ringer</sub-title>
     <desc lang="en">When Horatio finds another corpse with missing eyes, everything points to his nemesis, “The Taunter” – except he has an airtight alibi.</desc>
@@ -75781,7 +76232,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115034500 +0800" stop="20200115042000 +0800" channel="Fox Crime">
+  <programme start="20200115034500 +0000" stop="20200115042000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E4</title>
     <sub-title lang="en">The Parkland Effect</sub-title>
     <desc lang="en">As the young survivors of the Parkland, Florida school shooting make an impassioned plea for gun control, the NRA is pushing back with a narrative of their own: 'The only thing that stops a bad guy with a gun is a good guy with a gun.'.</desc>
@@ -75797,7 +76248,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115042000 +0800" stop="20200115045500 +0800" channel="Fox Crime">
+  <programme start="20200115042000 +0000" stop="20200115045500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E6</title>
     <sub-title lang="en">Iran In Iraq &amp; Dying On The Vine</sub-title>
     <desc lang="en">'Iran in Iraq' Iran and Iraq fought one of the longest and bloodiest wars of the 20th century, VICE correspondent travels to Iraq to see how Iran is exerting its growing influence over the war-torn country ahead of parliamentary elections. 'Dying on the Vine' From sinking cities to species extinction, the effects of climate change are expected to be disastrous.</desc>
@@ -75813,7 +76264,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115045500 +0800" stop="20200115055000 +0800" channel="Fox Crime">
+  <programme start="20200115045500 +0000" stop="20200115055000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E17</title>
     <sub-title lang="en">The Wheelbarrow</sub-title>
     <desc lang="en">Harper and Lowry interrogate Russian mobsters hoping to find Mia, but find clues about Patrick instead. Ethan and Jen conduct their own investigation into Mia's kidnapping. Marlon attempts to hide his bullet wound from Zipporah.</desc>
@@ -75827,7 +76278,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115055000 +0800" stop="20200115064000 +0800" channel="Fox Crime">
+  <programme start="20200115055000 +0000" stop="20200115064000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E18</title>
     <sub-title lang="en">Close To Heaven</sub-title>
     <desc lang="en">Ethan discovers Tilda's plan to kill him, but gets the upper hand, interrogates her, and learns the truth. Marty forces a captured Mia to use the flash drive. Harper deals with the aftermath of the task force being shot up.</desc>
@@ -75841,7 +76292,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115064000 +0800" stop="20200115074000 +0800" channel="Fox Crime">
+  <programme start="20200115064000 +0000" stop="20200115074000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E19</title>
     <sub-title lang="en">How To Treat Us</sub-title>
     <desc lang="en">Ethan, Marty, and Mia scramble to get enough money to keep the Russian mob off their back. Harper and Patrick's investigation leads them to Tilda's dead body and Marty. Marlon fights for his relationship with Zipporah.</desc>
@@ -75855,7 +76306,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115074000 +0800" stop="20200115082500 +0800" channel="Fox Crime">
+  <programme start="20200115074000 +0000" stop="20200115082500 +0000" channel="Fox Crime">
     <title lang="en">The Mentalist S7E13</title>
     <sub-title lang="en">White Orchids</sub-title>
     <desc lang="en">Patrick and Teresa decide to get married, but they are completely unaware that the serial killer Lazarus is still alive and plans to crash the wedding.</desc>
@@ -75871,7 +76322,7 @@
     <category lang="en">Thriller</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115082500 +0800" stop="20200115091500 +0800" channel="Fox Crime">
+  <programme start="20200115082500 +0000" stop="20200115091500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E1</title>
     <sub-title lang="en">Ask The Dust</sub-title>
     <desc lang="en">Det. Harry Bosch is still pursuing the truth behind his mother's cold case when the murder of a high-profile attorney puts the city on edge, forcing Chief Irving to create a Task Force with Bosch in charge.</desc>
@@ -75887,7 +76338,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115091500 +0800" stop="20200115100500 +0800" channel="Fox Crime">
+  <programme start="20200115091500 +0000" stop="20200115100500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E2</title>
     <sub-title lang="en">Dreams Of Bunker Hill</sub-title>
     <desc lang="en">Bosch pulls out all the stops to try and get to the bottom of the Elias murder as quickly as possible while keeping the IA investigators on his Task Force in the dark.</desc>
@@ -75903,7 +76354,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115100500 +0800" stop="20200115105500 +0800" channel="Fox Crime">
+  <programme start="20200115100500 +0000" stop="20200115105500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E3</title>
     <sub-title lang="en">Devil In The House</sub-title>
     <desc lang="en">As the Task Force tries to clear the growing number of suspects, they discover a potentially explosive false alibi. Det. Santiago Robertson must put his personal relationships aside for the sake of the case.</desc>
@@ -75919,7 +76370,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115105500 +0800" stop="20200115115000 +0800" channel="Fox Crime">
+  <programme start="20200115105500 +0000" stop="20200115115000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E4</title>
     <sub-title lang="en">Past Lives</sub-title>
     <desc lang="en">Det. Francis Sheehan comes clean to Bosch, as Robertson suspects a leak in the investigation, and Edgar joins the Task Force. Social unrest surrounding the Elias murder grows, forcing Irving to intervene.</desc>
@@ -75935,7 +76386,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115115000 +0800" stop="20200115122500 +0800" channel="Fox Crime">
+  <programme start="20200115115000 +0000" stop="20200115122500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E4</title>
     <sub-title lang="en">The Parkland Effect</sub-title>
     <desc lang="en">As the young survivors of the Parkland, Florida school shooting make an impassioned plea for gun control, the NRA is pushing back with a narrative of their own: 'The only thing that stops a bad guy with a gun is a good guy with a gun.'.</desc>
@@ -75951,7 +76402,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115122500 +0800" stop="20200115130000 +0800" channel="Fox Crime">
+  <programme start="20200115122500 +0000" stop="20200115130000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E6</title>
     <sub-title lang="en">Iran In Iraq &amp; Dying On The Vine</sub-title>
     <desc lang="en">'Iran in Iraq' Iran and Iraq fought one of the longest and bloodiest wars of the 20th century, VICE correspondent travels to Iraq to see how Iran is exerting its growing influence over the war-torn country ahead of parliamentary elections. 'Dying on the Vine' From sinking cities to species extinction, the effects of climate change are expected to be disastrous.</desc>
@@ -75967,7 +76418,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115130000 +0800" stop="20200115134500 +0800" channel="Fox Crime">
+  <programme start="20200115130000 +0000" stop="20200115134500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E8</title>
     <sub-title lang="en">Dead Ringer</sub-title>
     <desc lang="en">When Horatio finds another corpse with missing eyes, everything points to his nemesis, “The Taunter” – except he has an airtight alibi.</desc>
@@ -75978,7 +76429,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115134500 +0800" stop="20200115143000 +0800" channel="Fox Crime">
+  <programme start="20200115134500 +0000" stop="20200115143000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E9</title>
     <sub-title lang="en">A Few Dead Men</sub-title>
     <desc lang="en">The CSIs investigate when three convicted murderers are released from prison and someone starts killing them one by one.</desc>
@@ -75989,7 +76440,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115143000 +0800" stop="20200115153000 +0800" channel="Fox Crime">
+  <programme start="20200115143000 +0000" stop="20200115153000 +0000" channel="Fox Crime">
     <title lang="en">Rogue S3E20</title>
     <sub-title lang="en">A Piece Of Wood</sub-title>
     <desc lang="en">Harper finds out Mia's true identity and tries to leverage this to make her turn on Marty. Ethan must decide if he trusts Mia or Marty while the three pull a heist together. Marlon turns back to his old gang lifestyle.</desc>
@@ -76003,7 +76454,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115153000 +0800" stop="20200115160500 +0800" channel="Fox Crime">
+  <programme start="20200115153000 +0000" stop="20200115160500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E4</title>
     <sub-title lang="en">The Parkland Effect</sub-title>
     <desc lang="en">As the young survivors of the Parkland, Florida school shooting make an impassioned plea for gun control, the NRA is pushing back with a narrative of their own: 'The only thing that stops a bad guy with a gun is a good guy with a gun.'.</desc>
@@ -76019,7 +76470,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115160500 +0800" stop="20200115164000 +0800" channel="Fox Crime">
+  <programme start="20200115160500 +0000" stop="20200115164000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E6</title>
     <sub-title lang="en">Iran In Iraq &amp; Dying On The Vine</sub-title>
     <desc lang="en">'Iran in Iraq' Iran and Iraq fought one of the longest and bloodiest wars of the 20th century, VICE correspondent travels to Iraq to see how Iran is exerting its growing influence over the war-torn country ahead of parliamentary elections. 'Dying on the Vine' From sinking cities to species extinction, the effects of climate change are expected to be disastrous.</desc>
@@ -76035,7 +76486,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115164000 +0800" stop="20200115173000 +0800" channel="Fox Crime">
+  <programme start="20200115164000 +0000" stop="20200115173000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E7</title>
     <sub-title lang="en">Sinner Takes All</sub-title>
     <desc lang="en">A high stakes poker game is disrupted by a masked assassin, leaving one player dead and the CSIs baffled.</desc>
@@ -76046,7 +76497,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115173000 +0800" stop="20200115181500 +0800" channel="Fox Crime">
+  <programme start="20200115173000 +0000" stop="20200115181500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E8</title>
     <sub-title lang="en">Dead Ringer</sub-title>
     <desc lang="en">When Horatio finds another corpse with missing eyes, everything points to his nemesis, “The Taunter” – except he has an airtight alibi.</desc>
@@ -76057,7 +76508,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115181500 +0800" stop="20200115190000 +0800" channel="Fox Crime">
+  <programme start="20200115181500 +0000" stop="20200115190000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E9</title>
     <sub-title lang="en">A Few Dead Men</sub-title>
     <desc lang="en">The CSIs investigate when three convicted murderers are released from prison and someone starts killing them one by one.</desc>
@@ -76068,7 +76519,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115190000 +0800" stop="20200115195000 +0800" channel="Fox Crime">
+  <programme start="20200115190000 +0000" stop="20200115195000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E2</title>
     <sub-title lang="en">Dreams Of Bunker Hill</sub-title>
     <desc lang="en">Bosch pulls out all the stops to try and get to the bottom of the Elias murder as quickly as possible while keeping the IA investigators on his Task Force in the dark.</desc>
@@ -76084,7 +76535,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115195000 +0800" stop="20200115204000 +0800" channel="Fox Crime">
+  <programme start="20200115195000 +0000" stop="20200115204000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E3</title>
     <sub-title lang="en">Devil In The House</sub-title>
     <desc lang="en">As the Task Force tries to clear the growing number of suspects, they discover a potentially explosive false alibi. Det. Santiago Robertson must put his personal relationships aside for the sake of the case.</desc>
@@ -76100,7 +76551,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115204000 +0800" stop="20200115213500 +0800" channel="Fox Crime">
+  <programme start="20200115204000 +0000" stop="20200115213500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E4</title>
     <sub-title lang="en">Past Lives</sub-title>
     <desc lang="en">Det. Francis Sheehan comes clean to Bosch, as Robertson suspects a leak in the investigation, and Edgar joins the Task Force. Social unrest surrounding the Elias murder grows, forcing Irving to intervene.</desc>
@@ -76116,7 +76567,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115213500 +0800" stop="20200115221000 +0800" channel="Fox Crime">
+  <programme start="20200115213500 +0000" stop="20200115221000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E4</title>
     <sub-title lang="en">The Parkland Effect</sub-title>
     <desc lang="en">As the young survivors of the Parkland, Florida school shooting make an impassioned plea for gun control, the NRA is pushing back with a narrative of their own: 'The only thing that stops a bad guy with a gun is a good guy with a gun.'.</desc>
@@ -76132,7 +76583,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115221000 +0800" stop="20200115224500 +0800" channel="Fox Crime">
+  <programme start="20200115221000 +0000" stop="20200115224500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E6</title>
     <sub-title lang="en">Iran In Iraq &amp; Dying On The Vine</sub-title>
     <desc lang="en">'Iran in Iraq' Iran and Iraq fought one of the longest and bloodiest wars of the 20th century, VICE correspondent travels to Iraq to see how Iran is exerting its growing influence over the war-torn country ahead of parliamentary elections. 'Dying on the Vine' From sinking cities to species extinction, the effects of climate change are expected to be disastrous.</desc>
@@ -76148,7 +76599,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200115224500 +0800" stop="20200115235000 +0800" channel="Fox Crime">
+  <programme start="20200115224500 +0000" stop="20200115235000 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E1</title>
     <desc lang="en">The acclaimed police corruption drama returns for a 4th series. When DCI Roz Huntley captures a serial killer, the chief forensic investigator alerts AC-12 to a possible miscarriage of justice.</desc>
     <credits>
@@ -76162,7 +76613,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200115235000 +0800" stop="20200116005500 +0800" channel="Fox Crime">
+  <programme start="20200115235000 +0000" stop="20200116005500 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E2</title>
     <desc lang="en">A dismembered body is discovered, and worries grow when DCI Roz Huntley fails to report for duty. AC-12 crank up their investigation into Operation Trapdoor, concerned that Michael Farmer will go to jail for crimes he didn't commit. With suspicions that Roz may have withheld crucial evidence, a new DCI is drafted in to run Operation Trapdoor. Kate makes progress in her undercover role, but AC 12's investigation falters when they realise that their main informant, forensic investigator Tim Ifield, has also gone missing...</desc>
     <credits>
@@ -76176,7 +76627,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116005500 +0800" stop="20200116014500 +0800" channel="Fox Crime">
+  <programme start="20200116005500 +0000" stop="20200116014500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E2</title>
     <sub-title lang="en">Dreams Of Bunker Hill</sub-title>
     <desc lang="en">Bosch pulls out all the stops to try and get to the bottom of the Elias murder as quickly as possible while keeping the IA investigators on his Task Force in the dark.</desc>
@@ -76192,7 +76643,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116014500 +0800" stop="20200116023500 +0800" channel="Fox Crime">
+  <programme start="20200116014500 +0000" stop="20200116023500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E3</title>
     <sub-title lang="en">Devil In The House</sub-title>
     <desc lang="en">As the Task Force tries to clear the growing number of suspects, they discover a potentially explosive false alibi. Det. Santiago Robertson must put his personal relationships aside for the sake of the case.</desc>
@@ -76208,7 +76659,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116023500 +0800" stop="20200116033000 +0800" channel="Fox Crime">
+  <programme start="20200116023500 +0000" stop="20200116033000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E4</title>
     <sub-title lang="en">Past Lives</sub-title>
     <desc lang="en">Det. Francis Sheehan comes clean to Bosch, as Robertson suspects a leak in the investigation, and Edgar joins the Task Force. Social unrest surrounding the Elias murder grows, forcing Irving to intervene.</desc>
@@ -76224,7 +76675,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116033000 +0800" stop="20200116042000 +0800" channel="Fox Crime">
+  <programme start="20200116033000 +0000" stop="20200116042000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E8</title>
     <sub-title lang="en">Dead Ringer</sub-title>
     <desc lang="en">When Horatio finds another corpse with missing eyes, everything points to his nemesis, “The Taunter” – except he has an airtight alibi.</desc>
@@ -76235,7 +76686,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200116042000 +0800" stop="20200116050500 +0800" channel="Fox Crime">
+  <programme start="20200116042000 +0000" stop="20200116050500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E9</title>
     <sub-title lang="en">A Few Dead Men</sub-title>
     <desc lang="en">The CSIs investigate when three convicted murderers are released from prison and someone starts killing them one by one.</desc>
@@ -76246,7 +76697,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200116050500 +0800" stop="20200116054000 +0800" channel="Fox Crime">
+  <programme start="20200116050500 +0000" stop="20200116054000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E6</title>
     <sub-title lang="en">Iran In Iraq &amp; Dying On The Vine</sub-title>
     <desc lang="en">'Iran in Iraq' Iran and Iraq fought one of the longest and bloodiest wars of the 20th century, VICE correspondent travels to Iraq to see how Iran is exerting its growing influence over the war-torn country ahead of parliamentary elections. 'Dying on the Vine' From sinking cities to species extinction, the effects of climate change are expected to be disastrous.</desc>
@@ -76262,7 +76713,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200116054000 +0800" stop="20200116061500 +0800" channel="Fox Crime">
+  <programme start="20200116054000 +0000" stop="20200116061500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E7</title>
     <sub-title lang="en">Russian Democracy &amp; Global Gag Rule</sub-title>
     <desc lang="en">VICE sent Ben Ferguson to speak with voters, candidates in hopes of discovering how democracy works in Russia. Gianna Toboni investigates the impact of the Global Gag Rule on women's health in Uganda.</desc>
@@ -76278,28 +76729,28 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200116061500 +0800" stop="20200116064000 +0800" channel="Fox Crime">
+  <programme start="20200116061500 +0000" stop="20200116064000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E22</title>
     <sub-title lang="en">Baby Driver</sub-title>
     <desc lang="en">Deputies are shocked when they find a hit-and-run driver's kid in the backseat. A shoplifting call leads officers to one mad woman and some unsavory items. A fed-up man calls the cops when his stepson starts acting erratically.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200116064000 +0800" stop="20200116070500 +0800" channel="Fox Crime">
+  <programme start="20200116064000 +0000" stop="20200116070500 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E23</title>
     <sub-title lang="en">Little White Lies</sub-title>
     <desc lang="en">A man tries to jump out of a car when his friend takes him on a high-speed chase. A naive man puts himself in danger when he tries to make a quick buck. A deputy investigates a familiar man he finds walking down a dark road.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200116070500 +0800" stop="20200116073000 +0800" channel="Fox Crime">
+  <programme start="20200116070500 +0000" stop="20200116073000 +0000" channel="Fox Crime">
     <title lang="en">COPS S31E24</title>
     <sub-title lang="en">Under My Thumb</sub-title>
     <desc lang="en">COPS follows the hardworking men and women of law enforcement from across the country, capturing all the unexpected action, drama, and humor of their life on the beat.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality Show</category>
   </programme>
-  <programme start="20200116073000 +0800" stop="20200116082500 +0800" channel="Fox Crime">
+  <programme start="20200116073000 +0000" stop="20200116082500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E1</title>
     <sub-title lang="en">Ask The Dust</sub-title>
     <desc lang="en">Det. Harry Bosch is still pursuing the truth behind his mother's cold case when the murder of a high-profile attorney puts the city on edge, forcing Chief Irving to create a Task Force with Bosch in charge.</desc>
@@ -76315,7 +76766,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116082500 +0800" stop="20200116091500 +0800" channel="Fox Crime">
+  <programme start="20200116082500 +0000" stop="20200116091500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E2</title>
     <sub-title lang="en">Dreams Of Bunker Hill</sub-title>
     <desc lang="en">Bosch pulls out all the stops to try and get to the bottom of the Elias murder as quickly as possible while keeping the IA investigators on his Task Force in the dark.</desc>
@@ -76331,7 +76782,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116091500 +0800" stop="20200116100500 +0800" channel="Fox Crime">
+  <programme start="20200116091500 +0000" stop="20200116100500 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E3</title>
     <sub-title lang="en">Devil In The House</sub-title>
     <desc lang="en">As the Task Force tries to clear the growing number of suspects, they discover a potentially explosive false alibi. Det. Santiago Robertson must put his personal relationships aside for the sake of the case.</desc>
@@ -76347,7 +76798,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116100500 +0800" stop="20200116110000 +0800" channel="Fox Crime">
+  <programme start="20200116100500 +0000" stop="20200116110000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E4</title>
     <sub-title lang="en">Past Lives</sub-title>
     <desc lang="en">Det. Francis Sheehan comes clean to Bosch, as Robertson suspects a leak in the investigation, and Edgar joins the Task Force. Social unrest surrounding the Elias murder grows, forcing Irving to intervene.</desc>
@@ -76363,7 +76814,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116110000 +0800" stop="20200116115000 +0800" channel="Fox Crime">
+  <programme start="20200116110000 +0000" stop="20200116115000 +0000" channel="Fox Crime">
     <title lang="en">Bosch S4E5</title>
     <sub-title lang="en">The Coping</sub-title>
     <desc lang="en">Bosch struggles to manage all the things he's lost and to keep the darkness at bay, from himself and from Maddie. Meanthile, the Task Force bears down on two suspects.</desc>
@@ -76379,7 +76830,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116115000 +0800" stop="20200116122500 +0800" channel="Fox Crime">
+  <programme start="20200116115000 +0000" stop="20200116122500 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E6</title>
     <sub-title lang="en">Iran In Iraq &amp; Dying On The Vine</sub-title>
     <desc lang="en">'Iran in Iraq' Iran and Iraq fought one of the longest and bloodiest wars of the 20th century, VICE correspondent travels to Iraq to see how Iran is exerting its growing influence over the war-torn country ahead of parliamentary elections. 'Dying on the Vine' From sinking cities to species extinction, the effects of climate change are expected to be disastrous.</desc>
@@ -76395,7 +76846,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200116122500 +0800" stop="20200116130000 +0800" channel="Fox Crime">
+  <programme start="20200116122500 +0000" stop="20200116130000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E7</title>
     <sub-title lang="en">Russian Democracy &amp; Global Gag Rule</sub-title>
     <desc lang="en">VICE sent Ben Ferguson to speak with voters, candidates in hopes of discovering how democracy works in Russia. Gianna Toboni investigates the impact of the Global Gag Rule on women's health in Uganda.</desc>
@@ -76411,7 +76862,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200116130000 +0800" stop="20200116134500 +0800" channel="Fox Crime">
+  <programme start="20200116130000 +0000" stop="20200116134500 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E9</title>
     <sub-title lang="en">A Few Dead Men</sub-title>
     <desc lang="en">The CSIs investigate when three convicted murderers are released from prison and someone starts killing them one by one.</desc>
@@ -76422,7 +76873,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200116134500 +0800" stop="20200116143000 +0800" channel="Fox Crime">
+  <programme start="20200116134500 +0000" stop="20200116143000 +0000" channel="Fox Crime">
     <title lang="en">CSI Miami S10E10</title>
     <sub-title lang="en">Long Gone</sub-title>
     <desc lang="en">When an entire family disappears into thin air, Horatio vows to find them, dead or alive.</desc>
@@ -76433,7 +76884,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200116143000 +0800" stop="20200116153500 +0800" channel="Fox Crime">
+  <programme start="20200116143000 +0000" stop="20200116153500 +0000" channel="Fox Crime">
     <title lang="en">Line Of Duty S4E3</title>
     <desc lang="en">As AC-12 wrestle with the new forensic evidence casting doubt over Tim Ifield, Kate is approached by another woman claiming to have been assaulted by Michael Farmer. While Steve fumes over this contradictory testimony, Kate uses her new-found respect to inveigle herself with the Trapdoor team. Meanwhile Steve challenges Roz's husband Nick to vouch for his wife's whereabouts on the night Tim Ifield went missing. With Nick proving evasive, Steve senses a whole new angle on the investigation.</desc>
     <credits>
@@ -76447,7 +76898,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Western</category>
   </programme>
-  <programme start="20200116153500 +0800" stop="20200116161000 +0800" channel="Fox Crime">
+  <programme start="20200116153500 +0000" stop="20200116161000 +0000" channel="Fox Crime">
     <title lang="en">VICE S6E6</title>
     <sub-title lang="en">Iran In Iraq &amp; Dying On The Vine</sub-title>
     <desc lang="en">'Iran in Iraq' Iran and Iraq fought one of the longest and bloodiest wars of the 20th century, VICE correspondent travels to Iraq to see how Iran is exerting its growing influence over the war-torn country ahead of parliamentary elections. 'Dying on the Vine' From sinking cities to species extinction, the effects of climate change are expected to be disastrous.</desc>
