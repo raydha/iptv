@@ -3653,22 +3653,28 @@
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200116100000 +0800" stop="20200116103000 +0800" channel="TV 3">
-    <title lang="en">Larva</title>
-    <desc lang="en">Is a series of short cartoons featuring two little bugs who are never at a loss for comedy as they scavenge for the next bit of refuse to dine upon.</desc>
+    <title lang="en">Top Wing S1</title>
+    <desc lang="en">Siri animasi menarik untuk tontonan anda.</desc>
     <category lang="en">Kids</category>
     <category lang="en">General</category>
   </programme>
-  <programme start="20200116103000 +0800" stop="20200116113000 +0800" channel="TV 3">
-    <title lang="en">Zahira</title>
-    <desc lang="en">Kisah Zahira yang hilang semangat hidup selepas ditinggalkan kekasih lamanya, Sufian akibat cinta melulunya dan gagal untuk mengecapi kebahagiaan dalam percintaan.</desc>
+  <programme start="20200116103000 +0800" stop="20200116110000 +0800" channel="TV 3">
+    <title lang="en">Avatar: the Last Airbender</title>
+    <desc lang="en">In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.</desc>
+    <category lang="en">Kids</category>
+    <category lang="en">General</category>
+  </programme>
+  <programme start="20200116110000 +0800" stop="20200116113000 +0800" channel="TV 3">
+    <title lang="en">Suamiku Mat Piun</title>
+    <desc lang="en">Poji sangat gembira, kerana dirinya pula yang bakal menjadi seorang pelakon. Nieza, isterinya gembira dengan berita itu tetapi, timbul pula rasa cemburu memikirkan Poji akan digilai ramai wanita.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200116113000 +0800" stop="20200116120000 +0800" channel="TV 3">
-    <title lang="en">1, 2 Bakar</title>
-    <desc lang="en">Rancangan memasak semi-realiti berkonsepkan 'Bakar' melibatkan 2 tukang masak di dalam 1 dapur yang bukan sahaja berbeza pengalaman dan latar belakang, malah juga generasi.</desc>
+    <title lang="en">Mahligai Cinta</title>
+    <desc lang="en">Berkongsi idea,tip-tip persiapan dan kelengkapan majlis resepsi perkahwinan yang anda idamkan.</desc>
     <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Food</category>
+    <category lang="en">Fashion</category>
   </programme>
   <programme start="20200116120000 +0800" stop="20200116130000 +0800" channel="TV 3">
     <title lang="en">(L) Wanita Hari Ini</title>
@@ -3677,8 +3683,8 @@
     <category lang="en">Talk Show</category>
   </programme>
   <programme start="20200116130000 +0800" stop="20200116133000 +0800" channel="TV 3">
-    <title lang="en">Kasih Suci</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">Misi Laksa Dan Laksam</title>
+    <desc lang="en">Hakimy pucat kerana Fiza masih tak sedarkan diri lagi. Anak-anak datang berlari kepadanya dan menangis. Masa ini, Hakimy nak panggil ambulan tetapi tak jadi dia terus mencampung Fiza naik ke kereta.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
@@ -3689,50 +3695,44 @@
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200116140000 +0800" stop="20200116150000 +0800" channel="TV 3">
-    <title lang="en">Debunga Lalang</title>
-    <desc lang="en">Tentang kehidupan Aisyah, sudah berumah-tangga dengan Halim serta mempunyai 2 puteri, Alia dan Arina. Aisyah merupakan suri rumah sepenuh masa.</desc>
-    <category lang="en">Movie</category>
+    <title lang="en">Raisha</title>
+    <desc lang="en">Kisah Raisha, seorang gadis materialistik, dari keluarga yang serba kesusahan. Terbiasa dengan sifat ayahnya yang sentiasa menurut kehendaknya, Raisha membesar menjadi seorang yang kuat memberontak.</desc>
+    <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200116150000 +0800" stop="20200116160000 +0800" channel="TV 3">
-    <title lang="en">A Woman Scorned</title>
-    <desc lang="en">Mengisahkan Rome dan Emma, sepasang suami isteri yang mempunyai anak lelaki, Austin. Emma seorang suri rumah dan isteri yang bertanggungjawab tetapi tidak pandai bergaya.</desc>
+    <title lang="en">Sana'Y Wala Nang Wakas Aka Timeless</title>
+    <desc lang="en">Shipwrecked Christian and Ara are washed up on an isolated island. They fall in love, but will it last when they are rescued and return to their own lives?</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200116160000 +0800" stop="20200116170000 +0800" channel="TV 3">
-    <title lang="en">Naagin 2</title>
-    <desc lang="en">Naagin 2 depicts Shivangi, who learns she is an Icchadhari Naagin and makes her chief objective saving the Naagmani from the evil Mahishmathi queen, Avantika.</desc>
+    <title lang="en">Chandra Nandini</title>
+    <desc lang="en">Based on Chandragupta, founder of the Maurya empire, this drama captures the love story between him and his queen Nandini, daughter of his greatest enemy.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200116170000 +0800" stop="20200116173000 +0800" channel="TV 3">
-    <title lang="en">Kyoryuger</title>
-    <desc lang="en">The ancient Kyoryuger people return from the Stone Age, using the powers of the Beast Batteries to fight off a revived threat from outer space.</desc>
+    <title lang="en">Pokemon: Sun &amp; Moon Ultra Adventures</title>
+    <desc lang="en">Siri animasi menarik untuk tontonan anda.</desc>
     <category lang="en">Kids</category>
     <category lang="en">General</category>
   </programme>
   <programme start="20200116173000 +0800" stop="20200116180000 +0800" channel="TV 3">
-    <title lang="en">Iris</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">Tauke Jamu</title>
+    <desc lang="en">Cinta Dazril dan Gia terhalang kerana ibu Gia, Dr Suraya. Dr Suraya fikir Dazril tidak layak untuk anaknya kerana pekerjaan lelaki itu hanyalah menjual jamu tradisional.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200116180000 +0800" stop="20200116183000 +0800" channel="TV 3">
-    <title lang="en">AI D' Beijing</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200116183000 +0800" stop="20200116190000 +0800" channel="TV 3">
-    <title lang="en">Hantu Punya Bos!</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+  <programme start="20200116180000 +0800" stop="20200116190000 +0800" channel="TV 3">
+    <title lang="en">Dian</title>
+    <desc lang="en">Kisah Dian, seorang wanita yang hanya berpegang kepada prinsip hidupnya terkilan dengan ibunya yang tidak memberi restu atas pilihan hatinya.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200116190000 +0800" stop="20200116200000 +0800" channel="TV 3">
-    <title lang="en">Pujaan Hati Kanda</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">Adellea Sofea</title>
+    <desc lang="en">Setelah berkahwin, segalanya mula berubah apabila Sofea mendapat tahu Firdaus merupkan seorang penagih dadah. Rumahtangga yang bahagia mula berantakan.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
@@ -3743,22 +3743,22 @@
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200116210000 +0800" stop="20200116220000 +0800" channel="TV 3">
-    <title lang="en">Aku Cinta Dia</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">Titian Takdir</title>
+    <desc lang="en">Drama bersiri Titian Takdir, dibintangi oleh Sweet Qismina, Nadia Brian, Fimie Don dan Syazuwan Hassan. Drama terbitan Suhan Movies and Trading, diarahkan oleh Nazir Jamaluddin.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200116220000 +0800" stop="20200116230000 +0800" channel="TV 3">
-    <title lang="en">Setelah Cinta Itu Pergi</title>
-    <desc lang="en">Rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">Cindai</title>
+    <desc lang="en">Kisah tentang kehidupan seorang gadis yang menghidapi bipolar disorder bernama Cindai, dia juga seorang gelandangan kerana tidak mempunyai saudara yang boleh ditumpang.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200116230000 +0800" stop="20200116233000 +0800" channel="TV 3">
-    <title lang="en">By the Sea 2018</title>
-    <desc lang="en">The host will go on an island trip with a local celebrity and prepare food for their picnic later. While preparing the food, the celebrity will need to answer 20 rapid questions.</desc>
+    <title lang="en">Jalan Jalan Cari Makan</title>
+    <desc lang="en">Menjelajah ke seluruh tanah air untuk mencuba pelbagai aneka makanan. Bersama hos anda Nazrudin Habibur Rahman.</desc>
     <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Travel</category>
+    <category lang="en">Food</category>
   </programme>
   <programme start="20200110003000 +0800" stop="20200110013000 +0800" channel="NTV7">
     <title lang="en">General and I</title>
@@ -5470,8 +5470,8 @@
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200113203000 +0800" stop="20200113223000 +0800" channel="TV 9">
-    <title lang="en">Movie</title>
-    <desc lang="en">Sebuah rancangan menarik untuk tontonan anda.</desc>
+    <title lang="en">Mr. Maid, Suami Ibu</title>
+    <desc lang="en">Ibu Arjuna, Myazara yang sibuk bekerja mengupah Hadi untuk menguruskan rumah and anaknya. Ini menyebabkan Arjuna lebih selesa meluahkan masalah and berada bersama Hadi.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
   </programme>
@@ -5578,9 +5578,9 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200114213000 +0800" stop="20200114223000 +0800" channel="TV 9">
-    <title lang="en">Pinggan Tak Retak, Nasi Tak Dingin</title>
-    <desc lang="en">Sehari sebelum majlis perkahwinannya, Yuhanis dikejutkan dengan berita tunangnya, Sharul Nizam enggan menikahinya kerana dia telahpun berkahwin dengan Shila dalam diam di UK.</desc>
-    <category lang="en">TV Show</category>
+    <title lang="en">Hati Perempuan</title>
+    <desc lang="en">Yuhanis seperti tidak percaya kerana kad itu tidak punya nama penerima. Adakah untuk dia ataupun untuk orang lain and pekerja Tg. Zaril tersalah hantar?</desc>
+    <category lang="en">Movie</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200114223000 +0800" stop="20200114230000 +0800" channel="TV 9">
@@ -5692,8 +5692,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200115223000 +0800" stop="20200115230000 +0800" channel="TV 9">
-    <title lang="en">Mr Bean Live Action</title>
-    <desc lang="en">Siri komedi yang hanya terbaik dari Mr Bean Live Action.</desc>
+    <title lang="en">Off the Hook</title>
+    <desc lang="en">Qi goes to Pulau Tenggol, Malaysia, to meet his mentor legendary angler, Pak Mud. Qi visits local boatwrights to get a glimpse of how traditional handmade boats are made.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Comedy</category>
   </programme>
@@ -5710,10 +5710,10 @@
     <category lang="en">Religious</category>
   </programme>
   <programme start="20200116030000 +0800" stop="20200116033000 +0800" channel="TV 9">
-    <title lang="en">Obsesi</title>
-    <desc lang="en">Berjayakah Paul membuktikan Tengku Azzuddin sebagai pembunuh? Siapakah pembunuh sebenar Shirly dan dapatkah Tengku Azzuddin menerima Suriati dalam hidupnya?</desc>
+    <title lang="en">Off the Hook</title>
+    <desc lang="en">Qi goes to Pulau Tenggol, Malaysia, to meet his mentor legendary angler, Pak Mud. Qi visits local boatwrights to get a glimpse of how traditional handmade boats are made.</desc>
     <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
   </programme>
   <programme start="20200116033000 +0800" stop="20200116043000 +0800" channel="TV 9">
     <title lang="en">Majalah 3</title>
@@ -14994,5 +14994,349 @@
     <category lang="en">Current Affairs / General</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
     <episode-num system="xmltv_ns">.359.</episode-num>
+  </programme>
+  <programme start="20200116053000 +0800" stop="20200116060000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
+    <episode-num system="xmltv_ns">.167.</episode-num>
+  </programme>
+  <programme start="20200116060000 +0800" stop="20200116063000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116063000 +0800" stop="20200116065700 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Kupasan lebih mendalam beberapa tajuk berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116065700 +0800" stop="20200116070000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116070000 +0800" stop="20200116073000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116073000 +0800" stop="20200116080000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Kupasan lebih mendalam beberapa tajuk berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116080000 +0800" stop="20200116082700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116082700 +0800" stop="20200116083000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116083000 +0800" stop="20200116090000 +0800" channel="Astro Awani">
+    <title lang="en">(L) AWANI Pagi</title>
+    <desc lang="en">Kupasan lebih mendalam beberapa tajuk berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116090000 +0800" stop="20200116092700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Niaga AWANI</title>
+    <desc lang="en">Menjelang Pelancaran APEC 2020 oleh Perdana Menteri, Rizal Zulkapli melihat kepada signifikan APEC 2020 kepada Malaysia.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment News</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116092700 +0800" stop="20200116093000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116093000 +0800" stop="20200116100000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.362.</episode-num>
+  </programme>
+  <programme start="20200116100000 +0800" stop="20200116103000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116103000 +0800" stop="20200116110000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116110000 +0800" stop="20200116112700 +0800" channel="Astro Awani">
+    <title lang="en">Niaga AWANI</title>
+    <desc lang="en">Berita niaga dan ekonomi dalam dan luar negara serta analisis dan temubual bersama tokoh perniagaan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment News</category>
+    <episode-num system="xmltv_ns">.210.</episode-num>
+  </programme>
+  <programme start="20200116112700 +0800" stop="20200116113000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116113000 +0800" stop="20200116120000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.370.</episode-num>
+  </programme>
+  <programme start="20200116120000 +0800" stop="20200116123000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116123000 +0800" stop="20200116125700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116125700 +0800" stop="20200116130000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116130000 +0800" stop="20200116133000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116133000 +0800" stop="20200116135700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116135700 +0800" stop="20200116140000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116140000 +0800" stop="20200116143000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116143000 +0800" stop="20200116150000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116150000 +0800" stop="20200116153000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.370.</episode-num>
+  </programme>
+  <programme start="20200116153000 +0800" stop="20200116155700 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.370.</episode-num>
+  </programme>
+  <programme start="20200116155700 +0800" stop="20200116160000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Ringkas</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116160000 +0800" stop="20200116163000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116163000 +0800" stop="20200116170000 +0800" channel="Astro Awani">
+    <title lang="en">No information available</title>
+    <desc lang="en">No information available.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <episode-num system="xmltv_ns">.240.</episode-num>
+  </programme>
+  <programme start="20200116170000 +0800" stop="20200116172700 +0800" channel="Astro Awani">
+    <title lang="en">(L) Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116172700 +0800" stop="20200116173000 +0800" channel="Astro Awani">
+    <title lang="en">AWANI Byte</title>
+    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116173000 +0800" stop="20200116174500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Niaga AWANI</title>
+    <desc lang="en">Menjelang Pelancaran APEC 2020 oleh Perdana Menteri, Rizal Zulkapli melihat kepada signifikan APEC 2020 kepada Malaysia.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment News</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116174500 +0800" stop="20200116180000 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  </programme>
+  <programme start="20200116180000 +0800" stop="20200116183000 +0800" channel="Astro Awani">
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.371.</episode-num>
+  </programme>
+  <programme start="20200116183000 +0800" stop="20200116190000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116190000 +0800" stop="20200116191500 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116191500 +0800" stop="20200116193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.293.</episode-num>
+  </programme>
+  <programme start="20200116193000 +0800" stop="20200116194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <episode-num system="xmltv_ns">.327.</episode-num>
+  </programme>
+  <programme start="20200116194500 +0800" stop="20200116203000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Awani 7:45</title>
+    <desc lang="en">Laporan berita, fakta dan data yang anda pelu tahu hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116203000 +0800" stop="20200116204500 +0800" channel="Astro Awani">
+    <title lang="en">Lan Berdagang</title>
+    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  </programme>
+  <programme start="20200116204500 +0800" stop="20200116210000 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <episode-num system="xmltv_ns">.327.</episode-num>
+  </programme>
+  <programme start="20200116210000 +0800" stop="20200116213000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani</title>
+    <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116213000 +0800" stop="20200116214500 +0800" channel="Astro Awani">
+    <title lang="en">Awani Sarawak</title>
+    <desc lang="en">Laporan perkembangan berita Negeri Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.307.</episode-num>
+  </programme>
+  <programme start="20200116214500 +0800" stop="20200116220000 +0800" channel="Astro Awani">
+    <title lang="en">KiniTV</title>
+    <desc lang="en">Laporan berita dalam dan luar negara berbahasa Inggeris terbitan KiniTV Sdn Bhd.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20200116220000 +0800" stop="20200116223000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20200116223000 +0800" stop="20200116230000 +0800" channel="Astro Awani">
+    <title lang="en">Notepad with Ibrahim Sani</title>
+    <desc lang="en">Join Astro AWANI's Lead Business Editor Ibrahim Sani, as he shares today's top stories and events that impacts your lives.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <episode-num system="xmltv_ns">.179.</episode-num>
+  </programme>
+  <programme start="20200116230000 +0800" stop="20200116233000 +0800" channel="Astro Awani">
+    <title lang="en">Consider This</title>
+    <desc lang="en">Fresh perspectives demand fresh voices. Sharaad Kuttan and Melisa Idris will give you a fresh take on topics you may have only previously considered from one point of view.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.119.</episode-num>
+  </programme>
+  <programme start="20200116233000 +0800" stop="20200116234500 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.293.</episode-num>
   </programme>
 </tv>
