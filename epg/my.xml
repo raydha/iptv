@@ -1282,9 +1282,21 @@
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Religious</category>
   </programme>
-  <programme start="20200116070000 +0800" stop="20200116080000 +0800" channel="TV 1">
-    <title lang="en">Nasional 7</title>
-    <desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  <programme start="20200116070000 +0800" stop="20200116073000 +0800" channel="TV 1">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Saksikan berita pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116073000 +0800" stop="20200116074500 +0800" channel="TV 1">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sabah.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116074500 +0800" stop="20200116080000 +0800" channel="TV 1">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sarawak.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
   </programme>
@@ -1294,68 +1306,80 @@
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
   </programme>
-  <programme start="20200116100000 +0800" stop="20200116110000 +0800" channel="TV 1">
-    <title lang="en">Benang Emas</title>
-    <desc lang="en">Sebuah dokumentari bertemakan travelog kehidupan sosio-masyarakat di sesuatu daerah di Malaysia.</desc>
+  <programme start="20200116100000 +0800" stop="20200116103000 +0800" channel="TV 1">
+    <title lang="en">Belahan Jiwa</title>
+    <desc lang="en">Memaparkan masalah perubatan yang selalu dihidapi oleh wanita yang mengandung dan menunjukkan masakan bagi wanita selepas bersalin dan cara-cara tradisi menjaga kesihatan wanita selepas bersalin.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200116103000 +0800" stop="20200116110000 +0800" channel="TV 1">
+    <title lang="en">Bye-Bye Mama</title>
+    <desc lang="en">Bersama Azhar Sulaiman dan Andika Rees Pahamin Azhar, melakukan pelbagai aktiviti dan cabaran dalam #byebyeMama.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116110000 +0800" stop="20200116113000 +0800" channel="TV 1">
-    <title lang="en">Kalori</title>
-    <desc lang="en">Rancangan padat dengan informasi untuk tontonan anda.</desc>
+    <title lang="en">Meals in Minutes</title>
+    <desc lang="en">Rancangan masakan yang dihoskan oleh seorang Cef terkenal, Cef Wan memaparkan resepi masakan yang cepat dan mudah disediakan.</desc>
+    <category lang="en">Lifestyle, Leisure, Hobbies</category>
+    <category lang="en">Food</category>
+  </programme>
+  <programme start="20200116113000 +0800" stop="20200116120000 +0800" channel="TV 1">
+    <title lang="en">Diari Marin</title>
+    <desc lang="en">Memaparkan kerjaya dalam bidang marin dan laut.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20200116113000 +0800" stop="20200116123000 +0800" channel="TV 1">
-    <title lang="en">Hola Hermosa</title>
-    <desc lang="en">Perjalanan hidup sepasang suami isteri dan dua orang rakan mereka serta pasangan masing-masing yang menempuh pelbagai cabaran dalam mengharungi kehidupan dan perjuangan cinta mereka.</desc>
+  <programme start="20200116120000 +0800" stop="20200116123000 +0800" channel="TV 1">
+    <title lang="en">Hei Maskulin</title>
+    <desc lang="en">Berkongsi sifat-sifat peribadi, perwatakan, aktiviti yang diceburi dan gaya hidup kaum lelaki yang maskulin dan berjaya dalam kehidupan.</desc>
     <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116123000 +0800" stop="20200116130000 +0800" channel="TV 1">
-    <title lang="en">#Jalan Lama</title>
-    <desc lang="en">Memaparkan pengembaraan melalui jalan lama yang telah ditelan zaman, sambil menjelaskan keunikan tempat-tempat yang dikunjungi dari segi masakan dan hidangan makanan-makanan klasik.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Travel</category>
+    <title lang="en">Medik - Q</title>
+    <desc lang="en">Sebuah rancangan yang membincangkan tentang sesuatu penyakit, perubatan moden dan kaedah rawatan terkini.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Talk Show</category>
   </programme>
   <programme start="20200116130000 +0800" stop="20200116133000 +0800" channel="TV 1">
-    <title lang="en">Nasional 1</title>
-    <desc lang="en">Saksikan Berita Nasional 1 yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200116133000 +0800" stop="20200116143000 +0800" channel="TV 1">
-    <title lang="en">Jungle Planet</title>
-    <desc lang="en">Memaparkan keseimbangan alam semula jadi serta kemusnahan yang berlaku kepada alam sekitar hasil daripada aktiviti-aktiviti manusia yang sering menyebabkan kepupusan flora dan fauna.</desc>
+    <title lang="en">Wildlife Heroes</title>
+    <desc lang="en">Dokumentari memaparkan aktiviti harian golongan saintis dan para doktor haiwan yang berdedikasi dalam penjagaan haiwan di habitat semula jadi jenis haiwan tersebut.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20200116143000 +0800" stop="20200116150000 +0800" channel="TV 1">
-    <title lang="en">Mat Saintis</title>
-    <desc lang="en">Cereka bersiri mengenai seorang kanak-kanak yang kreatif dan berminat dengan bidang sains dan ciptaan alatalat elektronik.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">General</category>
+    <title lang="en">Kacang</title>
+    <desc lang="en">Sebuah filem animasi dengan watak-watak kacang yang memaparkan nasihat untuk kanak kanak.</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Documentary</category>
   </programme>
   <programme start="20200116150000 +0800" stop="20200116160000 +0800" channel="TV 1">
-    <title lang="en">Taman Diva</title>
-    <desc lang="en">Tentang sebuah keluarga dari kampung menghadapi kejutan budaya apabila berpindah ke sebuah taman perumahan di bandar. Mereka berhadapan dengan gelagat jiran-jiran baru yang pelbagai ragam.</desc>
+    <title lang="en">Mencari Mel Dan Ayu</title>
+    <desc lang="en">Kisah Zainuddin yang belajar di luar negara telah jatuh cinta dengan, Catherine. Pada masa yang sama Azimah, sepupu Zainuddin sudah lama menaruh hati pada Zainuddin tanpa pengetahuannya.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20200116160000 +0800" stop="20200116163000 +0800" channel="TV 1">
-    <title lang="en">Sinei Kita Tok</title>
-    <desc lang="en">Rancangan padat dengan informasi untuk tontonan anda.</desc>
+    <title lang="en">Adat Perkahwinan Borneo</title>
+    <desc lang="en">Memaparkan adat perkahwinan yang menjadi amalan bagi etnik-etnik yang terdapat di Sabah dan Sarawak. Setiap episod akan memaparkan adat bagi etnik yang berlainan.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20200116163000 +0800" stop="20200116170000 +0800" channel="TV 1">
-    <title lang="en">Khazanah Borneo</title>
-    <desc lang="en">Memaparkan penjelajahan dan kajian tentang peninggalan sejarah di Sabah dan Sarawak.</desc>
+    <title lang="en">Rona Sabah</title>
+    <desc lang="en">Sebuah rancangan dokumentari dari negeri Sabah Di Bawah Bayu.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20200116170000 +0800" stop="20200116180000 +0800" channel="TV 1">
-    <title lang="en">N5</title>
+    <title lang="en">Berita Wilayah</title>
     <desc lang="en">Laporan berita semasa dalam negeri.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
@@ -1366,17 +1390,11 @@
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Religious</category>
   </programme>
-  <programme start="20200116190000 +0800" stop="20200116193000 +0800" channel="TV 1">
-    <title lang="en">Titik Sentuhan Terus Bertindak</title>
-    <desc lang="en">Menyampaikan aduan dan permasalahan yang di hadapi rakyat di seluruh Malaysia dan juga bertindak mendapatkan jawapan atau penyelesaian daripada pihak-pihak yang bertanggungjawab.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20200116193000 +0800" stop="20200116200000 +0800" channel="TV 1">
-    <title lang="en">More Curious</title>
-    <desc lang="en">Sebuah dokumentari sains mengenai persekitaran dan peralatan yang digunakan oleh manusia.</desc>
-    <category lang="en">Factual &amp; Documentary</category>
-    <category lang="en">Documentary</category>
+  <programme start="20200116190000 +0800" stop="20200116200000 +0800" channel="TV 1">
+    <title lang="en">I Love You Cikgu</title>
+    <desc lang="en">Drama yang padat dengan kisah suka dan duka.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20200116200000 +0800" stop="20200116210000 +0800" channel="TV 1">
     <title lang="en">Nasional 8</title>
@@ -1391,19 +1409,19 @@
     <category lang="en">Religious</category>
   </programme>
   <programme start="20200116220000 +0800" stop="20200116223000 +0800" channel="TV 1">
-    <title lang="en">Rumpun Melayu Global</title>
-    <desc lang="en">Rancangan dokumentari ini membawa penonton mendekati warisan budaya yang masih diamalkan dan mengetengahkan pencapaian warga Malaysia Melayu di luar negara.</desc>
+    <title lang="en">Sunahmu Amalanku</title>
+    <desc lang="en">Membincangkan sunnah Rasullullah SAW dan mengajak penonton mengamalkan amalan dianjurkan dalam kehidupan seharian.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20200116223000 +0800" stop="20200116230000 +0800" channel="TV 1">
-    <title lang="en">Ekspresi Eko</title>
-    <desc lang="en">Dokumentari ini bertemakan alam semula jadi yang indah di Malaysia yang tidak diketahui ramai.</desc>
+    <title lang="en">Khazanah Yang Hilang</title>
+    <desc lang="en">Sebuah rancangan menjejaki kesan tinggalan sejarah tamadun lama sekitar Malaysia.</desc>
     <category lang="en">Factual &amp; Documentary</category>
     <category lang="en">Documentary</category>
   </programme>
   <programme start="20200116230000 +0800" stop="20200116233000 +0800" channel="TV 1">
-    <title lang="en">BES Dunia</title>
+    <title lang="en">Berita Dunia</title>
     <desc lang="en">Ikuti paparan berita semasa dari luar negara dalam BES Dunia.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
@@ -2537,64 +2555,52 @@
     <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116060000 +0800" stop="20200116063000 +0800" channel="TV 2">
-    <title lang="en">Drama</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
+    <title lang="en">Asian Culture</title>
+    <desc lang="en">Bersama Soo Winci dalam  program yang memaparkan sejarah, budaya dan masyarakat serta keunikan tempat pelancongan yang menarik dan popular  di negara-negara Asia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20200116063000 +0800" stop="20200116070000 +0800" channel="TV 2">
+    <title lang="en">Cergas Dan Sihat</title>
+    <desc lang="en">Majalah gaya hidup sihat tentang bagaimana memulakan kehidupan dengan cara yang lebih positif dan bermanfaat.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20200116070000 +0800" stop="20200116080000 +0800" channel="TV 2">
+    <title lang="en">Lembuku Ben</title>
+    <desc lang="en">Kisah persahabatan antara binatang peliharaan dengan tuannya. Dun, seorang remaja kampung yang memelihara seekor lembu dan amat menyanyangi lembunya hingga menjadi bualan orang kampung.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200116063000 +0800" stop="20200116073000 +0800" channel="TV 2">
-    <title lang="en">Drama</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200116073000 +0800" stop="20200116080000 +0800" channel="TV 2">
-    <title lang="en">Destinasi Borneo</title>
-    <desc lang="en">Rancangan yang padat dengan informasi untuk tontonan semua.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Travel</category>
   </programme>
   <programme start="20200116080000 +0800" stop="20200116083000 +0800" channel="TV 2">
-    <title lang="en">Kediaman Idaman</title>
-    <desc lang="en">Rancangan yang padat dengan informasi untuk tontonan semua.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Special Interest</category>
+    <title lang="en">Silang</title>
+    <desc lang="en">Kisah Silang, seekor burung helang yang hidup bersama haiwan-haiwan di rimba setelah kematian ibu-bapanya.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116083000 +0800" stop="20200116090000 +0800" channel="TV 2">
-    <title lang="en">Healthy Body Healthy Mind</title>
-    <desc lang="en">Rancangan yang padat dengan informasi untuk tontonan semua.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Wellness</category>
+    <title lang="en">Dunia Dee</title>
+    <desc lang="en">Bersama Elfira Loid an Ddee yang merupakan  watak animasi kanak-kanak comel dan riang.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116090000 +0800" stop="20200116093000 +0800" channel="TV 2">
-    <title lang="en">Aktif Atlet</title>
-    <desc lang="en">Memaparkan biografi seorang atlit sukan negara. Setiap episod memaparkan beberapa individu yang aktif dalam pelbagai permainan sukan hingga berjaya mencipta nama hingga ke luar negara.</desc>
-    <category lang="en">Lifestyle, Leisure, Hobbies</category>
-    <category lang="en">Wellness</category>
+    <title lang="en">Sugar Pals</title>
+    <desc lang="en">Lottie, Mint, Snap, Cheese Girl dan Mousse merupakan pastry dan gula-gula yang dihidupkan oleh seorang pembuat kek juga seorang saintis.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20200116093000 +0800" stop="20200116103000 +0800" channel="TV 2">
-    <title lang="en">Drama</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+  <programme start="20200116093000 +0800" stop="20200116100000 +0800" channel="TV 2">
+    <title lang="en">Jaguh Silat</title>
+    <desc lang="en">Kisah dua kumpulan silat iaitu Rajawali dan Cakar Harimau yang sentiasa bersaing untuk menjadi yang terbaik.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20200116103000 +0800" stop="20200116110000 +0800" channel="TV 2">
-    <title lang="en">Gladiators</title>
-    <desc lang="en">When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20200116110000 +0800" stop="20200116113000 +0800" channel="TV 2">
-    <title lang="en">Raja Pahat</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20200116113000 +0800" stop="20200116120000 +0800" channel="TV 2">
-    <title lang="en">Simfoni Alam</title>
-    <desc lang="en">Dokumentari yang berkisar tentang alam sekitar dan haiwan liar yang mengupas pelbagai topik menarik tentang penemuan, teknologi serta isu berkaitan alam semulajadi.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Documentary</category>
+  <programme start="20200116100000 +0800" stop="20200116120000 +0800" channel="TV 2">
+    <title lang="en">The Last Hainan Chicken Rice</title>
+    <desc lang="en">Ah Peng seorang penjual nasi ayam disahkan menghidapi barah dan hanya mempunyai 3 bulan untuk hidup. Anaknya Ming Dong, seorang banduan, menyesal atas jenayah yang dilakukan semasa muda.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116120000 +0800" stop="20200116122000 +0800" channel="TV 2">
     <title lang="en">Berita Mandarin</title>
@@ -2609,46 +2615,46 @@
     <category lang="en">Discussion / Interview / Debate</category>
   </programme>
   <programme start="20200116123000 +0800" stop="20200116130000 +0800" channel="TV 2">
-    <title lang="en">Berita Inggeris</title>
-    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+    <title lang="en">Update@Noon</title>
+    <desc lang="en">News On 2, brings you the latest news of national interest and trending international issues.</desc>
     <category lang="en">News</category>
     <category lang="en">Business</category>
   </programme>
   <programme start="20200116130000 +0800" stop="20200116140000 +0800" channel="TV 2">
-    <title lang="en">Drama</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
+    <title lang="en">Man X Man</title>
+    <desc lang="en">Kisah seorang agen perisik Korea National Inteligence Service yang menyamar sebagai pengawal peribadi kepada seorang selebriti popular.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200116140000 +0800" stop="20200116153000 +0800" channel="TV 2">
-    <title lang="en">Movie</title>
-    <desc lang="en">Rancangan yang menarik untuk tontonan semua.</desc>
+  <programme start="20200116140000 +0800" stop="20200116150000 +0800" channel="TV 2">
+    <title lang="en">Facebook Tok Chom</title>
+    <desc lang="en">Kisah kegigihan seorang pesara guru yang dikenali sebagai Tok Chom dalam mendidik dan mendisiplinkan cucu-cucu serta budak-budak kampungnya.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200116153000 +0800" stop="20200116170000 +0800" channel="TV 2">
-    <title lang="en">Ssshhh!!</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+  <programme start="20200116150000 +0800" stop="20200116170000 +0800" channel="TV 2">
+    <title lang="en">Oru Paavatin Tandanai</title>
+    <desc lang="en">Kisah mengenai gadis dan wanita yang telah berkahwin dan terjerat dalam muslihat warga asing yang kemudian menyeludup mereka keluar negara.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116170000 +0800" stop="20200116180000 +0800" channel="TV 2">
-    <title lang="en">Drama</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+    <title lang="en">The Imperial Doctress</title>
+    <desc lang="en">Kisah seorang wanita cantik bernama Tan Yu Xian yang tinggal di sebuah bandar di mana pada masa itu, wanita dipandang rendah untuk memegang jawatan dalam kerajaan.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116180000 +0800" stop="20200116190000 +0800" channel="TV 2">
-    <title lang="en">Drama</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+    <title lang="en">Forever Bound</title>
+    <desc lang="en">Kisah seorang ibu cekal yang berjuang mengharungi dugaan dalam kehidupan rumah tangganya. Suaminya seorang kaki judi yang sering mengabaikan keluarga.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200116190000 +0800" stop="20200116193000 +0800" channel="TV 2">
-    <title lang="en">Lilo &amp; Stitch</title>
-    <desc lang="en">Lilo and Stitch: The Series is the animated television spinoff of the feature film, Lilo and Stitch and the follow-up to Stitch! The Movie.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">Animation</category>
+    <title lang="en">Berita Inggeris</title>
+    <desc lang="en">News On 2, brings you the latest news of national interest and trending international issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
   </programme>
   <programme start="20200116193000 +0800" stop="20200116200000 +0800" channel="TV 2">
     <title lang="en">Berita Tamil</title>
@@ -2662,17 +2668,11 @@
     <category lang="en">News</category>
     <category lang="en">Business</category>
   </programme>
-  <programme start="20200116203000 +0800" stop="20200116210000 +0800" channel="TV 2">
-    <title lang="en">Berita Inggeris</title>
-    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-  </programme>
-  <programme start="20200116210000 +0800" stop="20200116220000 +0800" channel="TV 2">
-    <title lang="en">Drama</title>
-    <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+  <programme start="20200116203000 +0800" stop="20200116213000 +0800" channel="TV 2">
+    <title lang="en">Lara Syakila</title>
+    <desc lang="en">Syakila seorang gadis bangsawan telah dinafikan haknya untuk bercinta dengan jejaka kampung bernama Adam.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200110000000 +0800" stop="20200110003000 +0800" channel="TV 3">
     <title lang="en">(L) Nightline</title>
@@ -4045,8 +4045,8 @@
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200113180000 +0800" stop="20200113190000 +0800" channel="NTV7">
-    <title lang="en">A Korean Odyssey</title>
-    <desc lang="en">A modern-day spinoff to the Chinese classic Journey To The West, this drama charts how rivals Son O-Gong and King Wooma search for a true light in a world where evil exists everywhere.</desc>
+    <title lang="en">100 Days My Prince</title>
+    <desc lang="en">When Lee Yool, the Crown Prince, abruptly disappears, he comes back to the palace one hundred days later. Where has he been? And what has transpired during this time?</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
@@ -4068,31 +4068,25 @@
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
   </programme>
-  <programme start="20200113203000 +0800" stop="20200113210000 +0800" channel="NTV7">
-    <title lang="en">Welcome to the Rail World</title>
-    <desc lang="en">Welcome To The Rail World will take you on an unforgettable journey, as you explore the sights and sounds with Henry Golding, with a round trip ticket on board Malaysia's national train service.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20200113210000 +0800" stop="20200113230000 +0800" channel="NTV7">
+  <programme start="20200113203000 +0800" stop="20200113223000 +0800" channel="NTV7">
     <title lang="en">CJ Wow Shop</title>
     <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20200113230000 +0800" stop="20200114000000 +0800" channel="NTV7">
+  <programme start="20200113223000 +0800" stop="20200113233000 +0800" channel="NTV7">
     <title lang="en">Age of Glory 2</title>
     <desc lang="en">Set in the 30s, this drama depicts the challenges of Chinese migrants who braved the raging South China Sea to British-ruled Malaya, in search of a better life.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200114010000 +0800" stop="20200114020000 +0800" channel="NTV7">
-    <title lang="en">General and I</title>
-    <desc lang="en">Brilliant strategist Bai Ping Ting and prince-general Chu Bei Jie of rival kingdoms find themselves torn between loyalty to the country and their passionate love for each other.</desc>
+  <programme start="20200113233000 +0800" stop="20200114003000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
     <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20200114020000 +0800" stop="20200114060000 +0800" channel="NTV7">
+  <programme start="20200114013000 +0800" stop="20200114060000 +0800" channel="NTV7">
     <title lang="en">Transmission Ends</title>
     <desc lang="en">NTV7 will resume in a few hours with your favourite programs. Have a pleasant day and thank you for watching.</desc>
     <category lang="en">Special Characteristics</category>
@@ -4116,8 +4110,8 @@
     <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200114120000 +0800" stop="20200114130000 +0800" channel="NTV7">
-    <title lang="en">The Legendary Tycoon</title>
-    <desc lang="en">This saga charts how a Shanghai film tycoon of the 1930s devotes his entire life to spreading Chinese culture in the form of popular film across the world.</desc>
+    <title lang="en">The Chronicle of a Taichi Master</title>
+    <desc lang="en">This is the tale of a frivolous young man who later transforms into a Taichi grand master. It encompasses a nation's struggle, a fighter's honor and a family's pride.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
@@ -4134,8 +4128,8 @@
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200114180000 +0800" stop="20200114190000 +0800" channel="NTV7">
-    <title lang="en">A Korean Odyssey</title>
-    <desc lang="en">A modern-day spinoff to the Chinese classic Journey To The West, this drama charts how rivals Son O-Gong and King Wooma search for a true light in a world where evil exists everywhere.</desc>
+    <title lang="en">100 Days My Prince</title>
+    <desc lang="en">When Lee Yool, the Crown Prince, abruptly disappears, he comes back to the palace one hundred days later. Where has he been? And what has transpired during this time?</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
@@ -4157,31 +4151,25 @@
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
   </programme>
-  <programme start="20200114203000 +0800" stop="20200114210000 +0800" channel="NTV7">
-    <title lang="en">Welcome to the Rail World</title>
-    <desc lang="en">Welcome To The Rail World will take you on an unforgettable journey, as you explore the sights and sounds with Henry Golding, with a round trip ticket on board Malaysia's national train service.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20200114210000 +0800" stop="20200114230000 +0800" channel="NTV7">
+  <programme start="20200114203000 +0800" stop="20200114223000 +0800" channel="NTV7">
     <title lang="en">CJ Wow Shop</title>
     <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20200114230000 +0800" stop="20200115000000 +0800" channel="NTV7">
+  <programme start="20200114223000 +0800" stop="20200114233000 +0800" channel="NTV7">
     <title lang="en">Age of Glory 2</title>
     <desc lang="en">Set in the 30s, this drama depicts the challenges of Chinese migrants who braved the raging South China Sea to British-ruled Malaya, in search of a better life.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200115010000 +0800" stop="20200115020000 +0800" channel="NTV7">
-    <title lang="en">General and I</title>
-    <desc lang="en">Brilliant strategist Bai Ping Ting and prince-general Chu Bei Jie of rival kingdoms find themselves torn between loyalty to the country and their passionate love for each other.</desc>
+  <programme start="20200114233000 +0800" stop="20200115003000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
     <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20200115020000 +0800" stop="20200115060000 +0800" channel="NTV7">
+  <programme start="20200115013000 +0800" stop="20200115060000 +0800" channel="NTV7">
     <title lang="en">Transmission Ends</title>
     <desc lang="en">NTV7 will resume in a few hours with your favourite programs. Have a pleasant day and thank you for watching.</desc>
     <category lang="en">Special Characteristics</category>
@@ -4205,8 +4193,8 @@
     <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20200115120000 +0800" stop="20200115130000 +0800" channel="NTV7">
-    <title lang="en">The Legendary Tycoon</title>
-    <desc lang="en">This saga charts how a Shanghai film tycoon of the 1930s devotes his entire life to spreading Chinese culture in the form of popular film across the world.</desc>
+    <title lang="en">The Chronicle of a Taichi Master</title>
+    <desc lang="en">This is the tale of a frivolous young man who later transforms into a Taichi grand master. It encompasses a nation's struggle, a fighter's honor and a family's pride.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
@@ -4223,8 +4211,8 @@
     <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200115180000 +0800" stop="20200115190000 +0800" channel="NTV7">
-    <title lang="en">A Korean Odyssey</title>
-    <desc lang="en">A modern-day spinoff to the Chinese classic Journey To The West, this drama charts how rivals Son O-Gong and King Wooma search for a true light in a world where evil exists everywhere.</desc>
+    <title lang="en">100 Days My Prince</title>
+    <desc lang="en">When Lee Yool, the Crown Prince, abruptly disappears, he comes back to the palace one hundred days later. Where has he been? And what has transpired during this time?</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
@@ -4246,27 +4234,98 @@
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
   </programme>
-  <programme start="20200115203000 +0800" stop="20200115210000 +0800" channel="NTV7">
-    <title lang="en">Without Boundaries</title>
-    <desc lang="en">Henry Golding steps out of the concrete jungle into Mother Nature's loving arms as he discovers Malaysia's best dive sites, virgin rainforest and a tropical paradise.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20200115210000 +0800" stop="20200115230000 +0800" channel="NTV7">
+  <programme start="20200115203000 +0800" stop="20200115223000 +0800" channel="NTV7">
     <title lang="en">CJ Wow Shop</title>
     <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20200115230000 +0800" stop="20200116000000 +0800" channel="NTV7">
+  <programme start="20200115223000 +0800" stop="20200115233000 +0800" channel="NTV7">
     <title lang="en">Age of Glory 2</title>
     <desc lang="en">Set in the 30s, this drama depicts the challenges of Chinese migrants who braved the raging South China Sea to British-ruled Malaya, in search of a better life.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200116010000 +0800" stop="20200116020000 +0800" channel="NTV7">
-    <title lang="en">General and I</title>
-    <desc lang="en">Brilliant strategist Bai Ping Ting and prince-general Chu Bei Jie of rival kingdoms find themselves torn between loyalty to the country and their passionate love for each other.</desc>
+  <programme start="20200115233000 +0800" stop="20200116003000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20200116013000 +0800" stop="20200116060000 +0800" channel="NTV7">
+    <title lang="en">Transmission Ends</title>
+    <desc lang="en">NTV7 will resume in a few hours with your favourite programs. Have a pleasant day and thank you for watching.</desc>
+    <category lang="en">Special Characteristics</category>
+  </programme>
+  <programme start="20200116060000 +0800" stop="20200116070000 +0800" channel="NTV7">
+    <title lang="en">Living Delight</title>
+    <desc lang="en">This lively daily Chinese magazine talk show comprises topics pertaining to the Chinese community and focuses on issues close to the family.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200116070000 +0800" stop="20200116090000 +0800" channel="NTV7">
+    <title lang="en">Dragon Dance</title>
+    <desc lang="en">Taiwan's very first drama to be set against the Qing Dynasty Taipei circa 1868 -1888, this tale captures the Sino-French War and Mudan Incident.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200116090000 +0800" stop="20200116120000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20200116120000 +0800" stop="20200116130000 +0800" channel="NTV7">
+    <title lang="en">The Chronicle of a Taichi Master</title>
+    <desc lang="en">This is the tale of a frivolous young man who later transforms into a Taichi grand master. It encompasses a nation's struggle, a fighter's honor and a family's pride.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200116130000 +0800" stop="20200116170000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20200116170000 +0800" stop="20200116180000 +0800" channel="NTV7">
+    <title lang="en">Mandarin 7</title>
+    <desc lang="en">This bulletin delivers the latest news updates on the local and foreign front.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116180000 +0800" stop="20200116190000 +0800" channel="NTV7">
+    <title lang="en">100 Days My Prince</title>
+    <desc lang="en">When Lee Yool, the Crown Prince, abruptly disappears, he comes back to the palace one hundred days later. Where has he been? And what has transpired during this time?</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200116190000 +0800" stop="20200116193000 +0800" channel="NTV7">
+    <title lang="en">Body Sos</title>
+    <desc lang="en">We bring you another interesting programme for your viewing pleasure.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20200116193000 +0800" stop="20200116200000 +0800" channel="NTV7">
+    <title lang="en">Edisi 7</title>
+    <desc lang="en">This half hour daily news programme delivers the latest news updates on the local and foreign front.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116200000 +0800" stop="20200116203000 +0800" channel="NTV7">
+    <title lang="en">7 Edition</title>
+    <desc lang="en">This half hour daily news programme delivers the latest news updates on the local and foreign front.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116203000 +0800" stop="20200116223000 +0800" channel="NTV7">
+    <title lang="en">CJ Wow Shop</title>
+    <desc lang="en">CJ Wow Shop gives you access to the best home products retail has to offer, each designed to simplify your life and help you be a more efficient homemaker.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20200116223000 +0800" stop="20200116233000 +0800" channel="NTV7">
+    <title lang="en">Age of Glory 2</title>
+    <desc lang="en">Set in the 30s, this drama depicts the challenges of Chinese migrants who braved the raging South China Sea to British-ruled Malaya, in search of a better life.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">Drama</category>
   </programme>
@@ -11167,15 +11226,9 @@
     <category lang="en">News</category>
     <category lang="en">Magazine</category>
   </programme>
-  <programme start="20200112210000 +0800" stop="20200112213000 +0800" channel="BNC">
-    <title lang="en">Darah Muda</title>
-    <desc lang="en">Bagaimana golongan muda mencerna isu-isu nasional dan agenda negara? Dengar dan fahami aspirasi serta kehendak belia masa kini menerusi program bual bicara 'Darah Muda'.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20200112213000 +0800" stop="20200112220000 +0800" channel="BNC">
+  <programme start="20200112210000 +0800" stop="20200112220000 +0800" channel="BNC">
     <title lang="en">Ruang Bicara</title>
-    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
+    <desc lang="en">Relevan Penguatkuasaan Kerusi Keselamatan Kanak-kanak - Bersama Mohd Nasri Ishak, Ketua Pengarah JKJR &amp; Prof Madya Dr. Kulanthayan K.C. Mani, Pengarah Eksekutif Safe Kids Malaysia UPM.</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
   </programme>
@@ -11227,17 +11280,11 @@
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
   </programme>
-  <programme start="20200113023000 +0800" stop="20200113030000 +0800" channel="BNC">
+  <programme start="20200113023000 +0800" stop="20200113033000 +0800" channel="BNC">
     <title lang="en">Ruang Bicara</title>
-    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
+    <desc lang="en">Relevan Penguatkuasaan Kerusi Keselamatan Kanak-kanak - Bersama Mohd Nasri Ishak, Ketua Pengarah JKJR &amp; Prof Madya Dr. Kulanthayan K.C. Mani, Pengarah Eksekutif Safe Kids Malaysia UPM.</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
-  </programme>
-  <programme start="20200113030000 +0800" stop="20200113033000 +0800" channel="BNC">
-    <title lang="en">5 Utama</title>
-    <desc lang="en">Ringkasan berita-berita utama merangkumi berita am, niaga, hiburan dan sukan, dari dalam dan luar negara. Disampaikan dalam bentuk infografik yang menarik.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
   </programme>
   <programme start="20200113033000 +0800" stop="20200113040000 +0800" channel="BNC">
     <title lang="en">Bernama News</title>
@@ -12124,6 +12171,228 @@
   <programme start="20200116050000 +0800" stop="20200116053000 +0800" channel="BNC">
     <title lang="en">5 Utama</title>
     <desc lang="en">Ringkasan berita-berita utama merangkumi berita am, niaga, hiburan dan sukan, dari dalam dan luar negara. Disampaikan dalam bentuk infografik yang menarik.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116053000 +0800" stop="20200116060000 +0800" channel="BNC">
+    <title lang="en">Bernama News</title>
+    <desc lang="en">English news reporting on current issues and stock market.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200116060000 +0800" stop="20200116063000 +0800" channel="BNC">
+    <title lang="en">Salam Dari Jakarta</title>
+    <desc lang="en">Program majalah yang memuatkan pelbagai maklumat terkini mengenai peristiwa-peristiwa yang berlaku di Indonesia pada sepanjang minggu.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+  </programme>
+  <programme start="20200116063000 +0800" stop="20200116070000 +0800" channel="BNC">
+    <title lang="en">5 Utama</title>
+    <desc lang="en">Ringkasan berita-berita utama merangkumi berita am, niaga, hiburan dan sukan, dari dalam dan luar negara. Disampaikan dalam bentuk infografik yang menarik.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116070000 +0800" stop="20200116073000 +0800" channel="BNC">
+    <title lang="en">Khabar Pagi Bernama</title>
+    <desc lang="en">Kupasan berita pertama yang dibawakan dengan gaya yang dinamik, disokong oleh ulasan editorial, mengulas pertanyaan berkaitan berita-berita utama dan peristiwa yang bakal berlangsung hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116073000 +0800" stop="20200116080000 +0800" channel="BNC">
+    <title lang="en">5 Utama</title>
+    <desc lang="en">Ringkasan berita-berita utama merangkumi berita am, niaga, hiburan dan sukan, dari dalam dan luar negara. Disampaikan dalam bentuk infografik yang menarik.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116080000 +0800" stop="20200116083000 +0800" channel="BNC">
+    <title lang="en">Bernama Global</title>
+    <desc lang="en">Kupasan berita yang berlaku di benua Eropah dan Amerika sepanjang malam. Pengantara akan mengulas dan menghuraikan signifikan berita berkenaan kepada Malaysia.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116083000 +0800" stop="20200116090000 +0800" channel="BNC">
+    <title lang="en">5 Utama</title>
+    <desc lang="en">Ringkasan berita-berita utama merangkumi berita am, niaga, hiburan dan sukan, dari dalam dan luar negara. Disampaikan dalam bentuk infografik yang menarik.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116090000 +0800" stop="20200116093000 +0800" channel="BNC">
+    <title lang="en">Gaya &amp; Inspirasi</title>
+    <desc lang="en">Sebuah program yang menyentuh perkembangan mengenai dunia fesyen, dekorasi dan gaya hidup terkini dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116093000 +0800" stop="20200116100000 +0800" channel="BNC">
+    <title lang="en">ON E</title>
+    <desc lang="en">'ON e' memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116100000 +0800" stop="20200116103000 +0800" channel="BNC">
+    <title lang="en">Khabar Pagi Bernama</title>
+    <desc lang="en">Kupasan berita pertama yang dibawakan dengan gaya yang dinamik, disokong oleh ulasan editorial, mengulas pertanyaan berkaitan berita-berita utama dan peristiwa yang bakal berlangsung hari ini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116103000 +0800" stop="20200116110000 +0800" channel="BNC">
+    <title lang="en">Inovasi @ Bernama</title>
+    <desc lang="en">Program ini, memaparkan kekreatifan warga Malaysia dan dunia sekeliling menerima idea moden yang semakin berkembang demi memudahkan urusan seharian masing-masing.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+  </programme>
+  <programme start="20200116110000 +0800" stop="20200116113000 +0800" channel="BNC">
+    <title lang="en">Bernama Global</title>
+    <desc lang="en">Kupasan berita yang berlaku di benua Eropah dan Amerika sepanjang malam. Pengantara akan mengulas dan menghuraikan signifikan berita berkenaan kepada Malaysia.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116113000 +0800" stop="20200116120000 +0800" channel="BNC">
+    <title lang="en">MARCOMM</title>
+    <desc lang="en">Marcomm is a program on BERNAMA TV about insights and stories of great ideas to better understand the art of marketing and communications.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+  </programme>
+  <programme start="20200116120000 +0800" stop="20200116123000 +0800" channel="BNC">
+    <title lang="en">(L) Mid-Day Update</title>
+    <desc lang="en">Your daily news catch up served fresh at lunch with an all new mid-day update, only on Bernama TV.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116123000 +0800" stop="20200116130000 +0800" channel="BNC">
+    <title lang="en">Bernama Today</title>
+    <desc lang="en">Bringing you the latest in current affairs, lifestyle and entertainment as well as discussions with studio guest.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116130000 +0800" stop="20200116133000 +0800" channel="BNC">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116133000 +0800" stop="20200116140000 +0800" channel="BNC">
+    <title lang="en">Jurnal Bernama</title>
+    <desc lang="en">Rancangan baru berbentuk majalah-berita, memaparkan kronikal kembara kehidupan dan menyingkap peristiwa unik yang terjadi di Malaysia dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+  </programme>
+  <programme start="20200116140000 +0800" stop="20200116143000 +0800" channel="BNC">
+    <title lang="en">Gaya &amp; Inspirasi</title>
+    <desc lang="en">Sebuah program yang menyentuh perkembangan mengenai dunia fesyen, dekorasi dan gaya hidup terkini dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116143000 +0800" stop="20200116150000 +0800" channel="BNC">
+    <title lang="en">ON E</title>
+    <desc lang="en">'ON e' memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116150000 +0800" stop="20200116153000 +0800" channel="BNC">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116153000 +0800" stop="20200116160000 +0800" channel="BNC">
+    <title lang="en">The Nation</title>
+    <desc lang="en">A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116160000 +0800" stop="20200116163000 +0800" channel="BNC">
+    <title lang="en">Bernama Today</title>
+    <desc lang="en">Bringing you the latest in current affairs, lifestyle and entertainment as well as discussions with studio guest.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116163000 +0800" stop="20200116170000 +0800" channel="BNC">
+    <title lang="en">Buatan Malaysia Untuk Malaysia</title>
+    <desc lang="en">Program ini memberikan penonton cerita di sebalik jenama sebuah produk tempatan yang telah dibangunkan di Malaysia, untuk warga Malaysia.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine</category>
+  </programme>
+  <programme start="20200116170000 +0800" stop="20200116173000 +0800" channel="BNC">
+    <title lang="en">Darah Muda</title>
+    <desc lang="en">Bagaimana golongan muda mencerna isu-isu nasional dan agenda negara? Dengar dan fahami aspirasi serta kehendak belia masa kini menerusi program bual bicara 'Darah Muda'.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116173000 +0800" stop="20200116180000 +0800" channel="BNC">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116180000 +0800" stop="20200116183000 +0800" channel="BNC">
+    <title lang="en">Bernama News</title>
+    <desc lang="en">English news reporting on current issues and stock market.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116183000 +0800" stop="20200116190000 +0800" channel="BNC">
+    <title lang="en">Mandarin News</title>
+    <desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116190000 +0800" stop="20200116193000 +0800" channel="BNC">
+    <title lang="en">Tamil News</title>
+    <desc lang="en">Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116193000 +0800" stop="20200116194500 +0800" channel="BNC">
+    <title lang="en">10 Sensasi</title>
+    <desc lang="en">Rumusan ringkas carta 10 berita hiburan paling utama setiap hari.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116194500 +0800" stop="20200116200000 +0800" channel="BNC">
+    <title lang="en">Bernama 7.45</title>
+    <desc lang="en">Tajuk berita penting yang berlaku sepanjang hari samada dari dalam mahupun luar negara, yang diulas pengantara dalam masa 15 minit.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116200000 +0800" stop="20200116203000 +0800" channel="BNC">
+    <title lang="en">BERNAMA @ 8</title>
+    <desc lang="en">Huraian berita samada berita am, politik, ekonomi, niaga dan sukandengan kupasan tajuk atau berita berita hangat dan menampilkan pandangan pakar atau wartawan kanan yang berada di studio.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116203000 +0800" stop="20200116210000 +0800" channel="BNC">
+    <title lang="en">Notafikasi</title>
+    <desc lang="en">Nota dan catitan pengalaman wartawan-wartawan BERNAMA yang bertugas di lapangan setiap hari di sebalik berita-berita utama tulisan mereka.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116210000 +0800" stop="20200116213000 +0800" channel="BNC">
+    <title lang="en">Darah Muda</title>
+    <desc lang="en">Bagaimana golongan muda mencerna isu-isu nasional dan agenda negara? Dengar dan fahami aspirasi serta kehendak belia masa kini menerusi program bual bicara 'Darah Muda'.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116213000 +0800" stop="20200116220000 +0800" channel="BNC">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200116220000 +0800" stop="20200116223000 +0800" channel="BNC">
+    <title lang="en">Mandarin News</title>
+    <desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116223000 +0800" stop="20200116230000 +0800" channel="BNC">
+    <title lang="en">Bernama News</title>
+    <desc lang="en">English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+  </programme>
+  <programme start="20200116230000 +0800" stop="20200116233000 +0800" channel="BNC">
+    <title lang="en">BERNAMA @ 8</title>
+    <desc lang="en">Huraian berita samada berita am, politik, ekonomi, niaga dan sukandengan kupasan tajuk atau berita berita hangat dan menampilkan pandangan pakar atau wartawan kanan yang berada di studio.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
   </programme>
