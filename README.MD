@@ -4,7 +4,7 @@ This repository contains the playlists, EPG and other related resources to enjoy
 ![status](https://img.shields.io/badge/tokenizer-ONLINE-brightgreen.svg?style=flat)
 
 ## Information
-The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 6 hours to ensure uptime. EPG contains 7 days worth of TV guide.
+The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 4 hours to ensure uptime. EPG contains 7 days worth of TV guide.
 
 ## Channels
 | <img align="center" src="http://freeview.github.io/iptv/logos/tv1.png" width="75"> | <img align="center" src="http://freeview.github.io/iptv/logos/tv2.png" width="75"> | <img align="center" src="http://freeview.github.io/iptv/logos/tv3.png" width="75"> | <img align="center" src="http://freeview.github.io/iptv/logos/ntv7.png" width="45"> | <img align="center"  src="http://freeview.github.io/iptv/logos/8tv.png" width="75"> | <img align="center" src="http://freeview.github.io/iptv/logos/tv9.png" width="45"> | 
@@ -18,8 +18,9 @@ The streams listed here are the official public streams hosted on their live TV 
 ## Playlists
 | No | Channels | Playlist |  EPG |
 | --- | --- | --- | --- |
-| 1 | Complete | SOON | SOON |
-| 2 | Malaysia | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
-| 3 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
+| 1 | Malaysia | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
+| 2 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
 
-Streams are automatically updated with valid session tokens every 6 hours. However, we can't guarantee 100% uptime. Help report broken streams [here](https://github.com/hsytes/iptv/issues/new).
+Worldwide free channels soon!
+
+We can't guarantee 100% uptime. Help report broken streams [here](https://github.com/hsytes/iptv/issues/new).
