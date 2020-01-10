@@ -12532,28 +12532,11 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IYBKH_series.jpg" />
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20200110080000 +0800" stop="20200110082700 +0800" channel="Astro Awani">
-    <title lang="en">(L) Buletin Awani</title>
-    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20200110082700 +0800" stop="20200110083000 +0800" channel="Astro Awani">
-    <title lang="en">AWANI Byte</title>
-    <desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXAU_Series.jpg" />
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20200110083000 +0800" stop="20200110090000 +0800" channel="Astro Awani">
+  <programme start="20200110080000 +0800" stop="20200110090000 +0800" channel="Astro Awani">
     <title lang="en">(L) AWANI Pagi</title>
     <desc lang="en">Kupasan lebih mendalam beberapa tajuk berita.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IYBKH_series.jpg" />
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200110090000 +0800" stop="20200110092700 +0800" channel="Astro Awani">
@@ -12580,21 +12563,11 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
     <episode-num system="xmltv_ns">.281.</episode-num>
   </programme>
-  <programme start="20200110100000 +0800" stop="20200110103000 +0800" channel="Astro Awani">
-    <title lang="en">(L) Buletin Awani</title>
-    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
+  <programme start="20200110100000 +0800" stop="20200110110000 +0800" channel="Astro Awani">
+    <title lang="en">(L) Wawancara Eksklusif Sinar Harian</title>
+    <desc lang="en">Wawancara Eksklusif bersama Sinar harian.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20200110103000 +0800" stop="20200110110000 +0800" channel="Astro Awani">
-    <title lang="en">(L) Buletin Awani</title>
-    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
-    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200110110000 +0800" stop="20200110112700 +0800" channel="Astro Awani">
     <title lang="en">Niaga AWANI</title>
