@@ -4017,77 +4017,105 @@
     <title lang="en">Headline News - EP 1</title>
     <desc lang="en">Update on local and world news.</desc>
   </programme>
-  <programme start="20200112000000 +0800" stop="20200112010000 +0800" channel="Vasantham">
-    <title lang="en">Lucifer</title>
-  </programme>
-  <programme start="20200112010000 +0800" stop="20200112013000 +0800" channel="Vasantham">
-    <title lang="en">Tamil Seithi - EP 286</title>
+  <programme start="20200112000000 +0800" stop="20200112003000 +0800" channel="Vasantham">
+    <title lang="en">Tamil Seithi - EP 287</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200112013000 +0800" stop="20200112090000 +0800" channel="Vasantham">
+  <programme start="20200112003000 +0800" stop="20200112150000 +0800" channel="Vasantham">
     <title lang="en">End of Transmission</title>
   </programme>
-  <programme start="20200112090000 +0800" stop="20200112100000 +0800" channel="Vasantham">
-    <title lang="en">Vanakkam Singai - EP 2</title>
+  <programme start="20200112150000 +0800" stop="20200112153000 +0800" channel="Vasantham">
+    <title lang="en">Super Samayal 3 (HD) - EP 38</title>
+    <desc lang="en">Tired of having chicken curry made the same way all the time?  Join Chef Ariffin and Dhivyah Raveen in this episode of Super Samayal 3 and learn how you can tweak your chicken curry and whet your appetite.</desc>
   </programme>
-  <programme start="20200112100000 +0800" stop="20200112130000 +0800" channel="Vasantham">
-    <title lang="en">Vaali</title>
+  <programme start="20200112153000 +0800" stop="20200112160000 +0800" channel="Vasantham">
+    <title lang="en">Anjaraipetti Sr 7  - EP 259</title>
+    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
   </programme>
-  <programme start="20200112130000 +0800" stop="20200112160000 +0800" channel="Vasantham">
-    <title lang="en">Nannu Dochukunduvate</title>
+  <programme start="20200112160000 +0800" stop="20200112163000 +0800" channel="Vasantham">
+    <title lang="en">Priyasakhi - EP 239</title>
+    <desc lang="en">'Priyasakhi' is about the life of Dhivya. She has parents who are uncaring and partial, siblings who are jealous and cunning, husband who married her just for challenge and thrill, and in-laws who are unsympathetic and refuse to endorse the marriage.</desc>
   </programme>
-  <programme start="20200112160000 +0800" stop="20200112190000 +0800" channel="Vasantham">
-    <title lang="en">Vetham Pudhithu</title>
+  <programme start="20200112163000 +0800" stop="20200112173000 +0800" channel="Vasantham">
+    <title lang="en">Raama Seetha  - EP 0412&amp;0413</title>
+    <desc lang="en">'Raama Seetha' is a heart touching story that revolves around two protagonists - Vasudhev and Meenakshi with completely different mindset.</desc>
   </programme>
-  <programme start="20200112190000 +0800" stop="20200112203000 +0800" channel="Vasantham">
-    <title lang="en">Yaar Antha Star 2020 - EP 2</title>
-    <desc lang="en">The search for the next singing sensation begins! Yaar Antha Star! With much anticipation &amp; excitement, an extraordinary platform awaits the selected teenagers and young adults! Travelling on a musical journey of distinctive rounds and unexpected challenges, only one will be crowned as the Star of 2020!</desc>
+  <programme start="20200112173000 +0800" stop="20200112180000 +0800" channel="Vasantham">
+    <title lang="en">Motu Patlu 3 - EP 71</title>
+    <desc lang="en">Motu and Patlu, two friends living in Furfuri Naga, have a penchant to land themselves in comical situations, later rescuing themselves only by sheer luck. A criminal named John, intends to become a don, but his plans always fail due to the heroic actions of Motu and Patlu, who trap and expose him and his plans.</desc>
+  </programme>
+  <programme start="20200112180000 +0800" stop="20200112190000 +0800" channel="Vasantham">
+    <title lang="en">Theriyatha Tamil Cinema 3  - Thirai Isai Paadalgal(HD) - EP 35</title>
+    <desc lang="en">Theriyatha Tamil Cinema  Thirai Isai Paadalgal is an hour long entertainment that features golden numbers ranging from all eras written by epic lyricists like Kannadasan, Vaali, Vairamuthu, Pa Vijay, etc. Note-worthy lyrics that add more beauty and meaning to the Tamil language will be discussed.</desc>
+  </programme>
+  <programme start="20200112190000 +0800" stop="20200112193000 +0800" channel="Vasantham">
+    <title lang="en">Anjaraipetti Sr 7  - EP 322</title>
+    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+  </programme>
+  <programme start="20200112193000 +0800" stop="20200112200000 +0800" channel="Vasantham">
+    <title lang="en">Uravugal Sangamam - EP 11</title>
+    <desc lang="en">Acquired drama.</desc>
+  </programme>
+  <programme start="20200112200000 +0800" stop="20200112203000 +0800" channel="Vasantham">
+    <title lang="en">Adukku Veetu Annasamy - EP 23</title>
+    <desc lang="en">Annasamy and Kokilavani are trying their crazy ways, secretly, to extract information out of Panjanatham about what Shailaja had told him! Can they get what they want? Gandhimathi and Thairiyalakshmi have begun their hunt for their new prata master! Can they find the perfect one? Kokilavani is learning hard from Shailaja on how to sing with class and finesse. But on the side, Shailaja also gives timely advice on how to manage husbands. Will Kokilavani follow it?</desc>
   </programme>
   <programme start="20200112203000 +0800" stop="20200112210000 +0800" channel="Vasantham">
     <title lang="en">Tamil Seithi - EP 287</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200112210000 +0800" stop="20200113000000 +0800" channel="Vasantham">
-    <title lang="en">Santhosh Subramaniam</title>
+  <programme start="20200112210000 +0800" stop="20200112213000 +0800" channel="Vasantham">
+    <title lang="en">Romeo and Juliet - EP 5</title>
+    <desc lang="en">Romeo Juliet.</desc>
   </programme>
-  <programme start="20200113000000 +0800" stop="20200113003000 +0800" channel="Vasantham">
-    <title lang="en">Tamil Seithi - EP 287</title>
+  <programme start="20200112213000 +0800" stop="20200112220000 +0800" channel="Vasantham">
+    <title lang="en">Thinna Thinna Aasai - EP 6</title>
+    <desc lang="en">Come along on the delicious, scrumptious, mouth-watering, mind-boggling food journey as our host, Spancer, eats his way through the culinary hotspots of southern and western India!</desc>
+  </programme>
+  <programme start="20200112220000 +0800" stop="20200112223000 +0800" channel="Vasantham">
+    <title lang="en">Arivaan - EP 33</title>
+    <desc lang="en">Hari is an ex-cop with ESP powers. 6 years ago, he pursued a serial killer with the help of his powers. He lost his job and wife in the process. Broken, he begins a life of quiet existence. Present day, the serial killer resurfaces. And Hari appears to be the only one who can catch him. What will Hari have to sacrifice in order to capture the man who made him lose everything? Arivaan, an intense psychological thriller, pits two men in a brutal cat and mouse game.</desc>
+  </programme>
+  <programme start="20200112223000 +0800" stop="20200112230000 +0800" channel="Vasantham">
+    <title lang="en">Iruvar (HD) - EP 46</title>
+    <desc lang="en">Sahana is a celebrated author who draws lifeblood and purpose from her work. She announces her next novel amidst much fanfare.</desc>
+  </programme>
+  <programme start="20200112230000 +0800" stop="20200112233000 +0800" channel="Vasantham">
+    <title lang="en">Nenjukulle 2 - EP 20</title>
+    <desc lang="en">Super Singer junior fame Santhosh and guest celebrity Narain are back again this week with Pravin's band in Nenjukulle 2!</desc>
+  </programme>
+  <programme start="20200112233000 +0800" stop="20200113000000 +0800" channel="Vasantham">
+    <title lang="en">Tamil Seithi - EP 288</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200113003000 +0800" stop="20200113150000 +0800" channel="Vasantham">
+  <programme start="20200113000000 +0800" stop="20200113070000 +0800" channel="Vasantham">
     <title lang="en">End of Transmission</title>
   </programme>
-  <programme start="20200113150000 +0800" stop="20200113153000 +0800" channel="Vasantham">
-    <title lang="en">Super Samayal 3 (HD) - EP 38</title>
-    <desc lang="en">Tired of having chicken curry made the same way all the time?  Join Chef Ariffin and Dhivyah Raveen in this episode of Super Samayal 3 and learn how you can tweak your chicken curry and whet your appetite.</desc>
+  <programme start="20200113070000 +0800" stop="20200113080000 +0800" channel="Vasantham">
+    <title lang="en">Thein Amuthu 2018 - EP 7</title>
+    <desc lang="en">Vasantham brings you a fine selection of classic songs from the past!</desc>
   </programme>
-  <programme start="20200113153000 +0800" stop="20200113160000 +0800" channel="Vasantham">
-    <title lang="en">Anjaraipetti Sr 7  - EP 259</title>
-    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+  <programme start="20200113080000 +0800" stop="20200113090000 +0800" channel="Vasantham">
+    <title lang="en">Ha Ha Ha Sirippu 2018 - EP 11</title>
+    <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
   </programme>
-  <programme start="20200113160000 +0800" stop="20200113163000 +0800" channel="Vasantham">
-    <title lang="en">Priyasakhi - EP 239</title>
-    <desc lang="en">'Priyasakhi' is about the life of Dhivya. She has parents who are uncaring and partial, siblings who are jealous and cunning, husband who married her just for challenge and thrill, and in-laws who are unsympathetic and refuse to endorse the marriage.</desc>
-  </programme>
-  <programme start="20200113163000 +0800" stop="20200113173000 +0800" channel="Vasantham">
-    <title lang="en">Raama Seetha  - EP 0412&amp;0413</title>
-    <desc lang="en">'Raama Seetha' is a heart touching story that revolves around two protagonists - Vasudhev and Meenakshi with completely different mindset.</desc>
-  </programme>
-  <programme start="20200113173000 +0800" stop="20200113180000 +0800" channel="Vasantham">
-    <title lang="en">Motu Patlu 3 - EP 71</title>
+  <programme start="20200113090000 +0800" stop="20200113100000 +0800" channel="Vasantham">
+    <title lang="en">Motu Patlu 3 - EP 0072&amp;0073</title>
     <desc lang="en">Motu and Patlu, two friends living in Furfuri Naga, have a penchant to land themselves in comical situations, later rescuing themselves only by sheer luck. A criminal named John, intends to become a don, but his plans always fail due to the heroic actions of Motu and Patlu, who trap and expose him and his plans.</desc>
   </programme>
-  <programme start="20200113180000 +0800" stop="20200113190000 +0800" channel="Vasantham">
-    <title lang="en">Theriyatha Tamil Cinema 3  - Thirai Isai Paadalgal(HD) - EP 35</title>
-    <desc lang="en">Theriyatha Tamil Cinema  Thirai Isai Paadalgal is an hour long entertainment that features golden numbers ranging from all eras written by epic lyricists like Kannadasan, Vaali, Vairamuthu, Pa Vijay, etc. Note-worthy lyrics that add more beauty and meaning to the Tamil language will be discussed.</desc>
+  <programme start="20200113100000 +0800" stop="20200113130000 +0800" channel="Vasantham">
+    <title lang="en">Karakattakaran</title>
+    <desc lang="en">A dance troupe travels to a village to perform at the annual temple festival.</desc>
   </programme>
-  <programme start="20200113190000 +0800" stop="20200113193000 +0800" channel="Vasantham">
-    <title lang="en">Anjaraipetti Sr 7  - EP 322</title>
-    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+  <programme start="20200113130000 +0800" stop="20200113160000 +0800" channel="Vasantham">
+    <title lang="en">Neerthirai</title>
   </programme>
-  <programme start="20200113193000 +0800" stop="20200113200000 +0800" channel="Vasantham">
-    <title lang="en">Uravugal Sangamam - EP 11</title>
-    <desc lang="en">Acquired drama.</desc>
+  <programme start="20200113160000 +0800" stop="20200113170000 +0800" channel="Vasantham">
+    <title lang="en">Kollywood Music - EP 43</title>
+    <desc lang="en">A weekly treat of Kollywood's best music numbers from ever green classics to the latest hits!</desc>
+  </programme>
+  <programme start="20200113170000 +0800" stop="20200113200000 +0800" channel="Vasantham">
+    <title lang="en">Naduvula Konjam Pakkatha Kaanom</title>
   </programme>
   <programme start="20200113200000 +0800" stop="20200113203000 +0800" channel="Vasantham">
     <title lang="en">Adukku Veetu Annasamy - EP 23</title>
@@ -4097,35 +4125,27 @@
     <title lang="en">Tamil Seithi - EP 288</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200113210000 +0800" stop="20200113213000 +0800" channel="Vasantham">
-    <title lang="en">Romeo and Juliet - EP 5</title>
-    <desc lang="en">Romeo Juliet.</desc>
+  <programme start="20200113210000 +0800" stop="20200113220000 +0800" channel="Vasantham">
+    <title lang="en">Hello Vasantham Pongal Special</title>
   </programme>
-  <programme start="20200113213000 +0800" stop="20200113220000 +0800" channel="Vasantham">
-    <title lang="en">Thinna Thinna Aasai - EP 6</title>
-    <desc lang="en">Come along on the delicious, scrumptious, mouth-watering, mind-boggling food journey as our host, Spancer, eats his way through the culinary hotspots of southern and western India!</desc>
+  <programme start="20200113220000 +0800" stop="20200114000000 +0800" channel="Vasantham">
+    <title lang="en">Enai Noki Paayum Thota</title>
   </programme>
-  <programme start="20200113220000 +0800" stop="20200113223000 +0800" channel="Vasantham">
-    <title lang="en">Arivaan - EP 33</title>
-    <desc lang="en">Hari is an ex-cop with ESP powers. 6 years ago, he pursued a serial killer with the help of his powers. He lost his job and wife in the process. Broken, he begins a life of quiet existence. Present day, the serial killer resurfaces. And Hari appears to be the only one who can catch him. What will Hari have to sacrifice in order to capture the man who made him lose everything? Arivaan, an intense psychological thriller, pits two men in a brutal cat and mouse game.</desc>
+  <programme start="20200114000000 +0800" stop="20200114010000 +0800" channel="Vasantham">
+    <title lang="en">Enai Noki Paayum Thota</title>
   </programme>
-  <programme start="20200113223000 +0800" stop="20200113230000 +0800" channel="Vasantham">
-    <title lang="en">Iruvar (HD) - EP 46</title>
-    <desc lang="en">Sahana is a celebrated author who draws lifeblood and purpose from her work. She announces her next novel amidst much fanfare.</desc>
-  </programme>
-  <programme start="20200113230000 +0800" stop="20200113233000 +0800" channel="Vasantham">
-    <title lang="en">Nenjukulle 2 - EP 20</title>
-    <desc lang="en">Super Singer junior fame Santhosh and guest celebrity Narain are back again this week with Pravin's band in Nenjukulle 2!</desc>
-  </programme>
-  <programme start="20200113233000 +0800" stop="20200114000000 +0800" channel="Vasantham">
-    <title lang="en">Tamil Seithi - EP 288</title>
+  <programme start="20200114010000 +0800" stop="20200114013000 +0800" channel="Vasantham">
+    <title lang="en">Tamil Seithi - EP 289</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200114000000 +0800" stop="20200114070000 +0800" channel="Vasantham">
-    <title lang="en">End of Transmission</title>
+  <programme start="20200114013000 +0800" stop="20200114043000 +0800" channel="Vasantham">
+    <title lang="en">Murattu Kaalai</title>
+  </programme>
+  <programme start="20200114043000 +0800" stop="20200114070000 +0800" channel="Vasantham">
+    <title lang="en">Dharma Devathai</title>
   </programme>
   <programme start="20200114070000 +0800" stop="20200114080000 +0800" channel="Vasantham">
-    <title lang="en">Thein Amuthu 2018 - EP 7</title>
+    <title lang="en">Thein Amuthu 2018 - EP 5</title>
     <desc lang="en">Vasantham brings you a fine selection of classic songs from the past!</desc>
   </programme>
   <programme start="20200114080000 +0800" stop="20200114090000 +0800" channel="Vasantham">
@@ -4133,22 +4153,31 @@
     <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
   </programme>
   <programme start="20200114090000 +0800" stop="20200114100000 +0800" channel="Vasantham">
-    <title lang="en">Motu Patlu 3 - EP 0072&amp;0073</title>
-    <desc lang="en">Motu and Patlu, two friends living in Furfuri Naga, have a penchant to land themselves in comical situations, later rescuing themselves only by sheer luck. A criminal named John, intends to become a don, but his plans always fail due to the heroic actions of Motu and Patlu, who trap and expose him and his plans.</desc>
+    <title lang="en">Namma Ooru Kondattam - EP 7</title>
+    <desc lang="en">Kickstart the festive celebrations with an exciting array of special segments aligned in Namma Ooru Kondattam. From quick festive recipes to dazzling celebrity morning coffee moments and captivating festive information bites, be ready to ignite your day of joy with our dose of morning treat. Stay tuned as Namma Ooru Kondattam brings in all the goodness of the celebrations and festivals right to your homes.</desc>
   </programme>
   <programme start="20200114100000 +0800" stop="20200114130000 +0800" channel="Vasantham">
-    <title lang="en">Karakattakaran</title>
-    <desc lang="en">A dance troupe travels to a village to perform at the annual temple festival.</desc>
+    <title lang="en">Nala Damayanthi</title>
   </programme>
   <programme start="20200114130000 +0800" stop="20200114160000 +0800" channel="Vasantham">
-    <title lang="en">Neerthirai</title>
+    <title lang="en">Seethakaathi</title>
+    <desc lang="en">A veteran theatre artist who lives for his art 'enters' the world of films. Can the film industry hold on to his inimitable artistry?</desc>
   </programme>
-  <programme start="20200114160000 +0800" stop="20200114170000 +0800" channel="Vasantham">
-    <title lang="en">Kollywood Music - EP 43</title>
-    <desc lang="en">A weekly treat of Kollywood's best music numbers from ever green classics to the latest hits!</desc>
+  <programme start="20200114160000 +0800" stop="20200114173000 +0800" channel="Vasantham">
+    <title lang="en">Navarasa Kondattam 2 (HD) - EP 7</title>
+    <desc lang="en">In this special episode of Navarasa Kondattam, our hosts Karthik and Suthasini travel to Madurai and explore how Pongal is celebrated there. This episode also features special performances by our very own Vasantham artistes.</desc>
   </programme>
-  <programme start="20200114170000 +0800" stop="20200114200000 +0800" channel="Vasantham">
-    <title lang="en">Naduvula Konjam Pakkatha Kaanom</title>
+  <programme start="20200114173000 +0800" stop="20200114180000 +0800" channel="Vasantham">
+    <title lang="en">Ha Ha Ha Sirippu 2016 - EP 3</title>
+    <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
+  </programme>
+  <programme start="20200114180000 +0800" stop="20200114190000 +0800" channel="Vasantham">
+    <title lang="en">Darbaar - EP 21</title>
+    <desc lang="en">Darbaar Pongal Special.</desc>
+  </programme>
+  <programme start="20200114190000 +0800" stop="20200114200000 +0800" channel="Vasantham">
+    <title lang="en">Savaal Singapore 6 (HD) - EP 11</title>
+    <desc lang="en">Gameshow.</desc>
   </programme>
   <programme start="20200114200000 +0800" stop="20200114203000 +0800" channel="Vasantham">
     <title lang="en">Adukku Veetu Annasamy - EP 24</title>
@@ -4158,59 +4187,58 @@
     <title lang="en">Tamil Seithi - EP 289</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200114210000 +0800" stop="20200114220000 +0800" channel="Vasantham">
-    <title lang="en">Hello Vasantham Pongal Special</title>
+  <programme start="20200114210000 +0800" stop="20200114213000 +0800" channel="Vasantham">
+    <title lang="en">Ha Ha Ha Sirippu 2016 - EP 5</title>
+    <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
+  </programme>
+  <programme start="20200114213000 +0800" stop="20200114220000 +0800" channel="Vasantham">
+    <title lang="en">Ethiroli 16 (HD) - EP 42</title>
+    <desc lang="en">Ethiroli goes in depth into local stories and major events happening around the world.</desc>
   </programme>
   <programme start="20200114220000 +0800" stop="20200115000000 +0800" channel="Vasantham">
-    <title lang="en">Enai Noki Paayum Thota</title>
+    <title lang="en">Champion</title>
   </programme>
   <programme start="20200115000000 +0800" stop="20200115010000 +0800" channel="Vasantham">
-    <title lang="en">Enai Noki Paayum Thota</title>
+    <title lang="en">Champion</title>
   </programme>
   <programme start="20200115010000 +0800" stop="20200115013000 +0800" channel="Vasantham">
     <title lang="en">Tamil Seithi - EP 289</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200115013000 +0800" stop="20200115043000 +0800" channel="Vasantham">
-    <title lang="en">Murattu Kaalai</title>
+  <programme start="20200115013000 +0800" stop="20200115150000 +0800" channel="Vasantham">
+    <title lang="en">End of Transmission</title>
   </programme>
-  <programme start="20200115043000 +0800" stop="20200115070000 +0800" channel="Vasantham">
-    <title lang="en">Dharma Devathai</title>
+  <programme start="20200115150000 +0800" stop="20200115153000 +0800" channel="Vasantham">
+    <title lang="en">Super Samayal 3 (HD) - EP 39</title>
+    <desc lang="en">Pick out mouth-watering recipes from various cuisines and learn how to cook up a storm with Chef Ariffin in Super Samayal 3!</desc>
   </programme>
-  <programme start="20200115070000 +0800" stop="20200115080000 +0800" channel="Vasantham">
-    <title lang="en">Thein Amuthu 2018 - EP 5</title>
-    <desc lang="en">Vasantham brings you a fine selection of classic songs from the past!</desc>
+  <programme start="20200115153000 +0800" stop="20200115160000 +0800" channel="Vasantham">
+    <title lang="en">Anjaraipetti Sr 7  - EP 260</title>
+    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
   </programme>
-  <programme start="20200115080000 +0800" stop="20200115090000 +0800" channel="Vasantham">
-    <title lang="en">Ha Ha Ha Sirippu 2018 - EP 14</title>
-    <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
+  <programme start="20200115160000 +0800" stop="20200115163000 +0800" channel="Vasantham">
+    <title lang="en">Priyasakhi - EP 240</title>
+    <desc lang="en">'Priyasakhi' is about the life of Dhivya. She has parents who are uncaring and partial, siblings who are jealous and cunning, husband who married her just for challenge and thrill, and in-laws who are unsympathetic and refuse to endorse the marriage.</desc>
   </programme>
-  <programme start="20200115090000 +0800" stop="20200115100000 +0800" channel="Vasantham">
-    <title lang="en">Namma Ooru Kondattam - EP 7</title>
-    <desc lang="en">Kickstart the festive celebrations with an exciting array of special segments aligned in Namma Ooru Kondattam. From quick festive recipes to dazzling celebrity morning coffee moments and captivating festive information bites, be ready to ignite your day of joy with our dose of morning treat. Stay tuned as Namma Ooru Kondattam brings in all the goodness of the celebrations and festivals right to your homes.</desc>
-  </programme>
-  <programme start="20200115100000 +0800" stop="20200115130000 +0800" channel="Vasantham">
-    <title lang="en">Nala Damayanthi</title>
-  </programme>
-  <programme start="20200115130000 +0800" stop="20200115160000 +0800" channel="Vasantham">
-    <title lang="en">Seethakaathi</title>
-    <desc lang="en">A veteran theatre artist who lives for his art 'enters' the world of films. Can the film industry hold on to his inimitable artistry?</desc>
-  </programme>
-  <programme start="20200115160000 +0800" stop="20200115173000 +0800" channel="Vasantham">
-    <title lang="en">Navarasa Kondattam 2 (HD) - EP 7</title>
-    <desc lang="en">In this special episode of Navarasa Kondattam, our hosts Karthik and Suthasini travel to Madurai and explore how Pongal is celebrated there. This episode also features special performances by our very own Vasantham artistes.</desc>
+  <programme start="20200115163000 +0800" stop="20200115173000 +0800" channel="Vasantham">
+    <title lang="en">Ishq Ka Rang Safed - EP 0318&amp;0319</title>
+    <desc lang="en">Ishq Ka Rang Safed is set amidst the traditional old city of Banaras in Northern India. Biplab is the carefree, spoilt grandson of the town leader who is slated to go abroad for his law studies. His life takes an abrupt turn when he encounters Dhaani. Dhaani, a young widow leading a life of dignity abiding by her Dharma is a conformist, yet a strong minded individual.</desc>
   </programme>
   <programme start="20200115173000 +0800" stop="20200115180000 +0800" channel="Vasantham">
-    <title lang="en">Ha Ha Ha Sirippu 2016 - EP 3</title>
-    <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
+    <title lang="en">Motu Patlu 3 - EP 74</title>
+    <desc lang="en">Motu and Patlu, two friends living in Furfuri Naga, have a penchant to land themselves in comical situations, later rescuing themselves only by sheer luck. A criminal named John, intends to become a don, but his plans always fail due to the heroic actions of Motu and Patlu, who trap and expose him and his plans.</desc>
   </programme>
   <programme start="20200115180000 +0800" stop="20200115190000 +0800" channel="Vasantham">
-    <title lang="en">Darbaar - EP 21</title>
-    <desc lang="en">Darbaar Pongal Special.</desc>
+    <title lang="en">Theriyatha Tamil Cinema 3  - Thirai Isai Paadalgal(HD) - EP 36</title>
+    <desc lang="en">Theriyatha Tamil Cinema  Thirai Isai Paadalgal is an hour long entertainment that features golden numbers ranging from all eras written by epic lyricists like Kannadasan, Vaali, Vairamuthu, Pa Vijay, etc. Note-worthy lyrics that add more beauty and meaning to the Tamil language will be discussed.</desc>
   </programme>
-  <programme start="20200115190000 +0800" stop="20200115200000 +0800" channel="Vasantham">
-    <title lang="en">Savaal Singapore 6 (HD) - EP 11</title>
-    <desc lang="en">Gameshow.</desc>
+  <programme start="20200115190000 +0800" stop="20200115193000 +0800" channel="Vasantham">
+    <title lang="en">Anjaraipetti Sr 7  - EP 323</title>
+    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+  </programme>
+  <programme start="20200115193000 +0800" stop="20200115200000 +0800" channel="Vasantham">
+    <title lang="en">Uravugal Sangamam - EP 12</title>
+    <desc lang="en">Acquired drama.</desc>
   </programme>
   <programme start="20200115200000 +0800" stop="20200115203000 +0800" channel="Vasantham">
     <title lang="en">Adukku Veetu Annasamy - EP 25</title>
@@ -4221,24 +4249,34 @@
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
   <programme start="20200115210000 +0800" stop="20200115213000 +0800" channel="Vasantham">
-    <title lang="en">Ha Ha Ha Sirippu 2016 - EP 5</title>
-    <desc lang="en">Laugh out loud to comedy scenes from Kollywood films, right here on Vasantham!</desc>
+    <title lang="en">Romeo and Juliet - EP 6</title>
+    <desc lang="en">Romeo Juliet.</desc>
   </programme>
   <programme start="20200115213000 +0800" stop="20200115220000 +0800" channel="Vasantham">
+    <title lang="en">Thayangaathey - EP 13</title>
+    <desc lang="en">Thayangaathey, is a health documentary-drama, that is centred around 13 unique case studies who suffer from chronic, life-altering diseases. The cases range from poor lifestyle choices, complacency, ignorance to complete unfortunate personals. The intent of the programme is to educate viewers of these illnesses, the symptoms to look out for, the probability of them succumbing to these illnesses, early detection and so on.</desc>
+  </programme>
+  <programme start="20200115220000 +0800" stop="20200115223000 +0800" channel="Vasantham">
+    <title lang="en">Arivaan - EP 34</title>
+    <desc lang="en">Hari is an ex-cop with ESP powers. 6 years ago, he pursued a serial killer with the help of his powers. He lost his job and wife in the process. Broken, he begins a life of quiet existence. Present day, the serial killer resurfaces. And Hari appears to be the only one who can catch him. What will Hari have to sacrifice in order to capture the man who made him lose everything? Arivaan, an intense psychological thriller, pits two men in a brutal cat and mouse game.</desc>
+  </programme>
+  <programme start="20200115223000 +0800" stop="20200115230000 +0800" channel="Vasantham">
+    <title lang="en">Iruvar (HD) - EP 47</title>
+    <desc lang="en">Sahana is a celebrated author who draws lifeblood and purpose from her work. She announces her next novel amidst much fanfare.</desc>
+  </programme>
+  <programme start="20200115230000 +0800" stop="20200115233000 +0800" channel="Vasantham">
+    <title lang="en">Nenjukulle 2 - EP 23</title>
+    <desc lang="en">This week, Indian Idol S9 fame Maalavika Sundar and guest celebrity Kalaivani join us in Nenjukulle 2. Together with the band - Groove Factory, you are in for a vivacious musical treat!</desc>
+  </programme>
+  <programme start="20200115233000 +0800" stop="20200116000000 +0800" channel="Vasantham">
     <title lang="en">Ethiroli 16 (HD) - EP 42</title>
     <desc lang="en">Ethiroli goes in depth into local stories and major events happening around the world.</desc>
   </programme>
-  <programme start="20200115220000 +0800" stop="20200116000000 +0800" channel="Vasantham">
-    <title lang="en">Champion</title>
-  </programme>
-  <programme start="20200116000000 +0800" stop="20200116010000 +0800" channel="Vasantham">
-    <title lang="en">Champion</title>
-  </programme>
-  <programme start="20200116010000 +0800" stop="20200116013000 +0800" channel="Vasantham">
-    <title lang="en">Tamil Seithi - EP 290</title>
+  <programme start="20200116000000 +0800" stop="20200116003000 +0800" channel="Vasantham">
+    <title lang="en">Tamil Seithi - EP 291</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200116013000 +0800" stop="20200116150000 +0800" channel="Vasantham">
+  <programme start="20200116003000 +0800" stop="20200116150000 +0800" channel="Vasantham">
     <title lang="en">End of Transmission</title>
   </programme>
   <programme start="20200116150000 +0800" stop="20200116153000 +0800" channel="Vasantham">
@@ -4254,8 +4292,8 @@
     <desc lang="en">'Priyasakhi' is about the life of Dhivya. She has parents who are uncaring and partial, siblings who are jealous and cunning, husband who married her just for challenge and thrill, and in-laws who are unsympathetic and refuse to endorse the marriage.</desc>
   </programme>
   <programme start="20200116163000 +0800" stop="20200116173000 +0800" channel="Vasantham">
-    <title lang="en">Ishq Ka Rang Safed - EP 0318&amp;0319</title>
-    <desc lang="en">Ishq Ka Rang Safed is set amidst the traditional old city of Banaras in Northern India. Biplab is the carefree, spoilt grandson of the town leader who is slated to go abroad for his law studies. His life takes an abrupt turn when he encounters Dhaani. Dhaani, a young widow leading a life of dignity abiding by her Dharma is a conformist, yet a strong minded individual.</desc>
+    <title lang="en">Savaal Singapore 3 (HD) - EP 2</title>
+    <desc lang="en">This game show concept is an adaptation from the English version of  We are Singaporeans . All questions and everything about the show will be about Singapore .There will be 6 celebrities in each episode and they will banter with the host and contestants and also ask the questions!</desc>
   </programme>
   <programme start="20200116173000 +0800" stop="20200116180000 +0800" channel="Vasantham">
     <title lang="en">Motu Patlu 3 - EP 74</title>
@@ -4266,94 +4304,52 @@
     <desc lang="en">Theriyatha Tamil Cinema  Thirai Isai Paadalgal is an hour long entertainment that features golden numbers ranging from all eras written by epic lyricists like Kannadasan, Vaali, Vairamuthu, Pa Vijay, etc. Note-worthy lyrics that add more beauty and meaning to the Tamil language will be discussed.</desc>
   </programme>
   <programme start="20200116190000 +0800" stop="20200116193000 +0800" channel="Vasantham">
-    <title lang="en">Anjaraipetti Sr 7  - EP 323</title>
-    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+    <title lang="en">Anjaraipetti</title>
+    <desc lang="en">It features cooking the Indian way with special highlights of this programme includes cooking by some of the much familiar faces in the Kollywood Industry.</desc>
   </programme>
   <programme start="20200116193000 +0800" stop="20200116200000 +0800" channel="Vasantham">
     <title lang="en">Uravugal Sangamam - EP 12</title>
     <desc lang="en">Acquired drama.</desc>
   </programme>
   <programme start="20200116200000 +0800" stop="20200116203000 +0800" channel="Vasantham">
-    <title lang="en">Adukku Veetu Annasamy - EP 26</title>
-    <desc lang="en">Fire Bama has spotted Rajendran and Sakkarai working at the prata shop discreetly! The boys have to stop her from telling the whole world! Sakkarai does something excruciatingly drastic to stop Fire Bama! What could it be? The day turns for the worst, with Annasamy and Arokkiyasamy coming to the prata shop as well! Will the boys be caught? Kokilavani is also caught in a 'run-or-die' situation and the clock is ticking.</desc>
+    <title lang="en">Indian Beat 10 (HD) - EP 41</title>
+    <desc lang="en">Indian Beat is a bilingual magazine show that serves as an excellent platform by featuring the activities and events organized by the various Indian ethnic organizations around Singapore.</desc>
   </programme>
   <programme start="20200116203000 +0800" stop="20200116210000 +0800" channel="Vasantham">
     <title lang="en">Tamil Seithi - EP 291</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200116210000 +0800" stop="20200116213000 +0800" channel="Vasantham">
-    <title lang="en">Romeo and Juliet - EP 6</title>
-    <desc lang="en">Romeo Juliet.</desc>
-  </programme>
-  <programme start="20200116213000 +0800" stop="20200116220000 +0800" channel="Vasantham">
-    <title lang="en">Thayangaathey - EP 13</title>
-    <desc lang="en">Thayangaathey, is a health documentary-drama, that is centred around 13 unique case studies who suffer from chronic, life-altering diseases. The cases range from poor lifestyle choices, complacency, ignorance to complete unfortunate personals. The intent of the programme is to educate viewers of these illnesses, the symptoms to look out for, the probability of them succumbing to these illnesses, early detection and so on.</desc>
-  </programme>
-  <programme start="20200116220000 +0800" stop="20200116223000 +0800" channel="Vasantham">
-    <title lang="en">Arivaan - EP 34</title>
-    <desc lang="en">Hari is an ex-cop with ESP powers. 6 years ago, he pursued a serial killer with the help of his powers. He lost his job and wife in the process. Broken, he begins a life of quiet existence. Present day, the serial killer resurfaces. And Hari appears to be the only one who can catch him. What will Hari have to sacrifice in order to capture the man who made him lose everything? Arivaan, an intense psychological thriller, pits two men in a brutal cat and mouse game.</desc>
-  </programme>
-  <programme start="20200116223000 +0800" stop="20200116230000 +0800" channel="Vasantham">
-    <title lang="en">Iruvar (HD) - EP 47</title>
-    <desc lang="en">Sahana is a celebrated author who draws lifeblood and purpose from her work. She announces her next novel amidst much fanfare.</desc>
-  </programme>
-  <programme start="20200116230000 +0800" stop="20200116233000 +0800" channel="Vasantham">
-    <title lang="en">Nenjukulle 2 - EP 23</title>
-    <desc lang="en">This week, Indian Idol S9 fame Maalavika Sundar and guest celebrity Kalaivani join us in Nenjukulle 2. Together with the band - Groove Factory, you are in for a vivacious musical treat!</desc>
-  </programme>
-  <programme start="20200116233000 +0800" stop="20200117000000 +0800" channel="Vasantham">
-    <title lang="en">Ethiroli 16 (HD) - EP 42</title>
-    <desc lang="en">Ethiroli goes in depth into local stories and major events happening around the world.</desc>
+  <programme start="20200116210000 +0800" stop="20200117000000 +0800" channel="Vasantham">
+    <title lang="en">Kennedy Club</title>
   </programme>
   <programme start="20200117000000 +0800" stop="20200117003000 +0800" channel="Vasantham">
     <title lang="en">Tamil Seithi - EP 291</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200117003000 +0800" stop="20200117150000 +0800" channel="Vasantham">
+  <programme start="20200117003000 +0800" stop="20200117130000 +0800" channel="Vasantham">
     <title lang="en">End of Transmission</title>
   </programme>
-  <programme start="20200117150000 +0800" stop="20200117153000 +0800" channel="Vasantham">
-    <title lang="en">Super Samayal 3 (HD) - EP 40</title>
-    <desc lang="en">Pick out mouth-watering recipes from various cuisines and learn how to cook up a storm with Chef Ariffin in Super Samayal 3!</desc>
+  <programme start="20200117130000 +0800" stop="20200117160000 +0800" channel="Vasantham">
+    <title lang="en">Vennira Aadai</title>
+    <desc lang="en">Shobha, a patient, falls in love with her psychiatrist, Chandru, who treated and cured her. However, he is already in love with Geetha, a woman from his town. Will Chandru break the news to Shobha even though he fears she might go back to her old condition?</desc>
   </programme>
-  <programme start="20200117153000 +0800" stop="20200117160000 +0800" channel="Vasantham">
-    <title lang="en">Anjaraipetti Sr 7  - EP 261</title>
-    <desc lang="en">Anjaraipetti takes cookery onto a new level, transforming the foodies into passionate chefs. The show helps viewers hone their culinary skills and brings a new flavour to their kitchen, different from the ones they are used to.</desc>
+  <programme start="20200117160000 +0800" stop="20200117190000 +0800" channel="Vasantham">
+    <title lang="en">Fukrey Returns</title>
+    <desc lang="en">Just as Hunny, Chooch, Lali and Zafar are reaping the fruits of their misadventures from one year back; they are pulled up by the dreaded don, Bholil. She is back from prison early and wants to continue from where they left off.</desc>
   </programme>
-  <programme start="20200117160000 +0800" stop="20200117163000 +0800" channel="Vasantham">
-    <title lang="en">Priyasakhi - EP 241</title>
-    <desc lang="en">'Priyasakhi' is about the life of Dhivya. She has parents who are uncaring and partial, siblings who are jealous and cunning, husband who married her just for challenge and thrill, and in-laws who are unsympathetic and refuse to endorse the marriage.</desc>
-  </programme>
-  <programme start="20200117163000 +0800" stop="20200117173000 +0800" channel="Vasantham">
-    <title lang="en">Savaal Singapore 3 (HD) - EP 2</title>
-    <desc lang="en">This game show concept is an adaptation from the English version of  We are Singaporeans . All questions and everything about the show will be about Singapore .There will be 6 celebrities in each episode and they will banter with the host and contestants and also ask the questions!</desc>
-  </programme>
-  <programme start="20200117173000 +0800" stop="20200117180000 +0800" channel="Vasantham">
-    <title lang="en">Motu Patlu 3 - EP 75</title>
-    <desc lang="en">Motu and Patlu, two friends living in Furfuri Naga, have a penchant to land themselves in comical situations, later rescuing themselves only by sheer luck. A criminal named John, intends to become a don, but his plans always fail due to the heroic actions of Motu and Patlu, who trap and expose him and his plans.</desc>
-  </programme>
-  <programme start="20200117180000 +0800" stop="20200117190000 +0800" channel="Vasantham">
-    <title lang="en">Theriyatha Tamil Cinema 3  - Thirai Isai Paadalgal(HD) - EP 37</title>
-    <desc lang="en">Theriyatha Tamil Cinema  Thirai Isai Paadalgal is an hour long entertainment that features golden numbers ranging from all eras written by epic lyricists like Kannadasan, Vaali, Vairamuthu, Pa Vijay, etc. Note-worthy lyrics that add more beauty and meaning to the Tamil language will be discussed.</desc>
-  </programme>
-  <programme start="20200117190000 +0800" stop="20200117193000 +0800" channel="Vasantham">
-    <title lang="en">Anjaraipetti</title>
-    <desc lang="en">It features cooking the Indian way with special highlights of this programme includes cooking by some of the much familiar faces in the Kollywood Industry.</desc>
-  </programme>
-  <programme start="20200117193000 +0800" stop="20200117200000 +0800" channel="Vasantham">
-    <title lang="en">Uravugal Sangamam - EP 13</title>
-    <desc lang="en">Acquired drama.</desc>
+  <programme start="20200117190000 +0800" stop="20200117200000 +0800" channel="Vasantham">
+    <title lang="en">Ithu Enna Paatu Sr 5 - EP 3</title>
   </programme>
   <programme start="20200117200000 +0800" stop="20200117203000 +0800" channel="Vasantham">
-    <title lang="en">Indian Beat 10 (HD) - EP 41</title>
-    <desc lang="en">Indian Beat is a bilingual magazine show that serves as an excellent platform by featuring the activities and events organized by the various Indian ethnic organizations around Singapore.</desc>
+    <title lang="en">Ha Ha Ha Sirippu</title>
   </programme>
   <programme start="20200117203000 +0800" stop="20200117210000 +0800" channel="Vasantham">
     <title lang="en">Tamil Seithi - EP 292</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.</desc>
   </programme>
-  <programme start="20200117210000 +0800" stop="20200118000000 +0800" channel="Vasantham">
-    <title lang="en">Kennedy Club</title>
+  <programme start="20200117210000 +0800" stop="20200117220000 +0800" channel="Vasantham">
+    <title lang="en">Vadi Ready Vedi - EP 2</title>
+    <desc lang="en">PECHU MANDRAM is a TALK CLUB powering-up the word "TALK" and presenting it in several engaging and entertaining forms, allowing people to DEBATE, DISCUSS, SHARE, ENTERTAIN AND INSPIRE. Hosted by the Talk Specialist, VADI PVSS, this talkshow is an entire ecosystem of connectivity through TALKING, that provides a unique platform for REAL PEOPLE to tell their stories. Through different segments exploring FUN TALK, HARD TALK, INSPIRATIONAL TALK and OPEN TALK, PECHU MANDRAM will set the nation ta.</desc>
   </programme>
   <programme start="20200118000000 +0800" stop="20200118003000 +0800" channel="Vasantham">
     <title lang="en">Tamil Seithi - EP 292</title>
