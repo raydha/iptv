@@ -12,6 +12,7 @@ The streams listed here are the official public streams hosted on their live TV 
 
 ### Singapore 
 <img align="center" src="http://freeview.github.io/iptv/sg-channels.png" width="800">
+
 ## Playlists
 | No | Channels | Playlist |  EPG |
 | --- | --- | --- | --- |
