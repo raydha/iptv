@@ -10637,16 +10637,16 @@
     <category lang="en">Discussion / Interview / Debate</category>
   </programme>
   <programme start="20200113163000 +0800" stop="20200113170000 +0800" channel="BNC">
+    <title lang="en">Darah Muda</title>
+    <desc lang="en">Doktor Muda : Cabaran dan Realiti. Bersama Dr Muhammad Firdaus Abdul Rahim, Pegawai Perubatan / Pelajar Sarjana Perubatan di PPUKM.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200113170000 +0800" stop="20200113173000 +0800" channel="BNC">
     <title lang="en">RADIO @ TV</title>
     <desc lang="en">Program yang memaparkan kandungan terbaik di Bernama Radio yang memberikan fokus kepada dunia perniagaan, khususnya Industri Kecil Dan Sederhana.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20200113170000 +0800" stop="20200113173000 +0800" channel="BNC">
-    <title lang="en">Darah Muda</title>
-    <desc lang="en">Bagaimana golongan muda mencerna isu-isu nasional dan agenda negara? Dengar dan fahami aspirasi serta kehendak belia masa kini menerusi program bual bicara 'Darah Muda'.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
   </programme>
   <programme start="20200113173000 +0800" stop="20200113180000 +0800" channel="BNC">
     <title lang="en">Ruang Bicara</title>
@@ -10925,16 +10925,16 @@
     <category lang="en">Discussion / Interview / Debate</category>
   </programme>
   <programme start="20200114163000 +0800" stop="20200114170000 +0800" channel="BNC">
+    <title lang="en">Darah Muda</title>
+    <desc lang="en">Doktor Muda : Cabaran dan Realiti. Bersama Dr Muhammad Firdaus Abdul Rahim, Pegawai Perubatan / Pelajar Sarjana Perubatan di PPUKM.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Discussion / Interview / Debate</category>
+  </programme>
+  <programme start="20200114170000 +0800" stop="20200114173000 +0800" channel="BNC">
     <title lang="en">RADIO @ TV</title>
     <desc lang="en">Program yang memaparkan kandungan terbaik di Bernama Radio yang memberikan fokus kepada dunia perniagaan, khususnya Industri Kecil Dan Sederhana.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-  </programme>
-  <programme start="20200114170000 +0800" stop="20200114173000 +0800" channel="BNC">
-    <title lang="en">Darah Muda</title>
-    <desc lang="en">Bagaimana golongan muda mencerna isu-isu nasional dan agenda negara? Dengar dan fahami aspirasi serta kehendak belia masa kini menerusi program bual bicara 'Darah Muda'.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Discussion / Interview / Debate</category>
   </programme>
   <programme start="20200114173000 +0800" stop="20200114180000 +0800" channel="BNC">
     <title lang="en">Ruang Bicara</title>
@@ -13329,12 +13329,11 @@
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200114203000 +0800" stop="20200114210000 +0800" channel="Astro Awani">
-    <title lang="en">Nadi Arena</title>
-    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXMG_Series.jpg" />
-    <episode-num system="xmltv_ns">.166.</episode-num>
+    <title lang="en">Kamek Anak Sarawak</title>
+    <desc lang="en">Eksklusif bersama Timbalan Ketua Menteri Sarawak, Datuk Amar Awang Tengah Ali Hasan. Cerita Kejayaan, Inspirasi dan Komitmen untuk Sarawak.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
   <programme start="20200114210000 +0800" stop="20200114213000 +0800" channel="Astro Awani">
     <title lang="en">Agenda Awani</title>
@@ -13797,28 +13796,11 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/INDJW_series.jpg" />
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20200115203000 +0800" stop="20200115204500 +0800" channel="Astro Awani">
-    <title lang="en">Nadi Arena</title>
-    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXXIV_Series.jpg" />
-    <episode-num system="xmltv_ns">.326.</episode-num>
-  </programme>
-  <programme start="20200115204500 +0800" stop="20200115210000 +0800" channel="Astro Awani">
-    <title lang="en">Lan Berdagang</title>
-    <desc lang="en">Lan Berdagang mengangkat usahawan-usahawan Sarawak berkongsi cerita, pengalaman dan produk yang dihasilkan untuk pasaran tempatan dan antarabangsa termasuk keistimewaan menjadi anak bumi kenyalang.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWJPK_series.jpg" />
-    <episode-num system="xmltv_ns">.31.</episode-num>
-  </programme>
-  <programme start="20200115210000 +0800" stop="20200115213000 +0800" channel="Astro Awani">
-    <title lang="en">Agenda Awani</title>
+  <programme start="20200115203000 +0800" stop="20200115213000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani+</title>
     <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200115213000 +0800" stop="20200115214500 +0800" channel="Astro Awani">
@@ -13876,21 +13858,12 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JAJRB_series.jpg" />
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20200116003000 +0800" stop="20200116010000 +0800" channel="Astro Awani">
-    <title lang="en">Agenda Awani</title>
+  <programme start="20200116003000 +0800" stop="20200116013000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani+</title>
     <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
-    <episode-num system="xmltv_ns">.391.</episode-num>
-  </programme>
-  <programme start="20200116010000 +0800" stop="20200116013000 +0800" channel="Astro Awani">
-    <title lang="en">Buletin Awani</title>
-    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
-    <episode-num system="xmltv_ns">.359.</episode-num>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200116013000 +0800" stop="20200116020000 +0800" channel="Astro Awani">
     <title lang="en">Nadi Arena</title>
@@ -13908,21 +13881,12 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
     <episode-num system="xmltv_ns">.359.</episode-num>
   </programme>
-  <programme start="20200116023000 +0800" stop="20200116030000 +0800" channel="Astro Awani">
-    <title lang="en">Agenda Awani</title>
+  <programme start="20200116023000 +0800" stop="20200116033000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani+</title>
     <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
-    <episode-num system="xmltv_ns">.391.</episode-num>
-  </programme>
-  <programme start="20200116030000 +0800" stop="20200116033000 +0800" channel="Astro Awani">
-    <title lang="en">Buletin Awani</title>
-    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
-    <episode-num system="xmltv_ns">.359.</episode-num>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200116033000 +0800" stop="20200116040000 +0800" channel="Astro Awani">
     <title lang="en">Nadi Arena</title>
@@ -13940,21 +13904,12 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
     <episode-num system="xmltv_ns">.359.</episode-num>
   </programme>
-  <programme start="20200116043000 +0800" stop="20200116050000 +0800" channel="Astro Awani">
-    <title lang="en">Agenda Awani</title>
+  <programme start="20200116043000 +0800" stop="20200116053000 +0800" channel="Astro Awani">
+    <title lang="en">Agenda Awani+</title>
     <desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel secara langsung.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IOYOL_series.jpg" />
-    <episode-num system="xmltv_ns">.391.</episode-num>
-  </programme>
-  <programme start="20200116050000 +0800" stop="20200116053000 +0800" channel="Astro Awani">
-    <title lang="en">Buletin Awani</title>
-    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/CJNEE_Series.jpg" />
-    <episode-num system="xmltv_ns">.359.</episode-num>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200116053000 +0800" stop="20200116060000 +0800" channel="Astro Awani">
     <title lang="en">Nadi Arena</title>
@@ -15736,41 +15691,21 @@
     <title lang="en">One Weekly</title>
     <desc lang="en">Peserta-peserta hebat One Championship 2019 yang menceritakan pengalaman masing-masing sebelum dan selepas perlawanan.</desc>
   </programme>
-  <programme start="20200113120000 +0800" stop="20200113130000 +0800" channel="RTM Sports HD">
+  <programme start="20200113120000 +0800" stop="20200113140000 +0800" channel="RTM Sports HD">
     <title lang="en">Muay Thai Max 2019 - The Champion</title>
     <desc lang="en">Berlangsung di Stadium Max Muay Thai di Thailand. Seramai lima peserta yang menyertai pertandingan ini dan pertarungan tanpa henti selama tiga pusingan.</desc>
   </programme>
-  <programme start="20200113130000 +0800" stop="20200113140000 +0800" channel="RTM Sports HD">
-    <title lang="en">One Championship Review</title>
-    <desc lang="en">Sorotan daripada rancangan Once Championship 2019 yang menceritakan persediaan dan pengalaman peserta yang terlibat.</desc>
-  </programme>
   <programme start="20200113140000 +0800" stop="20200113150000 +0800" channel="RTM Sports HD">
-    <title lang="en">Rangkuman Sukan 2019</title>
-    <desc lang="en">Saksikan paparan menarik bagi rangkuman kejohanan - kejohanan dalam dan luar negara yang telah berlangsung sepanjang tahun 2019.</desc>
+    <title lang="en">Siaran Ulangan : Winter Youth Olympic Games 2020 - Alphine Skiing</title>
+    <desc lang="en">Siaran ulangan Winter Youth Olympic Games 2020 acara Alphine Skiing yang berlangsung dari Lausanne, Switzerland.</desc>
   </programme>
   <programme start="20200113150000 +0800" stop="20200113160000 +0800" channel="RTM Sports HD">
     <title lang="en">Sukan Lejen</title>
     <desc lang="en">Rancangan yang membawakan kita mengimbas kembali kejuaraan sukan pada masa dulu.</desc>
   </programme>
-  <programme start="20200113160000 +0800" stop="20200113180000 +0800" channel="RTM Sports HD">
-    <title lang="en">Formula E Championship Race Mexico City</title>
-    <desc lang="en">Kejuaraan Formula E kali ini berlangsung di Mexico City.</desc>
-  </programme>
-  <programme start="20200113180000 +0800" stop="20200113203000 +0800" channel="RTM Sports HD">
-    <title lang="en">Siaran Ulangan : CUB PRIX 2019 (Rd.7) Kangar, Perlis</title>
-    <desc lang="en">Perlumbaan Cub Prix kali ini berlangsung di Kangar, Perlis.</desc>
-  </programme>
-  <programme start="20200113203000 +0800" stop="20200113213000 +0800" channel="RTM Sports HD">
-    <title lang="en">Highlight Formula E  Race Mexico City</title>
-    <desc lang="en">Sorotan dari kejuaran Formula E kali ini berlangsung di Mexico City.</desc>
-  </programme>
-  <programme start="20200113213000 +0800" stop="20200113220000 +0800" channel="RTM Sports HD">
-    <title lang="en">Highlight Cub Prix 2019</title>
-    <desc lang="en">Sorotan dari kejuaraan Cub Prix 2019 yang berlangsung beberapa buah negeri dalam misi pencarian pelumba negara.</desc>
-  </programme>
-  <programme start="20200113220000 +0800" stop="20200113235900 +0800" channel="RTM Sports HD">
-    <title lang="en">One Championship - Best Of One</title>
-    <desc lang="en">Saksikan Best Of One paparan dan rangkuman perlawanan terpilih dalam One Championship.</desc>
+  <programme start="20200113160000 +0800" stop="20200113235900 +0800" channel="RTM Sports HD">
+    <title lang="en">Siaran Langsung : Winter Youth Olympic Games 2020</title>
+    <desc lang="en">Siaran Langsung Winter Youth Olympic Games yang berlangsung dari Lausanne, Switzerland.</desc>
   </programme>
   <programme start="20200114020000 +0800" stop="20200114030000 +0800" channel="RTM Sports HD">
     <title lang="en">Sukan Lejen</title>
@@ -16759,5 +16694,473 @@
   <programme start="20200116133000 +0800" stop="20200116140000 +0800" channel="RTM BES">
     <title lang="en">Berita Tamil</title>
     <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200116140000 +0800" stop="20200116143000 +0800" channel="RTM BES">
+    <title lang="en">Destinasia</title>
+    <desc lang="en">Bersama-sama hos Syafiq Nazri, program 13 episod ini membawa anda menjelajah ke beberapa lokasi pilihan di Asia untuk menghayati dan menikmati kekayaan eko-pelancongan yang merangkumi alam sekitar, sejarah, budaya dan gaya hidup masyarakat setempat.</desc>
+  </programme>
+  <programme start="20200116143000 +0800" stop="20200116150000 +0800" channel="RTM BES">
+    <title lang="en">Seleksi Konti Radio</title>
+    <desc lang="en">Memaparkan slot secara langsung menerusi konti radio dari setiap negeri pilihan bagi membincangkan pelbagai topik beserta tetamu undangan.</desc>
+  </programme>
+  <programme start="20200116150000 +0800" stop="20200116153000 +0800" channel="RTM BES">
+    <title lang="en">On Viral</title>
+    <desc lang="en">Memaparkan perkembangan berita terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200116153000 +0800" stop="20200116160000 +0800" channel="RTM BES">
+    <title lang="en">Terbaik Dari Ladang</title>
+    <desc lang="en">Jom! Ikut Alif Hadi ke Ladang Lembu HS Nada Sdn Bhd di Kuang, Selangor yang diusahakan oleh Zaim dan adik beradiknya yang semuanya baru berusia awal 20an. Zaim banyak berkongsi pengalaman beliau bermula dari menternak lembu hingga ke proses menghasilkan produk berasaskan daging lembu. Di akhir segmen, Zaim dan adiknya berkongsi resepi masakan berasaskan daging.</desc>
+  </programme>
+  <programme start="20200116160000 +0800" stop="20200116170000 +0800" channel="RTM BES">
+    <title lang="en">Bicara DR</title>
+    <desc lang="en">Program bicarawara bertema Bicara DR bersama tetamu undangan dan membincangkan isu sains dan teknologi sebagai topik pilihan.</desc>
+  </programme>
+  <programme start="20200116170000 +0800" stop="20200116180000 +0800" channel="RTM BES">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200116180000 +0800" stop="20200116183000 +0800" channel="RTM BES">
+    <title lang="en">Biz Malaysia</title>
+    <desc lang="en">Dapatkan maklumat-maklumat semasa dan terkini mengenai ekonomi Malaysia dalam Biz Malaysia.</desc>
+  </programme>
+  <programme start="20200116183000 +0800" stop="20200116190000 +0800" channel="RTM BES">
+    <title lang="en">Pastikan Sahih</title>
+    <desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral dalam media social.</desc>
+  </programme>
+  <programme start="20200116190000 +0800" stop="20200116193000 +0800" channel="RTM BES">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200116193000 +0800" stop="20200116200000 +0800" channel="RTM BES">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200116200000 +0800" stop="20200116210000 +0800" channel="RTM BES">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200116210000 +0800" stop="20200116220000 +0800" channel="RTM BES">
+    <title lang="en">Bicara DR</title>
+    <desc lang="en">Program bicarawara bertema Bicara DR bersama tetamu undangan dan membincangkan isu sains dan teknologi sebagai topik pilihan.</desc>
+  </programme>
+  <programme start="20200116220000 +0800" stop="20200116223000 +0800" channel="RTM BES">
+    <title lang="en">Kota Warisan Alam</title>
+    <desc lang="en">Program travelog menjelajah ke setiap kota warisan di negara ini untuk meninjau tempat-tempat menarik untuk dilawati setiap masyarakat.</desc>
+  </programme>
+  <programme start="20200116223000 +0800" stop="20200116230000 +0800" channel="RTM BES">
+    <title lang="en">Fail Bomba</title>
+    <desc lang="en">Sebuah program  majalah dihoskan oleh Jeed Zulkefli yang mengimbas kembali kejadian bencara yang dikendalikan oleh pihak bomba.</desc>
+  </programme>
+  <programme start="20200116230000 +0800" stop="20200116233000 +0800" channel="RTM BES">
+    <title lang="en">BES Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
+  </programme>
+  <programme start="20200116233000 +0800" stop="20200116235900 +0800" channel="RTM BES">
+    <title lang="en">Jangan Tutup Lampu</title>
+    <desc lang="en">Rancangan majalah yang dihoskan oleh Wan Raja merungkai tentang kejadian misteri dan mistik.</desc>
+  </programme>
+  <programme start="20200117003000 +0800" stop="20200117013000 +0800" channel="RTM BES">
+    <title lang="en">Kenali Sempadan</title>
+    <desc lang="en">Bersama Arjaa Lee mengenali dan menjelajahi sempadan negeri-negeri di Malaysia, antaranya Sempadan antara Negeri Selangor dan Pahang, Sempadan antara Negeri Selangor dan Negeri Sembilan dan lain-lain. Rancangan ini memaparkan sejarah, tempat-tempat menarik dan budaya yang wujud di daerah sempadan.</desc>
+  </programme>
+  <programme start="20200117013000 +0800" stop="20200117023000 +0800" channel="RTM BES">
+    <title lang="en">Naratif Tersembunyi</title>
+    <desc lang="en">Sebuah program majalah yang memaparkan sejarah serta keunikan kawasan di Malaysia.</desc>
+  </programme>
+  <programme start="20200117023000 +0800" stop="20200117033000 +0800" channel="RTM BES">
+    <title lang="en">Hamparan Alam</title>
+    <desc lang="en">Bersama pengacara Shikin Kamal mengunjungi ke tempat-tempat menarik di dalam negara serta mengetahui keunikan di sesuatu kawasan tersebut.</desc>
+  </programme>
+  <programme start="20200117033000 +0800" stop="20200117043000 +0800" channel="RTM BES">
+    <title lang="en">Evo Rasa</title>
+    <desc lang="en">Evolusi perniagaan makanan dalam program Evo Rasa. Memaparkan asal-usul sejarah makanan dan pelbagai jenis makanan Malaysia mengikut selera tempatan dan kawasan tertentu.</desc>
+  </programme>
+  <programme start="20200117043000 +0800" stop="20200117053000 +0800" channel="RTM BES">
+    <title lang="en">Ruwa Seni Bina Islam</title>
+    <desc lang="en">Memaparkan keindahan masjid dan surau di negara kita dari segi hiasan luaran dan dalaman. Turut menyentuh dan berkongsi tentang sejarah pembinaan masjid dan surau.</desc>
+  </programme>
+  <programme start="20200117053000 +0800" stop="20200117063000 +0800" channel="RTM BES">
+    <title lang="en">Langit Biru</title>
+    <desc lang="en">Program dokumentari  yang menyaksikan sejarah dan lokasi-lokasi menarik di Indonesia.</desc>
+  </programme>
+  <programme start="20200117063000 +0800" stop="20200117070000 +0800" channel="RTM BES">
+    <title lang="en">Destinasi Agung</title>
+    <desc lang="en">Ikuti travelog yang membawa penonton mengetahui tentang keunikan seni bina serta sejarah sesebuah masjid atau surau terpilih termasuk sejarah, makam serta aktiviti yang dijalankan di masjid tersebut.</desc>
+  </programme>
+  <programme start="20200117070000 +0800" stop="20200117073000 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Saksikan Berita Pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200117073000 +0800" stop="20200117074500 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan berita pagi dari Sabah yang memaparkan perkembangan terkini serta isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200117074500 +0800" stop="20200117080000 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak yang memaparkan perkembangan berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200117080000 +0800" stop="20200117100000 +0800" channel="RTM BES">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.</desc>
+  </programme>
+  <programme start="20200117100000 +0800" stop="20200117103000 +0800" channel="RTM BES">
+    <title lang="en">Tersembunyi</title>
+    <desc lang="en">Sebuah program yang memaparkan tentang kesihatan serta kupasan mengenai sesuatu penyakit.</desc>
+  </programme>
+  <programme start="20200117103000 +0800" stop="20200117110000 +0800" channel="RTM BES">
+    <title lang="en">Inspirasi dan Perjuangan</title>
+    <desc lang="en">Memaparkan kisah inspirasi dan perjuangan tokoh-tokoh yang berjaya melestarikan impian hidup bagi membantu masyarakat.</desc>
+  </programme>
+  <programme start="20200117110000 +0800" stop="20200117120000 +0800" channel="RTM BES">
+    <title lang="en">Santri Serumpun</title>
+    <desc lang="en">Program kembara ke Pusat-Pusat Pengajian Agama di Indonesia.</desc>
+  </programme>
+  <programme start="20200117120000 +0800" stop="20200117122000 +0800" channel="RTM BES">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200117122000 +0800" stop="20200117123000 +0800" channel="RTM BES">
+    <title lang="en">Galeri Nasional Mandarin</title>
+    <desc lang="en">Rancangan berbentuk majalah berbahasaMandarinyang mengupas kegiatan semasa masyarakat.</desc>
+  </programme>
+  <programme start="20200117123000 +0800" stop="20200117130000 +0800" channel="RTM BES">
+    <title lang="en">Update@Noon</title>
+    <desc lang="en">Saksikan berita bahasa Inggeris yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200117130000 +0800" stop="20200117140000 +0800" channel="RTM BES">
+    <title lang="en">Ruwa Seni Bina Islam</title>
+    <desc lang="en">Memaparkan keindahan masjid dan surau di negara kita dari segi hiasan luaran dan dalaman. Turut menyentuh dan berkongsi tentang sejarah pembinaan masjid dan surau.</desc>
+  </programme>
+  <programme start="20200117140000 +0800" stop="20200117143000 +0800" channel="RTM BES">
+    <title lang="en">Puncak Asean</title>
+    <desc lang="en">Jom! Saksikan Jack Hafiz ke beberapa lokasi menarik di Vietnam sebelum menawan puncak Gunung Fansipan.</desc>
+  </programme>
+  <programme start="20200117143000 +0800" stop="20200117150000 +0800" channel="RTM BES">
+    <title lang="en">Destinasi Agung</title>
+    <desc lang="en">Ikuti travelog yang membawa penonton mengetahui tentang keunikan seni bina serta sejarah sesebuah masjid atau surau terpilih termasuk sejarah, makam serta aktiviti yang dijalankan di masjid tersebut.</desc>
+  </programme>
+  <programme start="20200117150000 +0800" stop="20200117153000 +0800" channel="RTM BES">
+    <title lang="en">OneNews</title>
+    <desc lang="en">Memaparkan perkembangan berita terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200117153000 +0800" stop="20200117160000 +0800" channel="RTM BES">
+    <title lang="en">Ustaz Ronda-Ronda</title>
+    <desc lang="en">Bersama hos Syed Iqmal melawat lokasi-lokasi menarik dalam masa yang sama membincangkan topik 'Musafir'.</desc>
+  </programme>
+  <programme start="20200117160000 +0800" stop="20200117170000 +0800" channel="RTM BES">
+    <title lang="en">Bicara Naratif</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
+  </programme>
+  <programme start="20200117170000 +0800" stop="20200117180000 +0800" channel="RTM BES">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200117180000 +0800" stop="20200117183000 +0800" channel="RTM BES">
+    <title lang="en">Biz Malaysia</title>
+    <desc lang="en">Dapatkan maklumat-maklumat semasa dan terkini mengenai ekonomi Malaysia dalam Biz Malaysia.</desc>
+  </programme>
+  <programme start="20200117183000 +0800" stop="20200117190000 +0800" channel="RTM BES">
+    <title lang="en">Pastikan Sahih</title>
+    <desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral dalam media social.</desc>
+  </programme>
+  <programme start="20200117190000 +0800" stop="20200117193000 +0800" channel="RTM BES">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200117193000 +0800" stop="20200117200000 +0800" channel="RTM BES">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200117200000 +0800" stop="20200117210000 +0800" channel="RTM BES">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200117210000 +0800" stop="20200117220000 +0800" channel="RTM BES">
+    <title lang="en">Bicara Naratif</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
+  </programme>
+  <programme start="20200117220000 +0800" stop="20200117223000 +0800" channel="RTM BES">
+    <title lang="en">Inspirasi dan Perjuangan</title>
+    <desc lang="en">Memaparkan kisah inspirasi dan perjuangan tokoh-tokoh yang berjaya melestarikan impian hidup bagi membantu masyarakat.</desc>
+  </programme>
+  <programme start="20200117223000 +0800" stop="20200117230000 +0800" channel="RTM BES">
+    <title lang="en">Ganjil Yang Indah</title>
+    <desc lang="en">Bersama pengacara Eyra Hazali, Roax Tan dan Kameesha menjelajah untuk mencari nama pelik, sejarah serta cara hidup yang unik dan keindahan di kampung dan pekan kecil di Malaysia.</desc>
+  </programme>
+  <programme start="20200117230000 +0800" stop="20200117233000 +0800" channel="RTM BES">
+    <title lang="en">BES Dunia</title>
+    <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
+  </programme>
+  <programme start="20200117233000 +0800" stop="20200117235900 +0800" channel="RTM BES">
+    <title lang="en">Kes Fail Syed Azmi</title>
+    <desc lang="en">Episod kali ini bersama Azmi Al-Habshi memaparkan tentang kes pedofilia serta merungkai mangsa pedofilia seperti keganasan seksual terhadap kanak-kanak.</desc>
+  </programme>
+  <programme start="20200118003000 +0800" stop="20200118013000 +0800" channel="RTM BES">
+    <title lang="en">Renjer</title>
+    <desc lang="en">Saksikan tugas &amp; peranan renjer yang bertanggungjawab melaksana dan memantau kawasan rizab hutan hujan tropika.</desc>
+  </programme>
+  <programme start="20200118013000 +0800" stop="20200118023000 +0800" channel="RTM BES">
+    <title lang="en">Kenali Sempadan</title>
+    <desc lang="en">Bersama Arjaa Lee mengenali dan menjelajahi sempadan negeri-negeri di Malaysia, antaranya Sempadan antara Negeri Selangor dan Pahang, Sempadan antara Negeri Selangor dan Negeri Sembilan dan lain-lain. Rancangan ini memaparkan sejarah, tempat-tempat menarik dan budaya yang wujud di daerah sempadan.</desc>
+  </programme>
+  <programme start="20200118023000 +0800" stop="20200118033000 +0800" channel="RTM BES">
+    <title lang="en">Naratif Tersembunyi</title>
+    <desc lang="en">Sebuah program majalah yang memaparkan sejarah serta keunikan kawasan di Malaysia.</desc>
+  </programme>
+  <programme start="20200118033000 +0800" stop="20200118043000 +0800" channel="RTM BES">
+    <title lang="en">Hamparan Alam</title>
+    <desc lang="en">Bersama pengacara Shikin Kamal mengunjungi ke tempat-tempat menarik di dalam negara serta mengetahui keunikan di sesuatu kawasan tersebut.</desc>
+  </programme>
+  <programme start="20200118043000 +0800" stop="20200118053000 +0800" channel="RTM BES">
+    <title lang="en">Evo Rasa</title>
+    <desc lang="en">Evolusi perniagaan makanan dalam program Evo Rasa. Memaparkan asal-usul sejarah makanan dan pelbagai jenis makanan Malaysia mengikut selera tempatan dan kawasan tertentu.</desc>
+  </programme>
+  <programme start="20200118053000 +0800" stop="20200118063000 +0800" channel="RTM BES">
+    <title lang="en">Ruwa Seni Bina Islam</title>
+    <desc lang="en">Memaparkan keindahan masjid dan surau di negara kita dari segi hiasan luaran dan dalaman. Turut menyentuh dan berkongsi tentang sejarah pembinaan masjid dan surau.</desc>
+  </programme>
+  <programme start="20200118063000 +0800" stop="20200118070000 +0800" channel="RTM BES">
+    <title lang="en">Jelajah Hati</title>
+    <desc lang="en">Memaparkan kisah perjalanan Faizal Tahir dalam misinya cuba menjejaki dan berkongsi mengenai makam-makam tersohor dan masjid-masjid bersejarah di Pulau Jawa.</desc>
+  </programme>
+  <programme start="20200118070000 +0800" stop="20200118073000 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Saksikan Berita Pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200118073000 +0800" stop="20200118074500 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan berita pagi dari Sabah yang memaparkan perkembangan terkini serta isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200118074500 +0800" stop="20200118080000 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak yang memaparkan perkembangan berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200118080000 +0800" stop="20200118100000 +0800" channel="RTM BES">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.</desc>
+  </programme>
+  <programme start="20200118100000 +0800" stop="20200118103000 +0800" channel="RTM BES">
+    <title lang="en">Smart Parents</title>
+    <desc lang="en">Sebuah rancangan motivasi TV yang akan membincangkan tentang tips ibu-bapa bijak anak hebat. Episod kali ini membincangkan topik 'Biar Tak Banyak Masa Asalkan Sentiasa Berkerjasama' bersama hos Zaid Mohamad.</desc>
+  </programme>
+  <programme start="20200118103000 +0800" stop="20200118110000 +0800" channel="RTM BES">
+    <title lang="en">3 Ke 5 Jer</title>
+    <desc lang="en">Rancangan travelog yang dihoskan oleh Nadia Hasnan memperkenalkan lokasi yang lebih indah lagi dengan konsep sama, bermodalkan bajet antara RM300 hingga RM500, anda berpeluang bercuti ke destinasi percutian menarik dalam negara pilihan anda.</desc>
+  </programme>
+  <programme start="20200118110000 +0800" stop="20200118120000 +0800" channel="RTM BES">
+    <title lang="en">Pesona XY</title>
+    <desc lang="en">Program yang membicarakan mengenai isu semasa dan kemasyarakatan.</desc>
+  </programme>
+  <programme start="20200118120000 +0800" stop="20200118123000 +0800" channel="RTM BES">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200118123000 +0800" stop="20200118130000 +0800" channel="RTM BES">
+    <title lang="en">Update@Noon</title>
+    <desc lang="en">Saksikan berita bahasa Inggeris yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200118130000 +0800" stop="20200118133000 +0800" channel="RTM BES">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200118133000 +0800" stop="20200118140000 +0800" channel="RTM BES">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200118140000 +0800" stop="20200118150000 +0800" channel="RTM BES">
+    <title lang="en">Wira</title>
+    <desc lang="en">Wira episod kali ini bersama hos Fazleena Hishamudin menyelusuri sejarah perjuangan Tok Janggut bersama Ramli Mohamad (Cucu Saudara Tok Janggut) dan Yudin Mat (Pengkaji Sejarah Kelantan).</desc>
+  </programme>
+  <programme start="20200118150000 +0800" stop="20200118153000 +0800" channel="RTM BES">
+    <title lang="en">Warna Warni Asean</title>
+    <desc lang="en">Pada episod kali ini, hos Nik Michael Imran akan membawa anda menerokai keindahan dan keunikan tempat-tempat menarik di Semarang, Indonesia.</desc>
+  </programme>
+  <programme start="20200118153000 +0800" stop="20200118160000 +0800" channel="RTM BES">
+    <title lang="en">Lensa IPT</title>
+    <desc lang="en">Program yang memaparkan perkembangan semasa dunia Institusi Pengajian Tinggi Awam (IPTA) di Malaysia.</desc>
+  </programme>
+  <programme start="20200118160000 +0800" stop="20200118170000 +0800" channel="RTM BES">
+    <title lang="en">Vasantham</title>
+    <desc lang="en">Program bual bicara berbahasa Tamil membincangkan isu semasa bersama tetamu undangan  di studio.</desc>
+  </programme>
+  <programme start="20200118170000 +0800" stop="20200118180000 +0800" channel="RTM BES">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200118180000 +0800" stop="20200118183000 +0800" channel="RTM BES">
+    <title lang="en">Bakul Telur Emas</title>
+    <desc lang="en">Bakul Telur Emas pada minggu ini membincangkan tentang topik Daya Lawan Masa bersama pakar perunding kewangan.</desc>
+  </programme>
+  <programme start="20200118183000 +0800" stop="20200118190000 +0800" channel="RTM BES">
+    <title lang="en">Terowong Rahsia Melaka</title>
+    <desc lang="en">Perjalanan Dr. Nasa dalam membuktikan wujudnya terowong rahsia melaka membawa beliau ke gereja St. Paul dan gereja St. Thomas untuk melihat binaan \"Catacomb\" yang mungkin mempunyai petanda wujudnya terowong rahsia.</desc>
+  </programme>
+  <programme start="20200118190000 +0800" stop="20200118193000 +0800" channel="RTM BES">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200118193000 +0800" stop="20200118200000 +0800" channel="RTM BES">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200118200000 +0800" stop="20200118210000 +0800" channel="RTM BES">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200118210000 +0800" stop="20200118213000 +0800" channel="RTM BES">
+    <title lang="en">#Sayang</title>
+    <desc lang="en">Program berbentuk majalah yang memaparkan aktiviti kemasyarakatan dan CSR di dalam negara.</desc>
+  </programme>
+  <programme start="20200118213000 +0800" stop="20200118220000 +0800" channel="RTM BES">
+    <title lang="en">Teknologi Nano</title>
+    <desc lang="en">Program majalah yang memaparkan penggunaan teknologi nano dalam penghasilan sesuatu produk dan teknologi.</desc>
+  </programme>
+  <programme start="20200118220000 +0800" stop="20200118223000 +0800" channel="RTM BES">
+    <title lang="en">3 Ke 5 Jerr</title>
+    <desc lang="en">Sebuah rancangan tempatan yang berkonsepkan percutian dengan bajet yang ditetapkan antara RM300 hingga RM500.</desc>
+  </programme>
+  <programme start="20200118223000 +0800" stop="20200118230000 +0800" channel="RTM BES">
+    <title lang="en">Pantau</title>
+    <desc lang="en">Memaparkan tentang teknologi sistem Bio Metrik yang digunakan sebagai sistem kawalan peranti akses untuk keselamatan dan alat pemantauan yang canggih.</desc>
+  </programme>
+  <programme start="20200118230000 +0800" stop="20200118233000 +0800" channel="RTM BES">
+    <title lang="en">Suara Malaysia</title>
+    <desc lang="en">Program bual bicara yang mengupas isu-isu semasa secara santai dan mengulas perkembangan semasa dalam media sosial.</desc>
+  </programme>
+  <programme start="20200118233000 +0800" stop="20200118235900 +0800" channel="RTM BES">
+    <title lang="en">Kontra Analisa</title>
+    <desc lang="en">Bersama hos Riz Ismail mengupas isu  terkunci dalam kenderaan bersama tetamu  1) Prof. Madya. Dr. Haji. Mohd Nor Mamat (Asis UiTM) 2)Pn. Haslinda - Naib Pengerusi Rumah Titian Kaseh 3) Dr. Mohd Asri - Mufti Perlis.</desc>
+  </programme>
+  <programme start="20200119003000 +0800" stop="20200119013000 +0800" channel="RTM BES">
+    <title lang="en">Langit Biru</title>
+    <desc lang="en">Program dokumentari  yang menyaksikan sejarah dan lokasi-lokasi menarik di Indonesia.</desc>
+  </programme>
+  <programme start="20200119013000 +0800" stop="20200119023000 +0800" channel="RTM BES">
+    <title lang="en">Renjer</title>
+    <desc lang="en">Saksikan tugas &amp; peranan renjer yang bertanggungjawab melaksana dan memantau kawasan rizab hutan hujan tropika.</desc>
+  </programme>
+  <programme start="20200119023000 +0800" stop="20200119033000 +0800" channel="RTM BES">
+    <title lang="en">Kenali Sempadan</title>
+    <desc lang="en">Bersama Arjaa Lee mengenali dan menjelajahi sempadan negeri-negeri di Malaysia, antaranya Sempadan antara Negeri Selangor dan Pahang, Sempadan antara Negeri Selangor dan Negeri Sembilan dan lain-lain. Rancangan ini memaparkan sejarah, tempat-tempat menarik dan budaya yang wujud di daerah sempadan.</desc>
+  </programme>
+  <programme start="20200119033000 +0800" stop="20200119043000 +0800" channel="RTM BES">
+    <title lang="en">Naratif Tersembunyi</title>
+    <desc lang="en">Sebuah program majalah yang memaparkan sejarah serta keunikan kawasan di Malaysia.</desc>
+  </programme>
+  <programme start="20200119043000 +0800" stop="20200119053000 +0800" channel="RTM BES">
+    <title lang="en">Hamparan Alam</title>
+    <desc lang="en">Bersama pengacara Shikin Kamal mengunjungi ke tempat-tempat menarik di dalam negara serta mengetahui keunikan di sesuatu kawasan tersebut.</desc>
+  </programme>
+  <programme start="20200119053000 +0800" stop="20200119063000 +0800" channel="RTM BES">
+    <title lang="en">Evo Rasa</title>
+    <desc lang="en">Evolusi perniagaan makanan dalam program Evo Rasa. Memaparkan asal-usul sejarah makanan dan pelbagai jenis makanan Malaysia mengikut selera tempatan dan kawasan tertentu.</desc>
+  </programme>
+  <programme start="20200119063000 +0800" stop="20200119070000 +0800" channel="RTM BES">
+    <title lang="en">Gelanggang</title>
+    <desc lang="en">Program yang memaparkan seni mempertahankan diri daripada Pertubuhan Seni Silat Lintau Asli Malaysia.</desc>
+  </programme>
+  <programme start="20200119070000 +0800" stop="20200119073000 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi</title>
+    <desc lang="en">Saksikan Berita Pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200119073000 +0800" stop="20200119074500 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi Sabah</title>
+    <desc lang="en">Saksikan berita pagi dari Sabah yang memaparkan perkembangan terkini serta isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200119074500 +0800" stop="20200119080000 +0800" channel="RTM BES">
+    <title lang="en">Berita Pagi Sarawak</title>
+    <desc lang="en">Saksikan Berita Pagi Sarawak yang memaparkan perkembangan berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200119080000 +0800" stop="20200119100000 +0800" channel="RTM BES">
+    <title lang="en">Selamat Pagi Malaysia</title>
+    <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.</desc>
+  </programme>
+  <programme start="20200119100000 +0800" stop="20200119103000 +0800" channel="RTM BES">
+    <title lang="en">Inspirasi Tauke Muda</title>
+    <desc lang="en">Pada episod kali ini, Inspirasi Tauke Muda menceritakan pengalaman dan cabaran seorang tauke muda iaitu Encik Norhashim Kamsan (Pemilik Syarikat Pewaris Bumi Hijau Sdn. Bhd.) bersama hos Hana Hussain.</desc>
+  </programme>
+  <programme start="20200119103000 +0800" stop="20200119110000 +0800" channel="RTM BES">
+    <title lang="en">Psikosis</title>
+    <desc lang="en">Psikosis adalah sebuah rancangan yang memaparkan kisah, pengalaman dan rawatan tentang pelbagai penyakit mental bersama hos Aiman Amri. Psikosis pada minggu ini mengenali dengan lebih dekat mengenai Gejala Kemurungan (MDD).</desc>
+  </programme>
+  <programme start="20200119110000 +0800" stop="20200119120000 +0800" channel="RTM BES">
+    <title lang="en">Fresh Brew</title>
+    <desc lang="en">Program bual bicara berbahasa Inggeris yang memaparkan pelbagai segmen menarik seperti Animal Diary, Sweet Tooth, Hobby Mania dengan topik perbincangan seperti kesihatan, keluarga dan gaya hidup.</desc>
+  </programme>
+  <programme start="20200119120000 +0800" stop="20200119123000 +0800" channel="RTM BES">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200119123000 +0800" stop="20200119130000 +0800" channel="RTM BES">
+    <title lang="en">World Around US</title>
+    <desc lang="en">Rangkuman peristiwa menarik sekitar negara-negara Asean.</desc>
+  </programme>
+  <programme start="20200119130000 +0800" stop="20200119133000 +0800" channel="RTM BES">
+    <title lang="en">Berita Tengah Hari</title>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200119133000 +0800" stop="20200119140000 +0800" channel="RTM BES">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200119140000 +0800" stop="20200119150000 +0800" channel="RTM BES">
+    <title lang="en">Wira Remaja</title>
+    <desc lang="en">Bersama hos Izzue Islam dan Amira Aman bersama tetamu wira wira remaja dalam 4 segmen    1. Kisahku : Remy Eldhani - Pengarah Teater  2. Rahsia Berjaya : Athirah Amira - Atlet Muda B.M.X 3. Motivasi dan Inspirasi : Erny Naraman -Peniaga Online 4. Yezza : Hisamudin - Mobilegraphy.</desc>
+  </programme>
+  <programme start="20200119150000 +0800" stop="20200119153000 +0800" channel="RTM BES">
+    <title lang="en">Luar Daripada Kebiasaan</title>
+    <desc lang="en">Luar Daripada Kebiasaan adalah sebuah program yang akan memberikan motivasi dan inspirasi melalui kisah dan cerita daripada tetamu OKU dan kanak kanak cilik yang hadir. Tetamu pada minggu ini Nur Zakiah Dzulkipli, Usahawan OKU bersama adiknya Nur Diana Dzulkipli dan adik Muhammad Shahmi Adha, Ahli Sukan Muay Thai.</desc>
+  </programme>
+  <programme start="20200119153000 +0800" stop="20200119160000 +0800" channel="RTM BES">
+    <title lang="en">Jelajah Vintaj</title>
+    <desc lang="en">Bersama hos, Dato' Ahmad Tamimi Siregar meneroka bahan vintaj bersama pengumpul barangan antik.</desc>
+  </programme>
+  <programme start="20200119160000 +0800" stop="20200119170000 +0800" channel="RTM BES">
+    <title lang="en">What Say You</title>
+    <desc lang="en">Program bicarawara berbahasa Mandarin yang membincangkan isu-isu semasa tanah air.</desc>
+  </programme>
+  <programme start="20200119170000 +0800" stop="20200119180000 +0800" channel="RTM BES">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20200119180000 +0800" stop="20200119183000 +0800" channel="RTM BES">
+    <title lang="en">Cina Muslim Malaysia</title>
+    <desc lang="en">Dihoskan oleh Iswan Ismail, episod kali ini menjejaki tokoh-tokoh Cina Muslim Malaysia yang berjaya dalam bidang masing-masing. Antara tokoh yang diwawancara ialah Datuk Dr. Fadzli Cheah (Pakar Bedah), Adam Corrie (Pelakon) dan Datuk Mohd Chan Abdullah (Pemilik Restoran).</desc>
+  </programme>
+  <programme start="20200119183000 +0800" stop="20200119190000 +0800" channel="RTM BES">
+    <title lang="en">Artifak Bersuara</title>
+    <desc lang="en">Episod kali ini meneroka mengenai Sejarah Komunikasi di Muzium Telekom, KL (Telefon), Gua Badak, Lenggong (Lukisan Gua) dan Galeri Rimbun Dahan (Lukisan Kotemporari).</desc>
+  </programme>
+  <programme start="20200119190000 +0800" stop="20200119193000 +0800" channel="RTM BES">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200119193000 +0800" stop="20200119200000 +0800" channel="RTM BES">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200119200000 +0800" stop="20200119210000 +0800" channel="RTM BES">
+    <title lang="en">Berita Perdana</title>
+    <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20200119210000 +0800" stop="20200119213000 +0800" channel="RTM BES">
+    <title lang="en">Kita Malaysia</title>
+    <desc lang="en">Program mingguan yang memaparkan mengenai keharmonian, kesepakatan dan nilai-nilai murni dalam kalangan masyarakat berbilang kaum di Malaysia.</desc>
+  </programme>
+  <programme start="20200119213000 +0800" stop="20200119220000 +0800" channel="RTM BES">
+    <title lang="en">Sains &amp; Teknologi</title>
+    <desc lang="en">Saksikan paparan menarik program yang berorientasikan inovasi dan teknologi.</desc>
+  </programme>
+  <programme start="20200119220000 +0800" stop="20200119223000 +0800" channel="RTM BES">
+    <title lang="en">Psikosis</title>
+    <desc lang="en">Psikosis adalah sebuah rancangan yang memaparkan kisah, pengalaman dan rawatan tentang pelbagai penyakit mental bersama hos Aiman Amri. Psikosis pada minggu ini mengenali dengan lebih dekat mengenai Gejala Kemurungan (MDD).</desc>
+  </programme>
+  <programme start="20200119223000 +0800" stop="20200119230000 +0800" channel="RTM BES">
+    <title lang="en">Semanis Cuka</title>
+    <desc lang="en">Bersama hos Nazeera Sardi mengupas isu isu kekeluargaan bersama tetamu Dr. Rabiah K.Hamzah dan Qazeem Nor.</desc>
+  </programme>
+  <programme start="20200119230000 +0800" stop="20200119233000 +0800" channel="RTM BES">
+    <title lang="en">Suara Malaysia</title>
+    <desc lang="en">Program bual bicara yang mengupas isu-isu semasa secara santai dan mengulas perkembangan semasa dalam media sosial.</desc>
   </programme>
 </tv>
