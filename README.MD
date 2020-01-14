@@ -21,6 +21,8 @@ The streams listed here are the official public streams hosted on their live TV 
 | 1 | Malaysia | https://freeview.github.io/iptv/playlist/my.m3u | https://freeview.github.io/iptv/epg/my.xml |
 | 2 | Singapore | https://freeview.github.io/iptv/playlist/sg.m3u | https://freeview.github.io/iptv/epg/sg.xml |
 
+Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
+
 More free channels soon! 
 
-We can't guarantee 100% uptime. Help report broken streams [here](https://github.com/hsytes/iptv/issues/new).
+We can't guarantee 100% uptime. Help report broken streams [here](https://github.com/freeview/iptv/issues/new)
