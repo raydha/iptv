@@ -40,7 +40,7 @@ https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.
 |Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BNC 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1579773636/ei/YxopXqSGOtOV8QPIhIugAg/ip/202.187.156.40/id/KkfZI-MzF6c.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30a6.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/14480/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/2/pl/19/dover/11/keepalive/yes/fexp/23842630/mt/1579751961/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ALgxI2wwRQIhAIb9dmLjkkJeJYiWtrg4bQoDW_VgsUsSBED9C8fnqIQ5AiAs9wftAaOBB419JTl8N8ou4KKI_GrPGPPSBGQYythDSA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgTTO_xyCQZbqsuQCvLfscg6TcX_m3Yt3qbzrFBtKAQdgCIQCXc3uOiDc2vQTsHfAbNb-FcdM1tr1lHMewfuxbdldN8g%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com
+http://freeview.github.io/iptv/source/my/tv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
