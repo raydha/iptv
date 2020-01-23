@@ -3,7 +3,8 @@ This repository contains the playlists, EPG and other related resources to enjoy
 
 Tested with:
 
-<img src="https://www.xda-developers.com/files/2018/09/android-tv-logo-810x298_c.png" width="150"> <img src="https://kodi.wiki/images/4/43/Side-by-side-dark-transparent.png" width="150">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Plex_vector_logo.svg/320px-Plex_vector_logo.svg.png" width="150"> 
+|<img src="https://www.xda-developers.com/files/2018/09/android-tv-logo-810x298_c.png" width="180">|<img src="https://kodi.wiki/images/4/43/Side-by-side-dark-transparent.png" width="150">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Plex_vector_logo.svg/320px-Plex_vector_logo.svg.png" width="100">|
+| --- | --- | --- |
 
 ![status](https://img.shields.io/badge/tokenizer-ONLINE-brightgreen.svg?style=flat)
 
