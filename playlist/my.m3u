@@ -31,13 +31,13 @@ https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bes.png",RTM BES
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
-https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+# #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
+# https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 # Youtube Channels
 
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah 
-https://freeview.github.io/iptv/source/offline-source.mp4
+# #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah 
+# https://freeview.github.io/iptv/source/offline-source.mp4
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BNC 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1580968829/ei/HVc7XqCXIuWHmge9l5nICQ/ip/202.187.40.228/id/KkfZI-MzF6c.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30a6.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/12180/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/2/pl/20/dover/11/keepalive/yes/fexp/23842630/mt/1580947159/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ALgxI2wwRQIhALvVsSR5nKkGL-LDVZlw2zdIdxy9sjwb30z5y76rqxG2AiBIhYcngKgO3XOtIX_SyeAFbRDTL8-yOPMupQBZPcn5Bg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRAIgE-ULJsXNK_MvbvBX58iFIx7z0zu0O-cx0cWfzWStNIMCIAxaYMLdMZLhk6hg2mquoorWIF2RdPBqM_-32a-BGMOi/playlist/index.m3u8|Referer=https://www.youtube.com
