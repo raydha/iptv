@@ -2,10 +2,10 @@
 # malaysia.m3u
   
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm5hd.secureswiftcontent.com/Origin01/ngrp:RTM5/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU7eVr-p_HUZN9qgtqDk6AY)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
@@ -23,13 +23,13 @@ https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHawzt_sQLC2sm16ykT
 https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0t2hTz709q1kuJDmI6mRiRY)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
-https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
-https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bes.png",RTM BES
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 # #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
 # https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
