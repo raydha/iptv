@@ -8,7 +8,7 @@ https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdnOHLh1t91ne-HuQ510Gy0)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdnOHLh1t91ne-HuQ510Gy0)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUy2AeS3d3Sesh8p9ixCMeA)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
@@ -40,7 +40,7 @@ https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 # https://freeview.github.io/iptv/source/offline-source.mp4
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BNC 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582884031/ei/X5BYXuaRNK_A4-EPg-2r2AI/ip/2001:f40:908:d7d7:d452:5b1e:1b90:b21e/id/v-8UbsP_va4.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30as.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/12390/mm/44/mn/sn-uphxqvujvh-30as/ms/lva/mv/m/mvi/1/pl/48/dover/11/keepalive/yes/fexp/23842630/mt/1582862359/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRgIhAIOUGg1031DqaKS7j_PCUYcwTXD_WdWdRovv--UGEIdwAiEA_Fham3FMKn4AMBCkF4IfBplsBtNgQEeXYJTK2_snsZQ%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRgIhALinjYZE3DBUFqAbX1fCtxb2WKD-uBOAsn51ikVhB0f9AiEAu2uNixIsZk87KeFa2wwQWYGPN1aIdEeiJIBV2VlPD0k%3D/playlist/index.m3u8|Referer=https://www.youtube.com
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582898432/ei/oMhYXoSMMYvX4-EPheql-AQ/ip/2001:f40:908:d7d7:d452:5b1e:1b90:b21e/id/v-8UbsP_va4.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30as.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/11750/mm/44/mn/sn-uphxqvujvh-30as/ms/lva/mv/m/mvi/1/pl/48/dover/11/keepalive/yes/fexp/23842630/mt/1582876756/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRQIgfOEMqi0t4ImhQmOxe29RX9dkVdeZo2WYMomlIOb6ugoCIQC-w18Nvy7LXTvsZkoW8b5-jmvRcDhLu4SQVz_HfRZTkQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRgIhAIr04irlztdhPVvPPhWTD5rsfQWtqJKYofy_aOnLemFMAiEAmckKOtkY_y0cPxsPAtbsMzC-ayD-s-1RdJfgQ8pKwkQ%3D/playlist/index.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
