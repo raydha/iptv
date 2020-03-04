@@ -8759,8 +8759,8 @@
     <category lang="en">Discussion / Interview / Debate</category>
   </programme>
   <programme start="20200304150000 +0800" stop="20200304153000 +0800" channel="BNC">
-    <title lang="en">Buletin Bernama</title>
-    <desc lang="en">Laporan terkini berita dari dalam dan luar negara.</desc>
+    <title lang="en">Mid-Day Update</title>
+    <desc lang="en">Your daily news catch up served fresh at lunch with an all new mid-day update, only on Bernama TV.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
   </programme>
@@ -11760,10 +11760,11 @@
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200306180000 +0800" stop="20200306183000 +0800" channel="Astro Awani">
-    <title lang="en">(L) Buletin Awani Khas Malaysia 2020</title>
-    <desc lang="en">Buletin Awani Khas Malaysia 2020.</desc>
+    <title lang="en">Buletin Awani</title>
+    <desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.126.</episode-num>
   </programme>
   <programme start="20200306183000 +0800" stop="20200306190000 +0800" channel="Astro Awani">
     <title lang="en">(L) Buletin Awani</title>
@@ -11781,11 +11782,19 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ITGMU_series.jpg" />
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20200306191500 +0800" stop="20200306194500 +0800" channel="Astro Awani">
-    <title lang="en">(L) Buletin Awani Khas Malaysia 2020</title>
-    <desc lang="en">Buletin Awani Khas Malaysia 2020.</desc>
+  <programme start="20200306191500 +0800" stop="20200306193000 +0800" channel="Astro Awani">
+    <title lang="en">Cerita</title>
+    <desc lang="en">Wartawan menceritakan kisah di sebalik sesuatu berita.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
+    <episode-num system="xmltv_ns">.343.</episode-num>
+  </programme>
+  <programme start="20200306193000 +0800" stop="20200306194500 +0800" channel="Astro Awani">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <episode-num system="xmltv_ns">.373.</episode-num>
   </programme>
   <programme start="20200306194500 +0800" stop="20200306203000 +0800" channel="Astro Awani">
     <title lang="en">(L) Awani 7:45</title>
