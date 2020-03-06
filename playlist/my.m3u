@@ -43,4 +43,4 @@ https://freeview.github.io/iptv/source/my/bes.m3u8
 https://freeview.github.io/iptv/source/my/bnc.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+https://freeview.github.io/iptv/source/my/awani.m3u8
