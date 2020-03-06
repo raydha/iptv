@@ -23,13 +23,13 @@ https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdgvQ6g9bVQ8L9LbOm
 https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0r1aJNt23ZFDiIOKoxW2V4M)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
-https://freeview.github.io/iptv/source/my/okey.m3u8
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
-https://freeview.github.io/iptv/source/my/rtmsports.m3u8
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bes.png",RTM BES
-https://freeview.github.io/iptv/source/my/bes.m3u8
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 # #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
 # https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
@@ -43,4 +43,4 @@ https://freeview.github.io/iptv/source/my/bes.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1583488832/ei/4MphXruAMc3k3LUP3_2MsA0/ip/202.187.212.163/id/v-8UbsP_va4.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30as.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/12350/mm/44/mn/sn-uphxqvujvh-30as/ms/lva/mv/m/mvi/1/pl/15/dover/11/keepalive/yes/fexp/23842630/mt/1583467152/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRQIgYuUiNOP5gGNKb6W6XQvpM8Gv_RUz6j0oz45rSzkhGcsCIQCYqu2vaCyobBBfrF01UJk5UJxWx0OB1BVFxuPfV5ApWA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRQIgFVYPvyUmxhOHF4ncB9J_9uz_RSMU5p4flyG0lPoB_PcCIQCrbXv-KS08k29lz_3iOXXeEKWoxmxWSXPaI08M8OnPzA%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
-https://freeview.github.io/iptv/source/my/awani.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
