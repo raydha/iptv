@@ -2,5 +2,6 @@ playlist/source/
 playlist/playlist.m3u
 playlist/personal.txt
 playlist/tmp
+source/tmp
 windows/
 test-dir/
