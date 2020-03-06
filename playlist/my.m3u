@@ -29,7 +29,7 @@ https://freeview.github.io/iptv/source/my/okey.m3u8
 https://freeview.github.io/iptv/source/my/rtmsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bes.png",RTM BES
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://freeview.github.io/iptv/source/my/bes.m3u8
 
 # #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
 # https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
