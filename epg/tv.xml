@@ -1725,18 +1725,6 @@
     <category lang="en">Biography</category>
     <episode-num system="xmltv_ns">.11.</episode-num>
   </programme>
-  <programme start="20200311203000 +0800" stop="20200311210000 +0800" channel="Channel 5">
-    <title lang="en">亲 Kin - EP 354</title>
-    <desc lang="en">May Wan applies for the Kwan-Shelley Foundation's funding grant, to Jessica's annoyance. Adina is finalising plans for Zaryf and Illya's wedding and leaves Rosnani out. Matthew warns Ella not to sabotage Ah Yoke and Dr Shen's relationship but it only drives Ella to be more subtle in her scheming</desc>
-  </programme>
-  <programme start="20200311210000 +0800" stop="20200311213000 +0800" channel="Channel 5">
-    <title lang="en">News 5</title>
-    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective</desc>
-  </programme>
-  <programme start="20200311213000 +0800" stop="20200311220000 +0800" channel="Channel 5">
-    <title lang="en">Best Of Crimewatch  - EP 6</title>
-    <desc lang="en">(Encore) Watch how officers from the Clementi Police Division conducted extensive investigations into an elaborate business scam, where the victim was cheated of S$1.5 million. All four suspects were swiftly arrested within three days from the reported crime, and close to 1.2 million dollars was successfully recovered by the Police. In this episode, we will share tips on how to safeguard yourself against Unauthorised Online Trading Platforms</desc>
-  </programme>
   <programme start="20200311220000 +0800" stop="20200311223000 +0800" channel="Channel 5">
     <title lang="en">Death Is Our Business 2 - EP 1</title>
     <desc lang="en">Veteran undertaker Roland Tay is now a proud grandfather of Skyla, the firstborn of daughter Jenny and son-in-law Darren. Their funeral business is now busier than ever, but the trio continues to accept all pro bono requests, including a taxi driver who found his wife's body two weeks after her death</desc>
@@ -1744,10 +1732,6 @@
   <programme start="20200311223000 +0800" stop="20200311233000 +0800" channel="Channel 5">
     <title lang="en">深一层的美 The Skin We Wear - EP 1</title>
     <desc lang="en">Four individuals born with Harlequin Ichthyosis, a rare genetic disorder that causes thick and scaly skin prone to cracking and infections, find strength and hope in the face of the unknown</desc>
-  </programme>
-  <programme start="20200311210000 +0800" stop="20200311220000 +0800" channel="Channel 8">
-    <title lang="en">爱...没有距离 Loving You - EP 3</title>
-    <desc lang="en">Si Yuan runs away from home, seeking refuge at fellow netizen Dong Sheng's friend's home. Chen Shi and Lin Li goes to places frequented by Si Yuan but they can't find her. Chen Shi recalls that Si Yuan actively participates in a group that investigates the paranormal and thinks she may be with them. Lin Li is furious that Chen Shi secretly allowed Si Yuan to make friends online.  (PG)思远离家出走，与网友东升暂住东升朋友家。陈石和林俐到思远常去的地方，都找不到她。陈石想起思远参加“真相探究”的事，猜想她或许和网友在一起。林俐这才知道陈石瞒着她让思远结交网友，气得和陈石大吵一架。</desc>
   </programme>
   <programme start="20200311220000 +0800" stop="20200311223000 +0800" channel="Channel 8">
     <title lang="en">晚间新闻 News Tonight</title>
@@ -1757,14 +1741,6 @@
     <title lang="en">寻花探草 Sr 1 Garden Of Treasure S1 - EP 5</title>
     <desc lang="en">"Garden Of Treasure " is a documentary on the healing functions and botanical characteristics of wild flowers and herbs which can also be used to cook simple and delicious flower dishes. 《寻花探草》是以药草拍摄为主的纪录片，介绍他们心目中的百搭花草，逐一分享花草的药疗功能和植物特性, 也化成一道道简单好味的花草料理。</desc>
   </programme>
-  <programme start="20200311210000 +0800" stop="20200311213000 +0800" channel="Channel U">
-    <title lang="en">消失中的亚洲食物 Vanishing Foods - EP 8</title>
-    <desc lang="en">Made with a sauce that takes 30 days to perfect. An ingredient, 'grago' shrimp, that money often can't buy because of sporadic supply. All the reasons why a Singapore Peranakan braised pork dish, Babi Tohay, is vanishing. Chef Malcolm Lee, of Michelin-starred Candlenut Restaurant, shares his secrets (最后一集)娘惹料理“发酵猪肉” (Babi Tohay) 是一道需要用三十天才能发酵的酱汁来烹调的佳肴。其中一种食材，小虾，因为稀有而货源不足，有钱也经常无法买得到。这也是为什么这道传统佳肴会逐渐消失的原因。</desc>
-  </programme>
-  <programme start="20200311213000 +0800" stop="20200311220000 +0800" channel="Channel U">
-    <title lang="en">退休地图 Retiring in Paradise - EP 8</title>
-    <desc lang="en">Tony Hung brings audience into the retirement world and introduce the different countries suitable for retirement at affordable costs. 洪永成带着观众的退休梦，亲身寻访地图上既符合大家预算，又可轻松退休的地方。</desc>
-  </programme>
   <programme start="20200311220000 +0800" stop="20200311230000 +0800" channel="Channel U">
     <title lang="en">皇后的品格 The Last Empress  - EP 28</title>
     <desc lang="en">(Dual Language-Mandarin and Korean) Li Yun sneaks into the storeroom to check on the video taken on the day Empress Zhaoxian died. He realises that Jiangxi was acting suspiciously that day. A masked person pushes the document shelves onto Li Yun on purpose and escapes with the video file. (PG-些许暴力画面)(双声道-中/韩)李允潜进记录室查看梨花宫新宫竣工纪念派对的录影，发现江熙在当晚很可疑。李允想拍下画面，一名蒙面人却突然把书架推倒令李允受伤昏倒。蒙面人把纪念派对的档案拿走。</desc>
@@ -1773,33 +1749,9 @@
     <title lang="en">晚间新闻 News Tonight</title>
     <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day. U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。</desc>
   </programme>
-  <programme start="20200311203000 +0800" stop="20200311210000 +0800" channel="Suria">
-    <title lang="en">Detik 2019-2020 - EP 42</title>
-    <desc lang="en">The half hour program analyses and dissect issues of concern to the Malay-Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives</desc>
-  </programme>
-  <programme start="20200311210000 +0800" stop="20200311213000 +0800" channel="Suria">
-    <title lang="en">Sihat Oh Sihat S2 - EP 4</title>
-    <desc lang="en">Host: Suzairhe Sumari and Haizad ImranSOS (Sihat Oh Sihat) is a medical and health themed infotainment talk show, formatted after Mediacorp Channel 8's successful health talk show series, Body SOS.  Its a one-stop health programme that encourages people to educate themselves and ask questions regarding health issues that concern them.The programme is anchored by Suzairhe Sumari and Haizad Imran, who play the role of medical doctors, updating their knowledge on various health issued from experts</desc>
-  </programme>
-  <programme start="20200311213000 +0800" stop="20200311223000 +0800" channel="Suria">
-    <title lang="en">Couple Cosmo - EP 7</title>
-    <desc lang="en">With Ruby asking for divorce, Remy's patience is wearing thin. As if Firman does not have enough on his plate, he is also overwhelmed by his parent's issues as well as caught between his mother and his wife. Sofea is more agitated at home, causing her to seek comfort in Daud's company</desc>
-  </programme>
   <programme start="20200311223000 +0800" stop="20200311233000 +0800" channel="Suria">
     <title lang="en">Hilang Kasih di Sarajevo - EP 4</title>
     <desc lang="en">Everyone is shocked upon hearing Ramonas accident. Zack is pressurized to have Rahman to agree to go to Bosnia for an art exhibition, an invitation by Emina. Alia misses her father and Rahimah is upset by it. Esah gives advice to Rahimah that she is in no position to separate Alia from her father</desc>
-  </programme>
-  <programme start="20200311203000 +0800" stop="20200311210000 +0800" channel="Vasantham">
-    <title lang="en">Tamil Seithi - EP 346</title>
-    <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-</desc>
-  </programme>
-  <programme start="20200311210000 +0800" stop="20200311213000 +0800" channel="Vasantham">
-    <title lang="en">Romeo and Juliet - EP 36</title>
-    <desc lang="en">The Vishwas are in the wedding business and the Segarens run a funeral business. Weddings and Funerals are polar opposites and so are these two families, due to past differences. As fate would have it, the inheritors of both businesses cross paths and love blossoms! Like any other Shakespearean theatre play the series embeds itself with elements of theatre, literature, romance, power, betrayal, egoism, history, comedy, tragedy and redemption!</desc>
-  </programme>
-  <programme start="20200311213000 +0800" stop="20200311220000 +0800" channel="Vasantham">
-    <title lang="en">Ethiroli 16 (HD) - EP 50</title>
-    <desc lang="en">Ethiroli goes in depth into local stories and major events happening around the world</desc>
   </programme>
   <programme start="20200311220000 +0800" stop="20200311223000 +0800" channel="Vasantham">
     <title lang="en">YAAR 3 - EP 15</title>
@@ -2416,18 +2368,6 @@
   <programme start="20200311230000 +0800" stop="20200311233000 +0800" channel="Saluran Berita RTM">
     <title lang="en">BES Dunia</title>
     <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia</desc>
-  </programme>
-  <programme start="20200311210000 +0800" stop="20200311210200 +0800" channel="Channel NewsAsia">
-    <title lang="en">Headline News - EP 1</title>
-    <desc lang="en">Update on local and world news</desc>
-  </programme>
-  <programme start="20200311210200 +0800" stop="20200311213000 +0800" channel="Channel NewsAsia">
-    <title lang="en">In Conversation - EP 20</title>
-    <desc lang="en">COVID-19 is disrupting international trade and global supply chains like never before.  Will it now put companies out of business and people out of jobs?</desc>
-  </programme>
-  <programme start="20200311213000 +0800" stop="20200311220000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Walk This Way - EP 2</title>
-    <desc lang="en">Adrian treks through a vast national park, and takes a different walk into the daunting Tu Lan cave system - a sprawling network that's millions of years old and home to the world's largest cave</desc>
   </programme>
   <programme start="20200311220000 +0800" stop="20200311230000 +0800" channel="Channel NewsAsia">
     <title lang="en">Singapore Tonight - EP 1</title>
