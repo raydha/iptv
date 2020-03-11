@@ -6,6 +6,8 @@ The streams listed here are the official public streams hosted on their live TV 
 * Streams are updated every 4 hours
 * EPG is updated daily at 23:00. EPG pulled is 2 days worth of data.
 
+Make sure you are using M3U players which support additional HTTP headers such as `Referer` and `User-Agent` to stream channels from Malaysia. Example: TiviMate and TVIrl
+
 ## Channels list
 ```
 1: TV1
