@@ -7,7 +7,37 @@ The streams listed here are the official public streams hosted on their live TV 
 * EPG are updated daily at 23:00. EPG pulled is 2 days worth of data.
 
 ## Channels list
-WIP
+```
+1: TV1
+2: TV2
+3: TV3
+4: NTV7
+5: 8TV
+6: TV9
+7: Drama Sangat
+8: OKEY
+9: RTM Sports HD
+10: TV Alhijrah 
+11: Channel 5 
+12: Channel 8 
+13: Channel U 
+14: Suria 
+15: Vasantham 
+16: Astro Awani 
+17: BERNAMA 
+18: Saluran Berita RTM
+19: Channel NewsAsia 
+20: Al Jazeera
+21: Arirang TV
+22: Bloomberg 
+23: CGTN
+24: DW
+25: France24
+26: NHK World Japan
+27: RT
+28: Sky News
+29: TRT World
+```
 
 Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
