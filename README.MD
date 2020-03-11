@@ -6,7 +6,9 @@ The streams listed here are the official public streams hosted on their live TV 
 * Streams are updated every 4 hours
 * EPG is updated daily at 23:00. EPG pulled is 2 days worth of data.
 
-Make sure you are using M3U players which support additional HTTP headers such as `Referer` and `User-Agent` to stream channels from Malaysia. Example: TiviMate, TVIrl, and (most) Kodi IPTV plugins.
+Make sure you are using M3U players which support additional HTTP headers such as `Referer` and `User-Agent` to stream channels from Malaysia. Example: TiviMate, TVIrl, and (most) Kodi IPTV plugins. 
+
+Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc).
 
 ## Channels list
 ```
@@ -41,8 +43,6 @@ Make sure you are using M3U players which support additional HTTP headers such a
 29: TRT World
 30: Red Bull TV
 ```
-
-Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
 ## Playlists
 
