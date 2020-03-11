@@ -2,7 +2,7 @@
 This repository contains the playlists, EPG and other related resources to enjoy free-to-air TV channels online.
 
 ## Information
-The streams listed here are the official public streams hosted on their live TV websites and YouTube.
+The streams listed here are the official public streams hosted on their live TV websites and YouTube. We don't host, own or charge for any of the links posted here.
 * Streams are updated every 4 hours
 * EPG is updated daily at 23:00. EPG pulled is 2 days worth of data.
 
