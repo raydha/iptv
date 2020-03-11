@@ -4743,10 +4743,6 @@
     <category lang="en">Biography</category>
     <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20200312022000 +0800" stop="20200312031000 +0800" channel="Channel 5">
-    <title lang="en">NCIS S14   - EP 7</title>
-    <desc lang="en">Torres boldly breaks protocol when he learns a witness in an NCIS case is wanted by U.S. Immigration and Customs Enforcement. Meanwhile, Abby, Bishop and McGee woo landlord Tony DiNozzo Sr. in hopes of subletting Tony's apartment</desc>
-  </programme>
   <programme start="20200312031000 +0800" stop="20200312034000 +0800" channel="Channel 5">
     <title lang="en">Hollywood's Ultimate Countdown Show - EP 13</title>
     <desc lang="en">Rankings and rundowns of your favourite subjects!</desc>
@@ -5203,10 +5199,6 @@
     <title lang="en">Giant Spider</title>
     <desc lang="en">A giant alien spider escapes from a military lab and ramages the city of Los Angeles. When a massive strike fails, it is up to a team of scientist and one clever exterminator to kill the creature before the city is destroyed</desc>
   </programme>
-  <programme start="20200312020000 +0800" stop="20200312030000 +0800" channel="Channel 8">
-    <title lang="en">人海孤鸿 Battle Of Justice - EP 13</title>
-    <desc lang="en">(R) "Battle Of Justice" is a 1993 Mediacorp production. (重)</desc>
-  </programme>
   <programme start="20200312030000 +0800" stop="20200312040000 +0800" channel="Channel 8">
     <title lang="en">人海孤鸿 Battle Of Justice - EP 14</title>
     <desc lang="en">(R) "Battle Of Justice" is a 1993 Mediacorp production. (重)</desc>
@@ -5554,13 +5546,6 @@
   <programme start="20200314220000 +0800" stop="20200314223000 +0800" channel="Channel 8">
     <title lang="en">晚间新闻 News Tonight</title>
     <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。</desc>
-  </programme>
-  <programme start="20200312020000 +0800" stop="20200312023000 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 12</title>
-    <desc lang="en">Are you looking for help to tackle that ever-growing pile of garments? This steam iron could be the answer!  Steam Mate 手握蒸汽熨斗 - 挂烫平烫皆宜的蒸汽熨斗，为你减少熨烫时间！</desc>
-  </programme>
-  <programme start="20200312023000 +0800" stop="20200312110000 +0800" channel="Channel U">
-    <title lang="en">End of Transmission</title>
   </programme>
   <programme start="20200312110000 +0800" stop="20200312111500 +0800" channel="Channel U">
     <title lang="en">好货驾到 Deals For Joy - EP 19</title>
@@ -7910,10 +7895,6 @@
   <programme start="20200314230000 +0800" stop="20200314233000 +0800" channel="Saluran Berita RTM">
     <title lang="en">Suara Malaysia</title>
     <desc lang="en">Program bual bicara yang mengupas isu-isu semasa secara santai dan mengulas perkembangan semasa dalam media sosial</desc>
-  </programme>
-  <programme start="20200312020000 +0800" stop="20200312030000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Singapore Tonight - EP 1</title>
-    <desc lang="en">From business to politics, health to technology, we bring you up-to-date with the latest news on Singapore and analyze how these events may affect you tomorrow</desc>
   </programme>
   <programme start="20200312030000 +0800" stop="20200312040000 +0800" channel="Channel NewsAsia">
     <title lang="en">Gadg[aid] - EP 2</title>
