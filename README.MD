@@ -8,7 +8,7 @@ Some info:
 * Streams are updated every 4 hours
 * EPG is updated daily at 01:00 with 2 days worth of data
 * Make sure you are using M3U players which support additional HTTP headers such as `Referer` and `User-Agent` to stream channels from Malaysia. Example: TiviMate, TVIrl, and (most) Kodi IPTV plugins. 
-* Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc).
+* Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
 ## Channels list
 ```
