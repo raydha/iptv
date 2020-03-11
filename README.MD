@@ -7,8 +7,8 @@ The streams listed here are the official public streams hosted on their live TV 
 Some info:
 * Streams are updated hourly
 * EPG is updated daily at 01:30 with 2 days worth of data
-* Make sure you are using M3U players which support additional HTTP headers such as `Referer` and `User-Agent` to stream channels from Malaysia. Example: TiviMate, TVIrl, and (most) Kodi IPTV plugins. 
-* Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
+* The playlists are tested with M3U players which support HTTP headers such as `Referer` and `User-Agent`. Example: TiviMate, TVIrl, and (most) Kodi IPTV plugins. 
+* How they look like in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
 ## Channels list
 ```
@@ -47,11 +47,9 @@ Some info:
 
 ## Playlists
 
-Countries playlists `my.m3u` and `sg.m3u` are deprecated. Use the following playlist.
+Country playlists `my.m3u` and `sg.m3u` are deprecated.
 | Playlist |  EPG |
 | --- | --- |
 | `https://freeview.github.io/iptv/playlist/tv.m3u` | `https://freeview.github.io/iptv/epg/tv.xml` |
-
-More free channels will be added from time to time. We do not add illegal streams to our list. 
 
 Help report broken streams [here](https://github.com/freeview/iptv/issues/new)!
