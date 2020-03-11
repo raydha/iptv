@@ -41,7 +41,8 @@ Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc).
 27: RT
 28: Sky News
 29: TRT World
-30: Red Bull TV
+30: NASA TV
+31: Red Bull TV
 ```
 
 ## Playlists
