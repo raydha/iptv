@@ -51,4 +51,6 @@ Countries playlists `my.m3u` and `sg.m3u` are deprecated. Use the following play
 | --- | --- |
 | `https://freeview.github.io/iptv/playlist/tv.m3u` | `https://freeview.github.io/iptv/epg/tv.xml` |
 
-More free channels soon! Help report broken streams [here](https://github.com/freeview/iptv/issues/new)
+More free channels will be added from time to time. We do not add illegal streams to our list. 
+
+Help report broken streams [here](https://github.com/freeview/iptv/issues/new)!
