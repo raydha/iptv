@@ -39,6 +39,7 @@ Make sure you are using M3U players which support additional HTTP headers such a
 27: RT
 28: Sky News
 29: TRT World
+30: Red Bull TV
 ```
 
 Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
