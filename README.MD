@@ -7,9 +7,9 @@ This repository contains the playlists, EPG and other related resources to enjoy
 ![status](https://img.shields.io/badge/tokenizer-ONLINE-brightgreen.svg?style=flat)
 
 ## Information
-The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 4 hours to ensure uptime. EPG contains 7 days worth of TV guide. Please link the below M3U and EPG to your IPTV player to always receive updates.
+The streams listed here are the official public streams hosted on their live TV websites and YouTube.
 
-## Channels
+## Channels list
 WIP
 
 Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
