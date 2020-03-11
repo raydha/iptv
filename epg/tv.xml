@@ -124,6 +124,10 @@
     <display-name lang="en">Sky News</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
+  <channel id="RedBull TV">
+    <display-name lang="en">RedBull TV</display-name>
+    <url>http://www.redbull.tv</url>
+  </channel>
   <programme start="20200311000000 +0800" stop="20200311003000 +0800" channel="TV 1">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
@@ -1725,46 +1729,6 @@
     <category lang="en">Biography</category>
     <episode-num system="xmltv_ns">.11.</episode-num>
   </programme>
-  <programme start="20200311220000 +0800" stop="20200311223000 +0800" channel="Channel 5">
-    <title lang="en">Death Is Our Business 2 - EP 1</title>
-    <desc lang="en">Veteran undertaker Roland Tay is now a proud grandfather of Skyla, the firstborn of daughter Jenny and son-in-law Darren. Their funeral business is now busier than ever, but the trio continues to accept all pro bono requests, including a taxi driver who found his wife's body two weeks after her death</desc>
-  </programme>
-  <programme start="20200311223000 +0800" stop="20200311233000 +0800" channel="Channel 5">
-    <title lang="en">深一层的美 The Skin We Wear - EP 1</title>
-    <desc lang="en">Four individuals born with Harlequin Ichthyosis, a rare genetic disorder that causes thick and scaly skin prone to cracking and infections, find strength and hope in the face of the unknown</desc>
-  </programme>
-  <programme start="20200311220000 +0800" stop="20200311223000 +0800" channel="Channel 8">
-    <title lang="en">晚间新闻 News Tonight</title>
-    <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。</desc>
-  </programme>
-  <programme start="20200311223000 +0800" stop="20200311230000 +0800" channel="Channel 8">
-    <title lang="en">寻花探草 Sr 1 Garden Of Treasure S1 - EP 5</title>
-    <desc lang="en">"Garden Of Treasure " is a documentary on the healing functions and botanical characteristics of wild flowers and herbs which can also be used to cook simple and delicious flower dishes. 《寻花探草》是以药草拍摄为主的纪录片，介绍他们心目中的百搭花草，逐一分享花草的药疗功能和植物特性, 也化成一道道简单好味的花草料理。</desc>
-  </programme>
-  <programme start="20200311220000 +0800" stop="20200311230000 +0800" channel="Channel U">
-    <title lang="en">皇后的品格 The Last Empress  - EP 28</title>
-    <desc lang="en">(Dual Language-Mandarin and Korean) Li Yun sneaks into the storeroom to check on the video taken on the day Empress Zhaoxian died. He realises that Jiangxi was acting suspiciously that day. A masked person pushes the document shelves onto Li Yun on purpose and escapes with the video file. (PG-些许暴力画面)(双声道-中/韩)李允潜进记录室查看梨花宫新宫竣工纪念派对的录影，发现江熙在当晚很可疑。李允想拍下画面，一名蒙面人却突然把书架推倒令李允受伤昏倒。蒙面人把纪念派对的档案拿走。</desc>
-  </programme>
-  <programme start="20200311230000 +0800" stop="20200311233000 +0800" channel="Channel U">
-    <title lang="en">晚间新闻 News Tonight</title>
-    <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day. U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。</desc>
-  </programme>
-  <programme start="20200311223000 +0800" stop="20200311233000 +0800" channel="Suria">
-    <title lang="en">Hilang Kasih di Sarajevo - EP 4</title>
-    <desc lang="en">Everyone is shocked upon hearing Ramonas accident. Zack is pressurized to have Rahman to agree to go to Bosnia for an art exhibition, an invitation by Emina. Alia misses her father and Rahimah is upset by it. Esah gives advice to Rahimah that she is in no position to separate Alia from her father</desc>
-  </programme>
-  <programme start="20200311220000 +0800" stop="20200311223000 +0800" channel="Vasantham">
-    <title lang="en">YAAR 3 - EP 15</title>
-    <desc lang="en">Mano tracks down Ratna, also known as Gopal, the tour guide, and questions him about the trip. Shamini gives an ultimatum that she will never lie again. Aruna comes to a consensus that they should all stick together to figure a way out of this</desc>
-  </programme>
-  <programme start="20200311223000 +0800" stop="20200311230000 +0800" channel="Vasantham">
-    <title lang="en">Kalaba Kadhala - EP 7</title>
-    <desc lang="en">Azhagi is hopeful that she is making progress with Deva. Will there be a #Devazhagi soon?</desc>
-  </programme>
-  <programme start="20200311230000 +0800" stop="20200311233000 +0800" channel="Vasantham">
-    <title lang="en">Maalai Maathurum - EP 20</title>
-    <desc lang="en">A compilation of yesteryear programmes, only on Vasantham!</desc>
-  </programme>
   <programme start="20200311000000 +0800" stop="20200311003000 +0800" channel="Astro Awani">
     <title lang="en">(L) Buletin Awani</title>
     <desc lang="en">Laporan perkembangan berita dalam dan luar negara</desc>
@@ -2368,14 +2332,6 @@
   <programme start="20200311230000 +0800" stop="20200311233000 +0800" channel="Saluran Berita RTM">
     <title lang="en">BES Dunia</title>
     <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia</desc>
-  </programme>
-  <programme start="20200311220000 +0800" stop="20200311230000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Singapore Tonight - EP 1</title>
-    <desc lang="en">From business to politics, health to technology, we bring you up-to-date with the latest news on Singapore and analyze how these events may affect you tomorrow</desc>
-  </programme>
-  <programme start="20200311230000 +0800" stop="20200311230200 +0800" channel="Channel NewsAsia">
-    <title lang="en">Headline News - EP 1</title>
-    <desc lang="en">Update on local and world news</desc>
   </programme>
   <programme start="20200311000000 +0800" stop="20200311003000 +0800" channel="BERNAMA">
     <title lang="en">The Nation</title>
