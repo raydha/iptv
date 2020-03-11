@@ -10,11 +10,7 @@ This repository contains the playlists, EPG and other related resources to enjoy
 The streams listed here are the official public streams hosted on their live TV websites, and some channels are grabbed from YouTube. A tokenizer server updates the playlists every 4 hours to ensure uptime. EPG contains 7 days worth of TV guide. Please link the below M3U and EPG to your IPTV player to always receive updates.
 
 ## Channels
-### Malaysia
-<img align="center" src="http://freeview.github.io/iptv/malaysia-channels.png" width="800">  
-
-### Singapore 
-<img align="center" src="http://freeview.github.io/iptv/sg-channels.png" width="800">
+WIP
 
 Preview in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
