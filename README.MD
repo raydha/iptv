@@ -21,7 +21,7 @@ Some info:
 7: Drama Sangat
 8: OKEY
 9: RTM Sports HD
-10: TV Alhijrah (source offline atm)
+10: TV Alhijrah (offline)
 11: Channel 5 
 12: Channel 8 
 13: Channel U 
