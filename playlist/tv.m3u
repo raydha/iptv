@@ -85,7 +85,7 @@ https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584036032/ei/YCRqXsqOL4aq1AaVtYvQCQ/ip/202.187.153.136/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30a6.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/14620/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/2/pl/15/dover/11/keepalive/yes/fexp/23842630/mt/1584014362/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRAIgWwijZSfYyY-xeKsCnitj-l9Kkk2z1Ee4ecnsPnm03Z8CIEdLu3Ufvya6nIWrqyGkZYbuyXOWOcgO6dFN4jZ6NRbc/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRQIhAOCOPMcWJfjsj6TxhgG7H-mWzlxl-r9xo8aUgp9It4KxAiB2u-h1DAHlCzVwrHuEto3Qb0KpxW0T-CtEwdCWzGEhNA%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png",TRT World
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-group="Documentary" tvg-logo="",NASA TV
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Referer=https://www.nasa.gov/multimedia/nasatv/index.html
