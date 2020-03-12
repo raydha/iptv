@@ -48,8 +48,7 @@ Some info:
 ## Playlists
 
 Country playlists `my.m3u` and `sg.m3u` are deprecated.
-| Playlist |  EPG |
-| --- | --- |
-| `https://freeview.github.io/iptv/playlist/tv.m3u` | `https://freeview.github.io/iptv/epg/tv.xml` |
+* Playlist:`https://freeview.github.io/iptv/playlist/tv.m3u`
+* EPG     :`https://freeview.github.io/iptv/epg/tv.xml`
 
 Help report broken streams [here](https://github.com/freeview/iptv/issues/new)!
