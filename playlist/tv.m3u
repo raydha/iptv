@@ -87,6 +87,9 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584050432/ei/
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-group="News" tvg-logo="",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
+
 #EXTINF:-1 tvg-group="Documentary" tvg-logo="",NASA TV
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Referer=https://www.nasa.gov/multimedia/nasatv/index.html
 
