@@ -6,7 +6,7 @@ The streams listed here are the official public streams hosted on their live TV 
 
 Some info:
 * Streams are updated every 4 hour
-* EPG is updated daily at 01:00 with 2 days worth of data
+* EPG is updated daily at 01:00 with 3 days worth of data
 * The playlists are tested with M3U players which support HTTP headers such as `Referer` and `User-Agent`. Example: TiviMate, TVIrl, and (most) Kodi IPTV plugins. 
 * How they look like in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
