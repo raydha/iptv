@@ -27037,289 +27037,269 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20200313040000 +0000" stop="20200313040500 +0000" channel="CinemaWorld">
-    <title lang="en">Godzilla ()</title>
-    <desc lang="en">An enormous beast goes on a worldwide destructive rampage and is headed toward New York City.</desc>
-    <date>1998</date>
+  <programme start="20200313040000 +0000" stop="20200313051500 +0000" channel="CinemaWorld">
+    <title lang="en">I Am Tempesta</title>
+    <desc lang="en">Numa Tempesta is a rich businessman whose life halts when an old tax fraud catches up on him. Sentenced to community service, he is forced to humble himself. But unbeknownst to him, his life is to be challenged in ways unprecedented and changed forever.</desc>
     <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200313040500 +0000" stop="20200313045000 +0000" channel="CinemaWorld">
-    <title lang="en">Warrior S1</title>
-    <sub-title lang="en">Chewed Up, Spit Out, And Stepped On</sub-title>
-    <desc lang="en">An assassination attempt leads to escalating tensions between the Hop Wei and Long Zii tongs.</desc>
-    <category lang="en">Drama Series</category>
     <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
-  <programme start="20200313045000 +0000" stop="20200313062500 +0000" channel="CinemaWorld">
-    <title lang="en">Braven</title>
-    <desc lang="en">When a humble logger residing along the US-Canada border is confronted by a group of deadly drug runners, he must do everything in his power to protect his family.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200313062500 +0000" stop="20200313075500 +0000" channel="CinemaWorld">
-    <title lang="en">Dragon Dynasty</title>
-    <desc lang="en">Marco Polo journeys to China and finds himself being attacked by dragons commanded by a dark lord.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200313075500 +0000" stop="20200313094000 +0000" channel="CinemaWorld">
-    <title lang="en">Footloose</title>
-    <desc lang="en">A young Kevin Bacon stars as a teenage hipster who fights for his right to party in a small, conservative mid-western American town.</desc>
+  <programme start="20200313051500 +0000" stop="20200313071000 +0000" channel="CinemaWorld">
+    <title lang="en">Within The Whirlwind</title>
+    <desc lang="en">A true story. Evgenia Ginzburg was a literature professor until the madness of Stalin's Great Purge happened and landed her in a gulag. With the help of a loving camp doctor and poetry, she shows that one can possess dignity in the face of suffering.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200313094000 +0000" stop="20200313114000 +0000" channel="CinemaWorld">
-    <title lang="en">Warm Springs</title>
-    <desc lang="en">One man's secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
+  <programme start="20200313071000 +0000" stop="20200313085000 +0000" channel="CinemaWorld">
+    <title lang="en">The Wallensteins: It Runs In The Family</title>
+    <desc lang="en">A mother-daughter detective team pursue a crystal meth drug ring that takes them to the Czech Republic. As they grapple with a shadowy suspect, false leads and silent witnesses, they also have to come to terms with their estranged relationship.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery/Crime</category>
+  </programme>
+  <programme start="20200313085000 +0000" stop="20200313102000 +0000" channel="CinemaWorld">
+    <title lang="en">Paris La Blanche</title>
+    <desc lang="en">In this parable of migration, Rekia, 70, leaves Kabylie for Paris to fetch her husband Nour home. Nour has been sustaining the family from abroad for 40 years. Finding help in new friends, she finds Nour, but he is a changed man.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200313114000 +0000" stop="20200313140000 +0000" channel="CinemaWorld">
-    <title lang="en">Transformers</title>
-    <desc lang="en">Two intergalactic races of robots crash-land on Earth, with the future of humankind hanging in balance as they battle for the ultimate power source.</desc>
+  <programme start="20200313102000 +0000" stop="20200313121500 +0000" channel="CinemaWorld">
+    <title lang="en">Urban Family</title>
+    <desc lang="en">Selja, in her 30s, lives in a shared flat with her friends. One day a boy appears at her door; a boy she gave up for adoption 16 years ago. Selja has a chance to get to know her son, but makes a complete mess of her and her best friends' lives.</desc>
     <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200313121500 +0000" stop="20200313140000 +0000" channel="CinemaWorld">
+    <title lang="en">Monument to Michael Jackson</title>
+    <desc lang="en">In this tragicomedy, a dying Serbian town removes an old Communist monument from its square. To revive tourism and win back his estranged wife, dreamer Marko decides to erect a monument to King of Pop, Michael Jackson. But his plan goes absurdly awry.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
   </programme>
   <programme start="20200313140000 +0000" stop="20200313153500 +0000" channel="CinemaWorld">
-    <title lang="en">Aliens Vs. Predator: Requiem</title>
-    <desc lang="en">The iconic creatures from two of the scariest film franchises in movie history wage their most brutal battle ever - in our own backyard.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20200313153500 +0000" stop="20200313171000 +0000" channel="CinemaWorld">
-    <title lang="en">A Nightmare On Elm Street ()</title>
-    <desc lang="en">Freddy Krueger, the razor-fingered iconic killer who haunts the dreams of teenagers and kills them in their sleep, returns to everyone's nightmares.</desc>
-    <date>2010</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20200313171000 +0000" stop="20200313180500 +0000" channel="CinemaWorld">
-    <title lang="en">Strike Back S7</title>
-    <desc lang="en">This CINEMAX original action series returns for its seventh and final season.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20200313180500 +0000" stop="20200313201000 +0000" channel="CinemaWorld">
-    <title lang="en">Sin City</title>
-    <desc lang="en">A universe of unlikely and reluctant heroes try to do the right thing in a city that refuses to care.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200313201000 +0000" stop="20200313215000 +0000" channel="CinemaWorld">
-    <title lang="en">Escape Plan 2: Hades</title>
-    <desc lang="en">Years after he fought his way out of an inescapable prison, Ray Breslin must return to the prison once again to save his friend.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200313215000 +0000" stop="20200313235000 +0000" channel="CinemaWorld">
-    <title lang="en">The Green Hornet</title>
-    <desc lang="en">Seth Rogen and Jay Chou star in this action-packed adaptation of the comic book hero dedicated to protecting the lives and rights of the city's citizens.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200313235000 +0000" stop="20200314013000 +0000" channel="CinemaWorld">
-    <title lang="en">Backdraft 2</title>
-    <desc lang="en">When a puzzling series of arson attacks is reported, two feuding firefighters are forced to set aside their differences to solve the mystery surrounding these explosive crimes.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200314013000 +0000" stop="20200314020000 +0000" channel="CinemaWorld">
-    <title lang="en">Making The Movies S1</title>
-    <desc lang="en">This 'Behind the Scenes' movie magazine tells you all there is to know about how films come to life.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20200314020000 +0000" stop="20200314025500 +0000" channel="CinemaWorld">
-    <title lang="en">Strike Back S7</title>
-    <desc lang="en">This CINEMAX original action series returns for its seventh and final season.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20200314025500 +0000" stop="20200314035959 +0000" channel="CinemaWorld">
-    <title lang="en">The Green Hornet</title>
-    <desc lang="en">Seth Rogen and Jay Chou star in this action-packed adaptation of the comic book hero dedicated to protecting the lives and rights of the city's citizens.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200314040000 +0000" stop="20200314045500 +0000" channel="CinemaWorld">
-    <title lang="en">The Green Hornet</title>
-    <desc lang="en">Seth Rogen and Jay Chou star in this action-packed adaptation of the comic book hero dedicated to protecting the lives and rights of the city's citizens.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200314045500 +0000" stop="20200314063000 +0000" channel="CinemaWorld">
-    <title lang="en">Austin Powers: The Spy Who Shagged Me</title>
-    <desc lang="en">Dr. Evil returns from space just as British spy Austin Powers learns on his honeymoon that his wife, Vanessa, is a fembot under Dr Evil's control.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200314063000 +0000" stop="20200314085500 +0000" channel="CinemaWorld">
-    <title lang="en">Transformers</title>
-    <desc lang="en">Two intergalactic races of robots crash-land on Earth, with the future of humankind hanging in balance as they battle for the ultimate power source.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200314085500 +0000" stop="20200314102500 +0000" channel="CinemaWorld">
-    <title lang="en">Cop &amp; 1/2</title>
-    <desc lang="en">Tough detective Burt Reynolds teams up with a feisty eight-year-old boy to solve a murder.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200314102500 +0000" stop="20200314121500 +0000" channel="CinemaWorld">
-    <title lang="en">Arthur ()</title>
-    <desc lang="en">A playboy chooses between his lavish lifestyle and the woman of his dreams.</desc>
-    <date>2011</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200314121500 +0000" stop="20200314140000 +0000" channel="CinemaWorld">
-    <title lang="en">Tower Heist</title>
-    <desc lang="en">After workers at a luxury condominium discover that a billionaire stole their retirement money, they plot a heist to reclaim what he took from them, and more.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200314140000 +0000" stop="20200314145500 +0000" channel="CinemaWorld">
-    <title lang="en">Strike Back S7</title>
-    <desc lang="en">This CINEMAX original action series returns for its seventh and final season.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20200314145500 +0000" stop="20200314162500 +0000" channel="CinemaWorld">
-    <title lang="en">The Happytime Murders</title>
-    <desc lang="en">A human and puppet are forced to work together again to solve the brutal murders of the former cast of a beloved classic puppet television show.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200314162500 +0000" stop="20200314185000 +0000" channel="CinemaWorld">
-    <title lang="en">A Cure For Wellness</title>
-    <desc lang="en">An executive is sent to retrieve his CEO from an idyllic but mysterious "wellness centre", but soon suspects that the spa's treatments are not what they seem.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20200314185000 +0000" stop="20200314211000 +0000" channel="CinemaWorld">
-    <title lang="en">Inherent Vice</title>
-    <desc lang="en">It's the tail end of the psychedelic 60s and love is another of those words going around that's being way too overused - except this one usually leads to trouble.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200314211000 +0000" stop="20200314224000 +0000" channel="CinemaWorld">
-    <title lang="en">Men In Black II</title>
-    <desc lang="en">Will Smith and Tommy Lee Jones are re-teamed against a sinister seductress who represents the toughest challenge yet to the MIB.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20200314224000 +0000" stop="20200315001500 +0000" channel="CinemaWorld">
-    <title lang="en">Austin Powers: The Spy Who Shagged Me</title>
-    <desc lang="en">Dr. Evil returns from space just as British spy Austin Powers learns on his honeymoon that his wife, Vanessa, is a fembot under Dr Evil's control.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200315001500 +0000" stop="20200315021000 +0000" channel="CinemaWorld">
-    <title lang="en">Kiss The Girls</title>
-    <desc lang="en">Morgan Freeman is hunting down a serial killer and his only clue is Ashley Judd, the only victim who managed to get away.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200315021000 +0000" stop="20200315034500 +0000" channel="CinemaWorld">
-    <title lang="en">Breakdown</title>
-    <desc lang="en">A man desperately searches for his wife after she gets bizarrely kidnapped in the Southwest desert.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200315034500 +0000" stop="20200315035959 +0000" channel="CinemaWorld">
-    <title lang="en">Belleville Cop</title>
-    <desc lang="en">A cop in Belleville takes over as Liaison Officer to the French consulate in Miami where he teams up with Ricardo to investigate his friend's death.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200315040000 +0000" stop="20200315053500 +0000" channel="CinemaWorld">
-    <title lang="en">Belleville Cop</title>
-    <desc lang="en">A cop in Belleville takes over as Liaison Officer to the French consulate in Miami where he teams up with Ricardo to investigate his friend's death.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200315053500 +0000" stop="20200315072000 +0000" channel="CinemaWorld">
-    <title lang="en">Tower Heist</title>
-    <desc lang="en">After workers at a luxury condominium discover that a billionaire stole their retirement money, they plot a heist to reclaim what he took from them, and more.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200315072000 +0000" stop="20200315084000 +0000" channel="CinemaWorld">
-    <title lang="en">Rewind</title>
-    <desc lang="en">A team of military field operatives and scientists use untested technology to travel back in time to alter past and future events.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200315084000 +0000" stop="20200315103000 +0000" channel="CinemaWorld">
-    <title lang="en">Arthur ()</title>
-    <desc lang="en">A playboy chooses between his lavish lifestyle and the woman of his dreams.</desc>
-    <date>2011</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200315103000 +0000" stop="20200315121000 +0000" channel="CinemaWorld">
-    <title lang="en">Salting The Battlefield</title>
-    <desc lang="en">With captors hot on his heels, Worricker knows his only chance of resolving his problems is to return home and confront his nemesis.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200315121000 +0000" stop="20200315140000 +0000" channel="CinemaWorld">
-    <title lang="en">The League Of Extraordinary Gentlemen</title>
-    <desc lang="en">A criminal known as the Fantom strikes fear with his use of 21st-century technology to rob the Bank of England in 1899.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200315140000 +0000" stop="20200315153500 +0000" channel="CinemaWorld">
-    <title lang="en">Rush Hour</title>
-    <desc lang="en">Sparks fly when Hong Kong's finest kungfu cop meets LA's most notorious motor-mouth detective!</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200315153500 +0000" stop="20200315173000 +0000" channel="CinemaWorld">
-    <title lang="en">Doctor Strange</title>
-    <desc lang="en">While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200315173000 +0000" stop="20200315181500 +0000" channel="CinemaWorld">
-    <title lang="en">Warrior S1</title>
-    <sub-title lang="en">Chewed Up, Spit Out, And Stepped On</sub-title>
-    <desc lang="en">An assassination attempt leads to escalating tensions between the Hop Wei and Long Zii tongs.</desc>
-    <category lang="en">Drama Series</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-  </programme>
-  <programme start="20200315181500 +0000" stop="20200315200500 +0000" channel="CinemaWorld">
-    <title lang="en">Inconceivable ()</title>
-    <desc lang="en">A couple chooses an incomer to become their surrogate for their long-time desired child, unaware of her dark past.</desc>
-    <date>2017</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20200315200500 +0000" stop="20200315213500 +0000" channel="CinemaWorld">
-    <title lang="en">The Bad Seed ()</title>
-    <desc lang="en">When a terrible tragedy takes place at his daughter's school, a single father is forced to question everything he thought he knew about his beloved daughter.</desc>
-    <date>2018</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20200315213500 +0000" stop="20200315232500 +0000" channel="CinemaWorld">
-    <title lang="en">A Perfect Murder</title>
-    <desc lang="en">Weave through deception and betrayal as the ultimate murder is plotted in this love triangle starring Michael Douglas, Gwyneth Paltrow and Viggo Mortensen.</desc>
+    <title lang="en">Modern Murder: The Nest</title>
+    <desc lang="en">Gorniak is critically injured when her new colleague fumbles during a mission. Winkler narrows down the killer to two men, but Gorniak is the only one who recognises the perpetrator. Her life remains in danger as long as the killer walks free.</desc>
     <category lang="en">Movies</category>
     <category lang="en">Thriller/Suspense</category>
   </programme>
-  <programme start="20200315232500 +0000" stop="20200316010000 +0000" channel="CinemaWorld">
-    <title lang="en">Encrypt</title>
-    <desc lang="en">Mercenaries steal priceless works of art in exchange for human lives in a post-apocalyptic world.</desc>
+  <programme start="20200313153500 +0000" stop="20200313171000 +0000" channel="CinemaWorld">
+    <title lang="en">The Winner And I</title>
+    <desc lang="en">Carolin is a geriatric nurse and single mother who is stuck with heavy debt. When she finds a five-million-dollar winning lottery ticket, her honest nature prompts her to find its owner. However, things get tricky when the whole town finds out about her "win".</desc>
     <category lang="en">Movies</category>
-    <category lang="en">Action/Adventure</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200313171000 +0000" stop="20200313185000 +0000" channel="CinemaWorld">
+    <title lang="en">Discovering Mandy</title>
+    <desc lang="en">Hot young designer Mia is a lowly dressmaker's daughter who has worked hard to succeed in the cut-throat fashion world. However, her world crashes when her famous mentor abandons her suddenly and she is Mandy again, being forced to return to her roots.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200313185000 +0000" stop="20200313202500 +0000" channel="CinemaWorld">
+    <title lang="en">Love Is In the Air</title>
+    <desc lang="en">In this first-ever 3D comedy, a sexually-frustrated wife's (Claudia Gerini, Best Actress Nominee, Italian National Syndicate of Film Journalist 2012) childhood friend, now a successful male porn star, returns to help her revitalise her sexless marriage.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20200313202500 +0000" stop="20200313220000 +0000" channel="CinemaWorld">
+    <title lang="en">Inspector Ms. Heller: The Prey</title>
+    <desc lang="en">A young jogger is killed in Wiesbaden Park. Soon, another murder happens and Inspector Winnie and her partner struggle to find the link. The most likely suspects prove false and the case becomes a ticking bomb as another woman's life becomes endangered.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20200313220000 +0000" stop="20200313233000 +0000" channel="CinemaWorld">
+    <title lang="en">Modern Murder: The Nest</title>
+    <desc lang="en">Gorniak is critically injured when her new colleague fumbles during a mission. Winkler narrows down the killer to two men, but Gorniak is the only one who recognises the perpetrator. Her life remains in danger as long as the killer walks free.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20200313233000 +0000" stop="20200314011500 +0000" channel="CinemaWorld">
+    <title lang="en">Zagros</title>
+    <desc lang="en">In Kurdistan, Zagros' happy marriage falters when relatives start questioning his wife's growing modern personality. She soon runs away to Brussels for refuge. He follows her out of love, but the burden of tradition and patriarchy never leaves him.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200314011500 +0000" stop="20200314030500 +0000" channel="CinemaWorld">
+    <title lang="en">Urban Family</title>
+    <desc lang="en">Selja, in her 30s, lives in a shared flat with her friends. One day a boy appears at her door; a boy she gave up for adoption 16 years ago. Selja has a chance to get to know her son, but makes a complete mess of her and her best friends' lives.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200314030500 +0000" stop="20200314035959 +0000" channel="CinemaWorld">
+    <title lang="en">The Wallensteins: It Runs In The Family</title>
+    <desc lang="en">A mother-daughter detective team pursue a crystal meth drug ring that takes them to the Czech Republic. As they grapple with a shadowy suspect, false leads and silent witnesses, they also have to come to terms with their estranged relationship.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery/Crime</category>
+  </programme>
+  <programme start="20200314040000 +0000" stop="20200314044000 +0000" channel="CinemaWorld">
+    <title lang="en">The Wallensteins: It Runs In The Family</title>
+    <desc lang="en">A mother-daughter detective team pursue a crystal meth drug ring that takes them to the Czech Republic. As they grapple with a shadowy suspect, false leads and silent witnesses, they also have to come to terms with their estranged relationship.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery/Crime</category>
+  </programme>
+  <programme start="20200314044000 +0000" stop="20200314061500 +0000" channel="CinemaWorld">
+    <title lang="en">Discovering Mandy</title>
+    <desc lang="en">Hot young designer Mia is a lowly dressmaker's daughter who has worked hard to succeed in the cut-throat fashion world. However, her world crashes when her famous mentor abandons her suddenly and she is Mandy again, being forced to return to her roots.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200314061500 +0000" stop="20200314080000 +0000" channel="CinemaWorld">
+    <title lang="en">Monument to Michael Jackson</title>
+    <desc lang="en">In this tragicomedy, a dying Serbian town removes an old Communist monument from its square. To revive tourism and win back his estranged wife, dreamer Marko decides to erect a monument to King of Pop, Michael Jackson. But his plan goes absurdly awry.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200314080000 +0000" stop="20200314095000 +0000" channel="CinemaWorld">
+    <title lang="en">Girl On A Bicycle</title>
+    <desc lang="en">Paolo, an Italian in Paris, has just proposed to his German girlfriend when he bumps into a pretty French girl. Smitten, Paolo takes some bad advice from a friend and finds his life upside-down with a German fiancee, a French "wife" and two Aussie kids.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200314095000 +0000" stop="20200314112500 +0000" channel="CinemaWorld">
+    <title lang="en">Meet The Wangs</title>
+    <desc lang="en">In this hilarious tale of one-upmanship, a German family discovers that their new Chinese neighbours are better than them at everything, from school to work to sports. Jealousy soon escalates to full-blown rivalry and then an all-out war.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200314112500 +0000" stop="20200314130000 +0000" channel="CinemaWorld">
+    <title lang="en">Helen Dorn: The Third Girl</title>
+    <desc lang="en">Dusseldorf is in a panic when a nurse's body is found, killed in a manner similar to three murders years ago. A serial killer from a cold case seems to have re-surfaced, and investigations lead Helen and her partner Georgi to suspects from among their own.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20200314130000 +0000" stop="20200314145000 +0000" channel="CinemaWorld">
+    <title lang="en">El Cinco</title>
+    <desc lang="en">When a Captain of a C division Argentinian football team is expelled, he has to grapple with the fact that, at his age, there is no hope of reviving his football career. Having played for years with neither fame nor fortune, he has to rebuild his life.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200314145000 +0000" stop="20200314164000 +0000" channel="CinemaWorld">
+    <title lang="en">Love In Andalusia</title>
+    <desc lang="en">Claire arrives in Andalusia for her sister Laura's wedding. However, Laura has mysteriously disappeared. With Alvaro the groom, they embark on a journey to find her. In a twist of fate, their time together brings them dangerously close and intimate.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20200314164000 +0000" stop="20200314182000 +0000" channel="CinemaWorld">
+    <title lang="en">Love Is In the Air</title>
+    <desc lang="en">In this first-ever 3D comedy, a sexually-frustrated wife's (Claudia Gerini, Best Actress Nominee, Italian National Syndicate of Film Journalist 2012) childhood friend, now a successful male porn star, returns to help her revitalise her sexless marriage.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20200314182000 +0000" stop="20200314201500 +0000" channel="CinemaWorld">
+    <title lang="en">Zagros</title>
+    <desc lang="en">In Kurdistan, Zagros' happy marriage falters when relatives start questioning his wife's growing modern personality. She soon runs away to Brussels for refuge. He follows her out of love, but the burden of tradition and patriarchy never leaves him.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200314201500 +0000" stop="20200314220000 +0000" channel="CinemaWorld">
+    <title lang="en">Hattinger And The Fog - A Chiemsee Mystery</title>
+    <desc lang="en">The police have been investigating Joe's suspicious business practices for years. When he is murdered at his farm, Hattinger investigates, but ends up having an affair with Joe's accountant. Then Joe's sister is murdered. What are the police missing?</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery/Crime</category>
+  </programme>
+  <programme start="20200314220000 +0000" stop="20200314234500 +0000" channel="CinemaWorld">
+    <title lang="en">El Cinco</title>
+    <desc lang="en">When a Captain of a C division Argentinian football team is expelled, he has to grapple with the fact that, at his age, there is no hope of reviving his football career. Having played for years with neither fame nor fortune, he has to rebuild his life.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200314234500 +0000" stop="20200315013500 +0000" channel="CinemaWorld">
+    <title lang="en">Girl On A Bicycle</title>
+    <desc lang="en">Paolo, an Italian in Paris, has just proposed to his German girlfriend when he bumps into a pretty French girl. Smitten, Paolo takes some bad advice from a friend and finds his life upside-down with a German fiancee, a French "wife" and two Aussie kids.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200315013500 +0000" stop="20200315031500 +0000" channel="CinemaWorld">
+    <title lang="en">Helen Dorn: The Third Girl</title>
+    <desc lang="en">Dusseldorf is in a panic when a nurse's body is found, killed in a manner similar to three murders years ago. A serial killer from a cold case seems to have re-surfaced, and investigations lead Helen and her partner Georgi to suspects from among their own.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20200315031500 +0000" stop="20200315035959 +0000" channel="CinemaWorld">
+    <title lang="en">Love In Andalusia</title>
+    <desc lang="en">Claire arrives in Andalusia for her sister Laura's wedding. However, Laura has mysteriously disappeared. With Alvaro the groom, they embark on a journey to find her. In a twist of fate, their time together brings them dangerously close and intimate.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20200315040000 +0000" stop="20200315050000 +0000" channel="CinemaWorld">
+    <title lang="en">Love In Andalusia</title>
+    <desc lang="en">Claire arrives in Andalusia for her sister Laura's wedding. However, Laura has mysteriously disappeared. With Alvaro the groom, they embark on a journey to find her. In a twist of fate, their time together brings them dangerously close and intimate.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20200315050000 +0000" stop="20200315064000 +0000" channel="CinemaWorld">
+    <title lang="en">Chucks</title>
+    <desc lang="en">A tender coming-of-age story, punk-lover Mae takes to the streets after her brother dies, wearing his old Converse shoes, living off beer and painting graffiti. When she is sentenced to do social work, she meets and falls for Paul who is dying of AIDS.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200315064000 +0000" stop="20200315082000 +0000" channel="CinemaWorld">
+    <title lang="en">Hattinger And The Fog - A Chiemsee Mystery</title>
+    <desc lang="en">The police have been investigating Joe's suspicious business practices for years. When he is murdered at his farm, Hattinger investigates, but ends up having an affair with Joe's accountant. Then Joe's sister is murdered. What are the police missing?</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery/Crime</category>
+  </programme>
+  <programme start="20200315082000 +0000" stop="20200315100000 +0000" channel="CinemaWorld">
+    <title lang="en">Meet The Wangs</title>
+    <desc lang="en">In this hilarious tale of one-upmanship, a German family discovers that their new Chinese neighbours are better than them at everything, from school to work to sports. Jealousy soon escalates to full-blown rivalry and then an all-out war.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200315100000 +0000" stop="20200315114000 +0000" channel="CinemaWorld">
+    <title lang="en">Inspector Ms. Heller: Ricochet</title>
+    <desc lang="en">A school shooting leaves two students and the director dead. The suspect is a troubled ex-student who is missing and had plans to go on a killing spree. Everyone except Heller thinks the case is closed, but her investigations will reveal the unexpected.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20200315114000 +0000" stop="20200315130000 +0000" channel="CinemaWorld">
+    <title lang="en">Helen</title>
+    <desc lang="en">Helen is an 18-year-old orphan in a perpetual search for her identity. One day, she is picked by the police to play the role of a missing student in a re-enactment. As she interacts with the distraught family of the victim, healing slowly comes to her.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200315130000 +0000" stop="20200315143000 +0000" channel="CinemaWorld">
+    <title lang="en">Land Of Saints</title>
+    <desc lang="en">A young magistrate moves to South Italy to defeat the Calabrian Mafia. Appalled by the unsparing brutality of the mafia trade, she appeals to the mafia men's wives and children in her quest to bring peace and justice to the region.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200315143000 +0000" stop="20200315161000 +0000" channel="CinemaWorld">
+    <title lang="en">Un Amore Cosi Grande</title>
+    <desc lang="en">In Verona, Vladimir is in search of his father who abandoned him years ago. However, he winds up falling for the wealthy Veronica. Through their turbulent relationship and a chance meeting with Il Volo, he discovers his one true gift - his voice.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200315161000 +0000" stop="20200315174500 +0000" channel="CinemaWorld">
+    <title lang="en">Chucks</title>
+    <desc lang="en">A tender coming-of-age story, punk-lover Mae takes to the streets after her brother dies, wearing his old Converse shoes, living off beer and painting graffiti. When she is sentenced to do social work, she meets and falls for Paul who is dying of AIDS.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200315174500 +0000" stop="20200315192000 +0000" channel="CinemaWorld">
+    <title lang="en">Eastern Friesland Killer</title>
+    <desc lang="en">A quiet vacation spot is shaken when one by one the top executives of an organisation for the mentally disabled is brutally murdered. As police investigate, they discover shady deals, massive funds and destructive fury that threaten to claim more lives.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery/Crime</category>
+  </programme>
+  <programme start="20200315192000 +0000" stop="20200315205000 +0000" channel="CinemaWorld">
+    <title lang="en">Las Acacias</title>
+    <desc lang="en">A truck driver is asked to take a woman he does not know to Buenos Aires, but she is not alone. With her is her five-month-old baby. The journey starts out in uneasy silence, but the odd couple soon develop a warm friendship that is full of promise.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200315205000 +0000" stop="20200315222000 +0000" channel="CinemaWorld">
+    <title lang="en">Inspector Ms. Heller: Ricochet</title>
+    <desc lang="en">A school shooting leaves two students and the director dead. The suspect is a troubled ex-student who is missing and had plans to go on a killing spree. Everyone except Heller thinks the case is closed, but her investigations will reveal the unexpected.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller/Suspense</category>
+  </programme>
+  <programme start="20200315222000 +0000" stop="20200315234500 +0000" channel="CinemaWorld">
+    <title lang="en">Land Of Saints</title>
+    <desc lang="en">A young magistrate moves to South Italy to defeat the Calabrian Mafia. Appalled by the unsparing brutality of the mafia trade, she appeals to the mafia men's wives and children in her quest to bring peace and justice to the region.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200315234500 +0000" stop="20200316012500 +0000" channel="CinemaWorld">
+    <title lang="en">The Owners</title>
+    <desc lang="en">Forced to leave the city, three siblings return to their family home in a quiet village. But the District Officer's alcoholic brother has been squatting there for 10 years and the police are making their lives hell as they fight to get their house back.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20200313000500 +0000" stop="20200313015000 +0000" channel="Cinemax">
     <title lang="en">Click</title>
@@ -34223,45 +34203,52 @@
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200313220000 +0000" stop="20200313225500 +0000" channel="Fox Sports">
+  <programme start="20200313220000 +0000" stop="20200313230000 +0000" channel="Fox Sports">
     <title lang="en">UFC Main Event : Khabib Vs. McGregor E1</title>
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
   </programme>
-  <programme start="20200313225500 +0000" stop="20200313232500 +0000" channel="Fox Sports">
+  <programme start="20200313230000 +0000" stop="20200313233000 +0000" channel="Fox Sports">
     <title lang="en">The John Dykes Show E96</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200313232500 +0000" stop="20200313235500 +0000" channel="Fox Sports">
+  <programme start="20200313233000 +0000" stop="20200314000000 +0000" channel="Fox Sports">
     <title lang="en">FOX Sports FC E25</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200313235500 +0000" stop="20200314012500 +0000" channel="Fox Sports">
-    <title lang="en">Formula 1 Rolex Australian Grand Prix 2020 : Practice 1 E1</title>
+  <programme start="20200314000000 +0000" stop="20200314030000 +0000" channel="Fox Sports">
+    <title lang="en">UFC 248 : Adesanya Vs. Romero E12</title>
     <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
+    <category lang="en">Martial Arts</category>
   </programme>
-  <programme start="20200314012500 +0000" stop="20200314025500 +0000" channel="Fox Sports">
-    <title lang="en">Formula 1 Rolex Australian Grand Prix 2020 : Practice 2 E2</title>
+  <programme start="20200314030000 +0000" stop="20200314033000 +0000" channel="Fox Sports">
+    <title lang="en">The John Dykes Show E96</title>
     <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200314025500 +0000" stop="20200314040500 +0000" channel="Fox Sports">
-    <title lang="en">Formula 1 Rolex Australian Grand Prix 2020 : Practice 3 E3[Live]</title>
+  <programme start="20200314033000 +0000" stop="20200314040000 +0000" channel="Fox Sports">
+    <title lang="en">FOX Sports FC E25[Live]</title>
     <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200314040500 +0000" stop="20200314053000 +0000" channel="Fox Sports">
-    <title lang="en">F1 Classics : Formula 1 Rolex Australian Grand Prix 2019 E1</title>
+  <programme start="20200314040000 +0000" stop="20200314060000 +0000" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 E226</title>
+    <sub-title lang="en">Düsseldorf vs. Paderborn</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200314053000 +0000" stop="20200314073000 +0000" channel="Fox Sports">
-    <title lang="en">Formula 1 Rolex Australian Grand Prix 2020 : Qualifying E1[Live]</title>
+  <programme start="20200314060000 +0000" stop="20200314063000 +0000" channel="Fox Sports">
+    <title lang="en">UFC Connected E3</title>
     <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200314063000 +0000" stop="20200314073000 +0000" channel="Fox Sports">
+    <title lang="en">MotoGP : Hghlights - QNB Grand Prix Of Qatar (1) E1</title>
+    <sub-title lang="en">Moto3 &amp; Moto2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Cycle Racing</category>
   </programme>
   <programme start="20200314073000 +0000" stop="20200314093000 +0000" channel="Fox Sports">
     <title lang="en">Bundesliga 2019/20 E226</title>
@@ -34294,15 +34281,11 @@
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200314120000 +0000" stop="20200314123000 +0000" channel="Fox Sports">
-    <title lang="en">Bundesliga 2019/20 Special Shows - Rising Stars - Haaland, Davies, Thuram And Co E17</title>
+  <programme start="20200314120000 +0000" stop="20200314140000 +0000" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 E226</title>
+    <sub-title lang="en">Düsseldorf vs. Paderborn</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20200314123000 +0000" stop="20200314140000 +0000" channel="Fox Sports">
-    <title lang="en">Formula 1 Rolex Australian Grand Prix 2020 : Qualifying E1</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
   </programme>
   <programme start="20200314140000 +0000" stop="20200314142000 +0000" channel="Fox Sports">
     <title lang="en">FOX SPORTS Live E12[Live]</title>
@@ -34332,61 +34315,69 @@
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200314213000 +0000" stop="20200314223000 +0000" channel="Fox Sports">
-    <title lang="en">UFC Main Event : Johnson Vs. Cejudo E2</title>
+  <programme start="20200314213000 +0000" stop="20200314220000 +0000" channel="Fox Sports">
+    <title lang="en">UFC Connected E3</title>
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
   </programme>
-  <programme start="20200314223000 +0000" stop="20200315000000 +0000" channel="Fox Sports">
-    <title lang="en">Formula 1 Rolex Australian Grand Prix 2020 : Qualifying E1</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20200315000000 +0000" stop="20200315030000 +0000" channel="Fox Sports">
+  <programme start="20200314220000 +0000" stop="20200315010000 +0000" channel="Fox Sports">
     <title lang="en">UFC Fight Night : Lee Vs. Oliveira E20[Live]</title>
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200315010000 +0000" stop="20200315030000 +0000" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 E228</title>
+    <sub-title lang="en">Leipzig vs. Freiburg</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
   </programme>
   <programme start="20200315030000 +0000" stop="20200315040000 +0000" channel="Fox Sports">
     <title lang="en">Bundesliga 2019/20 Highlights Show I E26</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200315040000 +0000" stop="20200315073000 +0000" channel="Fox Sports">
-    <title lang="en">Formula 1 Rolex Australian Grand Prix 2020 : Main Race E1[Live]</title>
+  <programme start="20200315040000 +0000" stop="20200315043000 +0000" channel="Fox Sports">
+    <title lang="en">Football Stars E25[Live]</title>
     <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
+    <category lang="en">Magazine</category>
   </programme>
-  <programme start="20200315073000 +0000" stop="20200315083000 +0000" channel="Fox Sports">
-    <title lang="en">Bundesliga 2019/20 Highlights Show I E26</title>
+  <programme start="20200315043000 +0000" stop="20200315050000 +0000" channel="Fox Sports">
+    <title lang="en">UFC Connected E3</title>
     <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
+    <category lang="en">Martial Arts</category>
   </programme>
-  <programme start="20200315083000 +0000" stop="20200315093000 +0000" channel="Fox Sports">
+  <programme start="20200315050000 +0000" stop="20200315060000 +0000" channel="Fox Sports">
     <title lang="en">AFC Cup 2020 E16</title>
     <sub-title lang="en">Lao Toyota FC vs. Ho Chi Minh City FC</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200315093000 +0000" stop="20200315100000 +0000" channel="Fox Sports">
+  <programme start="20200315060000 +0000" stop="20200315080000 +0000" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 E230</title>
+    <sub-title lang="en">Köln vs. Mainz</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200315080000 +0000" stop="20200315100000 +0000" channel="Fox Sports">
+    <title lang="en">Bundesliga 2019/20 E227</title>
+    <sub-title lang="en">Dortmund vs. Schalke</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200315100000 +0000" stop="20200315103000 +0000" channel="Fox Sports">
     <title lang="en">AFC Double Strike Highlights E6</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200315100000 +0000" stop="20200315110000 +0000" channel="Fox Sports">
-    <title lang="en">MotoGP : Hghlights - QNB Grand Prix Of Qatar E1</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Cycle Racing</category>
-  </programme>
-  <programme start="20200315110000 +0000" stop="20200315120000 +0000" channel="Fox Sports">
+  <programme start="20200315103000 +0000" stop="20200315113000 +0000" channel="Fox Sports">
     <title lang="en">Bundesliga 2019/20 Highlights Show I E26</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200315120000 +0000" stop="20200315140000 +0000" channel="Fox Sports">
-    <title lang="en">Formula 1 Rolex Australian Grand Prix 2020 : Main Race E1</title>
+  <programme start="20200315113000 +0000" stop="20200315140000 +0000" channel="Fox Sports">
+    <title lang="en">UFC Fight Night : Lee Vs. Oliveira E20[Live]</title>
     <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
+    <category lang="en">Martial Arts</category>
   </programme>
   <programme start="20200315140000 +0000" stop="20200315142000 +0000" channel="Fox Sports">
     <title lang="en">FOX SPORTS Live E12[Live]</title>
@@ -34460,9 +34451,14 @@
     <category lang="en">Sports</category>
     <category lang="en">Billiards</category>
   </programme>
-  <programme start="20200313200000 +0000" stop="20200313230000 +0000" channel="Fox Sports 2">
-    <title lang="en">MLB Spring Training 2020 E22 ]</title>
-    <sub-title lang="en">Cleveland Indians vs. Milwaukee Brewers[Live</sub-title>
+  <programme start="20200313200000 +0000" stop="20200313210000 +0000" channel="Fox Sports 2">
+    <title lang="en">Sports Unlimited E10</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20200313210000 +0000" stop="20200313230000 +0000" channel="Fox Sports 2">
+    <title lang="en">XFL Football League 2020 E17</title>
+    <sub-title lang="en">Seattle Dragons vs. Houston Roughnecks</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
   </programme>
@@ -34490,8 +34486,8 @@
     <category lang="en">Extreme Sports</category>
   </programme>
   <programme start="20200314040000 +0000" stop="20200314060000 +0000" channel="Fox Sports 2">
-    <title lang="en">Bundesliga 2019/20 E226</title>
-    <sub-title lang="en">Düsseldorf vs. Paderborn</sub-title>
+    <title lang="en">AFC Cup 2020 E14</title>
+    <sub-title lang="en">Yangon United vs. Hougang United</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
@@ -34506,11 +34502,15 @@
     <category lang="en">Sports</category>
     <category lang="en">American Football</category>
   </programme>
-  <programme start="20200314090000 +0000" stop="20200314113000 +0000" channel="Fox Sports 2">
-    <title lang="en">MLB Spring Training 2020 E22</title>
-    <sub-title lang="en">Cleveland Indians vs. Milwaukee Brewers</sub-title>
+  <programme start="20200314090000 +0000" stop="20200314093000 +0000" channel="Fox Sports 2">
+    <title lang="en">Outdoor Sports Show 2020 E2 -</title>
     <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
+    <category lang="en">Magazine</category>
+  </programme>
+  <programme start="20200314093000 +0000" stop="20200314113000 +0000" channel="Fox Sports 2">
+    <title lang="en">Six Day Manchester - Day 1 E13</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Cycling</category>
   </programme>
   <programme start="20200314113000 +0000" stop="20200314133000 +0000" channel="Fox Sports 2">
     <title lang="en">XFL Football League 2020 E20</title>
@@ -34541,17 +34541,23 @@
     <category lang="en">Sports</category>
     <category lang="en">Billiards</category>
   </programme>
-  <programme start="20200314180000 +0000" stop="20200314210000 +0000" channel="Fox Sports 2">
-    <title lang="en">XFL Football League 2020 E21 ]</title>
-    <sub-title lang="en">Houston Roughnecks vs. New York Guardians[Live</sub-title>
+  <programme start="20200314180000 +0000" stop="20200314200000 +0000" channel="Fox Sports 2">
+    <title lang="en">ICC Women's T20 World Cup 2020 - South Africa V Australia (22) E22</title>
+    <sub-title lang="en">Semifinal #2</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
+    <category lang="en">Cricket</category>
   </programme>
-  <programme start="20200314210000 +0000" stop="20200315000000 +0000" channel="Fox Sports 2">
-    <title lang="en">XFL Football League 2020 E22 ]</title>
-    <sub-title lang="en">St. Louis Battlehawks vs. Tampa Bay Vipers[Live</sub-title>
+  <programme start="20200314200000 +0000" stop="20200314220000 +0000" channel="Fox Sports 2">
+    <title lang="en">ICC Women's T20 World Cup 2020 - India V Australia E23</title>
+    <sub-title lang="en">Final</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20200314220000 +0000" stop="20200315000000 +0000" channel="Fox Sports 2">
+    <title lang="en">AFC Cup 2020 E16</title>
+    <sub-title lang="en">Lao Toyota FC vs. Ho Chi Minh City FC</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20200315000000 +0000" stop="20200315013000 +0000" channel="Fox Sports 2">
     <title lang="en">Sailgp 2020 Day 1 - Sydney E1 -</title>
@@ -34574,11 +34580,23 @@
     <category lang="en">Sports</category>
     <category lang="en">Billiards</category>
   </programme>
-  <programme start="20200315052000 +0000" stop="20200315075000 +0000" channel="Fox Sports 2">
-    <title lang="en">MLB Spring Training 2020 E23</title>
-    <sub-title lang="en">Cleveland Indians vs. Chicago Cubs</sub-title>
+  <programme start="20200315052000 +0000" stop="20200315055000 +0000" channel="Fox Sports 2">
+    <title lang="en">ICC Women's T20 World Cup 2020 - India V Australia E23</title>
+    <sub-title lang="en">Final</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20200315055000 +0000" stop="20200315065000 +0000" channel="Fox Sports 2">
+    <title lang="en">AFC Cup 2020 E17</title>
+    <sub-title lang="en">Preah Khan Reach Svay Rieng FC vs. Than Quang Ninh</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200315065000 +0000" stop="20200315075000 +0000" channel="Fox Sports 2">
+    <title lang="en">AFC Cup 2020 E18</title>
+    <sub-title lang="en">Ceres Negros FC vs. Bali United FC</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20200315075000 +0000" stop="20200315113000 +0000" channel="Fox Sports 2">
     <title lang="en">South Africa's Tour Of India 2020 - 2nd ODI E2 ]</title>
@@ -34952,18 +34970,6 @@
     <category lang="en">Sports</category>
     <category lang="en">Lethwei</category>
   </programme>
-  <programme start="20200313151500 +0700" stop="20200313171000 +0700" channel="tvN Movies">
-    <title lang="id">Dark Figure Of Crime</title>
-    <desc lang="id">Terinspirasi dari kisah nyata, film ini menceritakan tentang sebuah pertarungan psikologis nan sengit antara seorang detektif polisi dan seorang pembunuh yang mengaku telah melakukan beberapa pembunuhan.</desc>
-  </programme>
-  <programme start="20200313171000 +0700" stop="20200313190500 +0700" channel="tvN Movies">
-    <title lang="id">Haemoo</title>
-    <desc lang="id">Seorang awak kapal penangkap ikan mengambil risiko berbahaya untuk menyelundupkan sekelompok imigran gelap dari Tiongkok ke Korea. Saat seorang wanita muda jatuh ke laut, perjalanan mengerikan mereka dimulai.</desc>
-  </programme>
-  <programme start="20200313190500 +0700" stop="20200313210000 +0700" channel="tvN Movies">
-    <title lang="id">Coffee Mate</title>
-    <desc lang="id">Seorang ibu rumah tangga bertemu dengan seorang tukang kayu di sebuah kafe. Mereka menjadi 'rekan minum kopi' tanpa niat apapun hanya sekedar bertemu di kafe. Kemudian, mereka saling jatuh cinta.</desc>
-  </programme>
   <programme start="20200313210000 +0700" stop="20200313230000 +0700" channel="tvN Movies">
     <title lang="id">Detective K: Virtuous Widow</title>
     <desc lang="id">Detektif top Joseon menyelidiki serangkaian pembunuhan misterius yang berkaitan dengan konspirasi besar yang dapat menggemparkan seluruh negeri.</desc>
@@ -35067,31 +35073,6 @@
   <programme start="20200315230000 +0700" stop="20200316010500 +0700" channel="tvN Movies">
     <title lang="id">I Can Speak</title>
     <desc lang="id">Seorang nenek menjalin sebuah persahabatan nan unik dengan seorang pegawai negeri sipil. Untuk suatu alasan, ia meminta untuk diajari bahasa Inggris oleh PNS tersebut saat mengetahui bahwa ia mahir akan hal itu.</desc>
-  </programme>
-  <programme start="20200313152000 +0700" stop="20200313164000 +0700" channel="tvN">
-    <title lang="id">The Cursed</title>
-    <desc lang="id">Kisah seorang gadis yang dapat mengutuk mati seseorang hanya dengan menyebut namanya dan reporter yang mengungkap sejumlah kasus kekerasan sebuah perusahaan IT harus menghadapi kejahatan supranatural di belakangnya.</desc>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20200313164000 +0700" stop="20200313180000 +0700" channel="tvN">
-    <title lang="id">The Cursed</title>
-    <desc lang="id">Kisah seorang gadis yang dapat mengutuk mati seseorang hanya dengan menyebut namanya dan reporter yang mengungkap sejumlah kasus kekerasan sebuah perusahaan IT harus menghadapi kejahatan supranatural di belakangnya.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20200313180000 +0700" stop="20200313192500 +0700" channel="tvN">
-    <title lang="id">I Can See Your Voice</title>
-    <desc lang="id">Bergabunglah bersama para pembawa acara dan tamu-tamu spesial dalam musim ke-tujuh ini untuk menebak siapa saja di antara para kontestan yang berbakat atau tuli nada dengan hanya melihat penampilan mereka!</desc>
-    <episode-num system="onscreen">S7 E8</episode-num>
-  </programme>
-  <programme start="20200313192500 +0700" stop="20200313204500 +0700" channel="tvN">
-    <title lang="id">Memorist</title>
-    <desc lang="id">Dongbaek, yang memiliki kemampuan untuk membaca ingatan orang lain, dan Seon-mi, seorang profiler genius, bekerjasama untuk menyelidiki seorang pembunuh berantai yang dipanggil 'The Absolute Evil'.</desc>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200313204500 +0700" stop="20200313220000 +0700" channel="tvN">
-    <title lang="id">Memorist</title>
-    <desc lang="id">Dongbaek, yang memiliki kemampuan untuk membaca ingatan orang lain, dan Seon-mi, seorang profiler genius, bekerjasama untuk menyelidiki seorang pembunuh berantai yang dipanggil 'The Absolute Evil'.</desc>
-    <episode-num system="onscreen">E2</episode-num>
   </programme>
   <programme start="20200313220000 +0700" stop="20200313231000 +0700" channel="tvN">
     <title lang="id">Mother's Touch</title>
@@ -35282,46 +35263,6 @@
     <title lang="id">Black</title>
     <desc lang="id">Malaikat Maut 444 menyimpan perasaan mendalam untuk Kang Ha Ram, seorang wanita yang memiliki kemampuan untuk meramalkan kematian.</desc>
     <episode-num system="onscreen">E15</episode-num>
-  </programme>
-  <programme start="20200313155500 +0700" stop="20200313164500 +0700" channel="Crime Investigation">
-    <title lang="id">Alaska PD</title>
-    <desc lang="id">Tiga petugas baru harus beradaptasi dengan kerasnya kehidupan kepolisian di Alaska. Petugas Chris Cook mempertanyakan masa depannya di Kotzebue nan terpencil.</desc>
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20200313164500 +0700" stop="20200313173500 +0700" channel="Crime Investigation">
-    <title lang="id">The First 48</title>
-    <desc lang="id">Di Mobile, seorang pria ditembak secara keji. Para detektif melakukan penyelidikan apakah masa lalunya yang bermasalah kembali menghantuinya.</desc>
-    <episode-num system="onscreen">E386</episode-num>
-  </programme>
-  <programme start="20200313173500 +0700" stop="20200313182500 +0700" channel="Crime Investigation">
-    <title lang="id">Fatal Vows</title>
-    <desc lang="id">John Parker tidak tahan dengan rumor tentang kisah percintaan istrinya, Judy, dengan karyawannya. Lalu, sebuah tembakan di luar toko waralaba mereka mengungkap suatu rencana nan jahat.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20200313182500 +0700" stop="20200313191500 +0700" channel="Crime Investigation">
-    <title lang="id">Grace Vs Abrams</title>
-    <desc lang="id">Dua analis hukum ternama, Nancy Grace dan Dan Abrams, memberikan perspektif hukum mereka nan unik dan pendapat berbeda mengenai aksi kejahatan dan persidangan yang menyita perhatian publik.</desc>
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20200313191500 +0700" stop="20200313194000 +0700" channel="Crime Investigation">
-    <title lang="id">Border Security</title>
-    <desc lang="id">Border Security menayangkan cuplikan menarik seputar pekerjaan sehari hari ribuan petugas yang mendedikasikan hidup mereka untuk melindungi perbatasan Australia.</desc>
-    <episode-num system="onscreen">S7 E19</episode-num>
-  </programme>
-  <programme start="20200313194000 +0700" stop="20200313200500 +0700" channel="Crime Investigation">
-    <title lang="id">Border Security</title>
-    <desc lang="id">Border Security menayangkan cuplikan menarik seputar pekerjaan sehari hari ribuan petugas yang mendedikasikan hidup mereka untuk melindungi perbatasan Australia.</desc>
-    <episode-num system="onscreen">S7 E20</episode-num>
-  </programme>
-  <programme start="20200313200500 +0700" stop="20200313205500 +0700" channel="Crime Investigation">
-    <title lang="id">Ghost Hunters</title>
-    <desc lang="id">Selama beberapa dekade, Harry mengamati semua jenis aktifitas paranormal yang ada di hotel. Setelah menjual rumah kepada sahabatnya, ia berusaha memperingatkannya, namun sahabatnya tidak percaya pada hantu.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20200313205500 +0700" stop="20200313214500 +0700" channel="Crime Investigation">
-    <title lang="id">The Haunting Of</title>
-    <desc lang="id">Kesha, penyanyi dan penulis lagu yang mendunia, mendatangi suatu penginapan di Texas tempat ia bertemu sesosok makhluk supranatural yang amat menyiksa dan mengganggu sampai-sampai ia masih merasa dihantui hingga kini.</desc>
-    <episode-num system="onscreen">S7 E69</episode-num>
   </programme>
   <programme start="20200313214500 +0700" stop="20200313223500 +0700" channel="Crime Investigation">
     <title lang="id">Psychic Kids</title>
@@ -35623,25 +35564,6 @@
     <desc lang="id">Petugas penegak hukum di AS menceritakan sejumlah situasi berbahaya yang mereka hadapi sehari-hari, serta bagaimana mereka melawan kejahatan dan berurusan dengan para pelanggar hukum.</desc>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20200313141000 +0700" stop="20200313171000 +0700" channel="Kix">
-    <title lang="id">Road FC 2017</title>
-    <desc lang="id">Putaran perempat final dari Turnamen Kelas Ringan nan bersejarah senilai satu juta dolar ini akan berlangsung di ROAD FC 044!</desc>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200313171000 +0700" stop="20200313180000 +0700" channel="Kix">
-    <title lang="id">Hunted</title>
-    <desc lang="id">Saksikanlah episode terbaru dari reality show menegangkan di KIX ini saat sembilan tim berusaha melarikan diri dari perburuan di kehidupan nyata demi hadiah sebesar 250.000 dolar.</desc>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20200313180000 +0700" stop="20200313200000 +0700" channel="Kix">
-    <title lang="id">Lord Of Shanghai</title>
-    <desc lang="id">Berlatar di Shanghai pada tahun 1930-an, tiga konglomerat yang berkuasa saling bertarung untuk menjadi pemimpin tunggal dari kota pelabuhan terbesar di Tiongkok dan mendominasi semua wilayah Waitan.</desc>
-  </programme>
-  <programme start="20200313200000 +0700" stop="20200313205500 +0700" channel="Kix">
-    <title lang="id">Fifth Gear</title>
-    <desc lang="id">Jangan lewatkan sederet informasi otomotif terbaru termasuk ulasan mobil, harga mobil bekas, dan juga perkembangan industri terkini.</desc>
-    <episode-num system="onscreen">S27 E6</episode-num>
-  </programme>
   <programme start="20200313205500 +0700" stop="20200313224000 +0700" channel="Kix">
     <title lang="id">Wanted</title>
     <desc lang="id">Wanted berlatar tentang web gelap nan misterius. Bersiaplah untuk kagum dengan aksi-aksi nan dahsyat di film ini, termasuk adegan mobil terbang nan luar biasa.</desc>
@@ -35810,18 +35732,6 @@
     <title lang="id">Hunted</title>
     <desc lang="id">Saksikanlah episode terbaru dari reality show menegangkan di KIX ini saat sembilan tim berusaha melarikan diri dari perburuan di kehidupan nyata demi hadiah sebesar 250.000 dolar.</desc>
     <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20200313151500 +0700" stop="20200313170000 +0700" channel="Hits Movies">
-    <title lang="id">Spaceballs</title>
-    <desc lang="id">Karir John Candy, Rick Moranis, Bill Pullman, dan Dom DeLuise meroket setelah membintangi film tentang pertempuran antara kekuatan baik dan jahat di luar angkasa yang disutradarai oleh Mel Brooks.</desc>
-  </programme>
-  <programme start="20200313170000 +0700" stop="20200313190000 +0700" channel="Hits Movies">
-    <title lang="id">I Know What You Did Last...</title>
-    <desc lang="id">Empat remaja memiliki sebuah rahasia nan kelam yang datang kembali menghantui mereka.</desc>
-  </programme>
-  <programme start="20200313190000 +0700" stop="20200313211500 +0700" channel="Hits Movies">
-    <title lang="id">Alien</title>
-    <desc lang="id">Sesosok alien diam-diam merasuki salah satu kru pesawat ruang angkasa yang kembali ke Bumi dan mengakibatkan masalah besar. Film yang menyabet Oscar untuk Efek Visual Terbaik ini dibintangi oleh Sigourney Weaver.</desc>
   </programme>
   <programme start="20200313211500 +0700" stop="20200313230000 +0700" channel="Hits Movies">
     <title lang="id">Halloween</title>
@@ -40613,7 +40523,7 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JCPGM.jpg" />
     <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
-  <programme start="20200313210000 +0800" stop="20200313213000 +0800" channel="Astro Arena">
+  <programme start="20200313210000 +0800" stop="20200313213300 +0800" channel="Astro Arena">
     <title lang="en">Nadi Arena</title>
     <desc lang="en">Nadi Arena: Berita terkini dari dunia sukan tempatan dan antarabangsa.</desc>
     <category lang="en">News</category>
@@ -40621,7 +40531,7 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IWEQC_Series.jpg" />
     <episode-num system="xmltv_ns">.545.</episode-num>
   </programme>
-  <programme start="20200313213000 +0800" stop="20200313213200 +0800" channel="Astro Arena">
+  <programme start="20200313213300 +0800" stop="20200313223300 +0800" channel="Astro Arena">
     <title lang="en">Badminton: Lee Zii Jia lwn Chen Long</title>
     <desc lang="en">Badminton BWF Terbuka All England 2020 Suku Akhir: Lee Zii Jia lwn Chen Long dari Birmingham, England.</desc>
     <category lang="en">Sports</category>
@@ -40629,23 +40539,7 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JBPWV.jpg" />
     <episode-num system="xmltv_ns">.94.</episode-num>
   </programme>
-  <programme start="20200313213200 +0800" stop="20200313220000 +0800" channel="Astro Arena">
-    <title lang="en">Sorotan Netbusters</title>
-    <desc lang="en">Sorotan jaringan gol terbaik serta aksi-aksi menarik Liga Perdana Inggeris 2019/20.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JBPWV.jpg" />
-    <episode-num system="xmltv_ns">.85.</episode-num>
-  </programme>
-  <programme start="20200313220000 +0800" stop="20200313223000 +0800" channel="Astro Arena">
-    <title lang="en">Sorotan ONE Championship</title>
-    <desc lang="en">Sorotan aksi-aksi menarik ONE Championship 2020.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JBPWV.jpg" />
-    <episode-num system="xmltv_ns">.86.</episode-num>
-  </programme>
-  <programme start="20200313223000 +0800" stop="20200313230000 +0800" channel="Astro Arena">
+  <programme start="20200313223300 +0800" stop="20200313230300 +0800" channel="Astro Arena">
     <title lang="en">Formasi Ekstra</title>
     <desc lang="en">Formasi Ekstra membawakan anda aksi-aksi dan perbincangan taktikal bola sepak tanahair.</desc>
     <category lang="en">Sports</category>
@@ -40653,15 +40547,14 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JCPDF.jpg" />
     <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20200313230000 +0800" stop="20200313233000 +0800" channel="Astro Arena">
-    <title lang="en">(L) Nadi Arena</title>
-    <desc lang="en">(Langsung) Berita terkini dari dunia sukan tempatan dan antarabangsa.</desc>
+  <programme start="20200313230300 +0800" stop="20200313233500 +0800" channel="Astro Arena">
+    <title lang="en">Nadi Arena</title>
+    <desc lang="en">Nadi Arena: Berita terkini dari dunia sukan tempatan dan antarabangsa.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs / General</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HUMKK_Series.jpg" />
-    <episode-num system="xmltv_ns">.11.</episode-num>
+    <episode-num system="xmltv_ns">.544.</episode-num>
   </programme>
-  <programme start="20200313233000 +0800" stop="20200314013000 +0800" channel="Astro Arena">
+  <programme start="20200313233500 +0800" stop="20200314013000 +0800" channel="Astro Arena">
     <title lang="en">Bolasepak: MAS lwn UAE</title>
     <desc lang="en">Kelayakan Piala Dunia 2022 &amp; Piala Asia 2023 (Kumpulan G): Malaysia lwn UAE dari Stadium Nasional Bukit Jalil, Kuala Lumpur.</desc>
     <category lang="en">Sports</category>
@@ -41223,13 +41116,13 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXNFM.jpg" />
     <episode-num system="xmltv_ns">.27.</episode-num>
   </programme>
-  <programme start="20200314225000 +0800" stop="20200315010000 +0800" channel="Astro Supersport">
-    <title lang="en">PL: Burnley vs Tottenham</title>
-    <desc lang="en">Premier League 2019/20: Week 30: Burnley vs Tottenham Hotspur, from Turf Moor, Burnley.</desc>
+  <programme start="20200314225000 +0800" stop="20200315002000 +0800" channel="Astro Supersport">
+    <title lang="en">WWE Smackdown 2020</title>
+    <desc lang="en">Catch the high-flying action and drama from the superstars of WWE in this weekly showcase of one of the flagship shows of WWE.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IXNAS.jpg" />
-    <episode-num system="xmltv_ns">.284.</episode-num>
+    <category lang="en">Wrestling</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JBMVE.jpg" />
+    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
   <programme start="20200315023000 +0800" stop="20200315030000 +0800" channel="Astro Supersport">
     <title lang="en">Premier League Flashback</title>
@@ -42207,21 +42100,13 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JBNGQ.jpg" />
     <episode-num system="xmltv_ns">.42.</episode-num>
   </programme>
-  <programme start="20200313180000 +0800" stop="20200313230000 +0800" channel="Astro Supersport 4">
+  <programme start="20200313180000 +0800" stop="20200314000000 +0800" channel="Astro Supersport 4">
     <title lang="en">(L) BWF All England Open</title>
     <desc lang="en">LIVE: BWF World Tour Super 1000: YONEX All England Open Badminton Championships 2020: Quarter Finals Session 1, from Arena Birmingham, Birmingham, United Kingdom.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Badminton</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JBOLZ.jpg" />
     <episode-num system="xmltv_ns">.14.</episode-num>
-  </programme>
-  <programme start="20200313230000 +0800" stop="20200314000000 +0800" channel="Astro Supersport 4">
-    <title lang="en">WWE NXT 2020</title>
-    <desc lang="en">Witness the future of WWE, as the next generation of WWE superstars, on-air personalities and even behind-the-scene staff are being groomed to take the center stage.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JBLYD.jpg" />
-    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
   <programme start="20200314010000 +0800" stop="20200314060000 +0800" channel="Astro Supersport 4">
     <title lang="en">(L) BWF All England Open</title>
