@@ -60,8 +60,8 @@
     <display-name lang="en">Astro Awani</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Saluran Berita RTM">
-    <display-name lang="en">Saluran Berita RTM</display-name>
+  <channel id="Berita RTM">
+    <display-name lang="en">Berita RTM</display-name>
     <url>http://www.myklik.rtm.gov.my</url>
   </channel>
   <channel id="Channel NewsAsia">
@@ -4566,82 +4566,6 @@
     <category lang="en">Biography</category>
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20200313015000 +0800" stop="20200313024000 +0800" channel="Channel 5">
-    <title lang="en">NCIS S14 - EP 8</title>
-    <desc lang="en">A murder case leads Bishop to Gitmo and forces her to face a harsh reality</desc>
-  </programme>
-  <programme start="20200313024000 +0800" stop="20200313031000 +0800" channel="Channel 5">
-    <title lang="en">Tricked (Canada)  - EP 8</title>
-    <desc lang="en">Tricked Canada is a high-energy family series that pulls the rabbit out of the hat and flips it on its ear. It drags magic off the stage and onto the streets as master magician Eric LeClerc goes undercover with hidden cameras, posing in a variety of guises such as store clerk, waiter or sales assistant to pull super sneaky pranks on unsuspecting people</desc>
-  </programme>
-  <programme start="20200313031000 +0800" stop="20200313034000 +0800" channel="Channel 5">
-    <title lang="en">Secrets Of The Earth - EP 1</title>
-    <desc lang="en">This series explores our planet with the same sense of awe and wonder normally reserved for alien worlds. Computer graphics, visual analogies and expert scientists combine to reveal amazing, little-known facts and bring a stunning new perspective to the world you think you know</desc>
-  </programme>
-  <programme start="20200313034000 +0800" stop="20200313041000 +0800" channel="Channel 5">
-    <title lang="en">In Cold Blood - EP 3</title>
-    <desc lang="en">His family was his life but so was gambling. In the end, he lost everything. Once, his gambling debts totaled $100,000 and it took him several years and working several jobs to clear. Years later his addiction once again got the better of him and as his debts kept piling, he did the unthinkable - killing his wife and 2 children before ending his own life</desc>
-  </programme>
-  <programme start="20200313041000 +0800" stop="20200313051000 +0800" channel="Channel 5">
-    <title lang="en">Jamie And Jimmy's Food Fight Club S5 - EP 8</title>
-    <desc lang="en">Jamie Oliver and Jimmy Doherty are back in their cafe at the end of the pier in Southend, Essex, UK. While Jamie cooks up his ultimate weekend recipes, Jimmy heads outdoors and rustles up magnificent feasts from wild ingredients</desc>
-  </programme>
-  <programme start="20200313051000 +0800" stop="20200313060000 +0800" channel="Channel 5">
-    <title lang="en">The Dr Oz Show 10 - EP 171</title>
-    <desc lang="en">(Encore) A security expert shows how to be prepared in common dangerous scenarios; coming face-to-face with an intruder; comic Lisa Lampanelli discusses fat shaming and life-coaching others who are shamed; Laila Ali's simple home and food makeover hacks</desc>
-  </programme>
-  <programme start="20200313060000 +0800" stop="20200313063000 +0800" channel="Channel 5">
-    <title lang="en">Jack S1 - EP 0035 &amp; 0036</title>
-    <desc lang="en">Jack is a human-like terrestrial from Beano, a small asteroid that orbits the earth. Unbeknownst to all parents on Earth, he tunes in with CHIP's help to search for and monitor little mysteries for Earth's children. Aided by the "Outer-Net", Jack with his 2 sidekicks - CHIP and Rocket, the goofy little dog, embark on numerous adventures to unravel those mysteries</desc>
-  </programme>
-  <programme start="20200313063000 +0800" stop="20200313070000 +0800" channel="Channel 5">
-    <title lang="en">Welcome To The Wayne S1 - EP 4</title>
-    <desc lang="en">Ansi Molina moves into the Wayne, an apartment building filled with strange and unusual things labeled as "Wayne Phenomena". He befriends siblings Olly and Saraline Timbers as they learn the mysteries of the Wayne and protect the outside world while contending with a spy cell seeking to exploit apartment's supernatural aspects for their own nefarious ends</desc>
-  </programme>
-  <programme start="20200313070000 +0800" stop="20200313073000 +0800" channel="Channel 5">
-    <title lang="en">Doc McStuffins: Toy Hospital Yr 4 - EP 17</title>
-    <desc lang="en">New adventures of Doc McStuffins and her stuffed animals</desc>
-  </programme>
-  <programme start="20200313073000 +0800" stop="20200313074500 +0800" channel="Channel 5">
-    <title lang="en">Go Go Footy Pups S1 - EP 0029 &amp; 0030</title>
-    <desc lang="en">The Footy Pups play in an animal league against a menagerie of teams, including the naughty pigs of Southampton and the shy hippos of Potamus Hotspur. Everyone learns how friendship and teamwork are the only way to win!</desc>
-  </programme>
-  <programme start="20200313074500 +0800" stop="20200313080000 +0800" channel="Channel 5">
-    <title lang="en">Go Go Footy Pups S2 - EP 0001 &amp; 0002</title>
-    <desc lang="en">The Footy Pups play in an animal league against a menagerie of teams, including the naughty pigs of Southampton and the shy hippos of Potamus Hotspur. Everyone learns how friendship and teamwork are the only way to win!</desc>
-  </programme>
-  <programme start="20200313080000 +0800" stop="20200313083000 +0800" channel="Channel 5">
-    <title lang="en">Blaze And The Monster Machines S2 - EP 20</title>
-    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and math</desc>
-  </programme>
-  <programme start="20200313083000 +0800" stop="20200313090000 +0800" channel="Channel 5">
-    <title lang="en">Thomas &amp; Friends S20  - EP 0489 &amp; 0490</title>
-    <desc lang="en">Series features Thomas the Tank Engine going on adventures with his fellow locomotives on the island of Sodor. Thomas is apt to get into trouble by trying too hard to be, in his words, a "really useful engine", attempting to do things that are best left to bigger engines</desc>
-  </programme>
-  <programme start="20200313090000 +0800" stop="20200313093000 +0800" channel="Channel 5">
-    <title lang="en">Bob The Builder S19 - EP 0023 &amp; 0024</title>
-    <desc lang="en">Bob the Builder and his machine team are ready to tackle any project from small fix it jobs to big scale builds in exciting and dynamic locations. With teamwork and construction at the heart of the show, Bob and his friends demonstrate the power of positive thinking, problem solving and empowerment</desc>
-  </programme>
-  <programme start="20200313093000 +0800" stop="20200313100000 +0800" channel="Channel 5">
-    <title lang="en">Doc McStuffins: Toy Hospital Yr 4 - EP 17</title>
-    <desc lang="en">New adventures of Doc McStuffins and her stuffed animals</desc>
-  </programme>
-  <programme start="20200313100000 +0800" stop="20200313103000 +0800" channel="Channel 5">
-    <title lang="en">Ollie And Friends S6 - EP 43</title>
-    <desc lang="en">The Triangle Aliens build their own version of a snowman, a snow alien! But with the weather getting warmer, can they find a permanent home for their new friend before he melts?vThe bull scooter is back and its teamed up with the Imp. Tired of being left out and friendless, the two go on a crime spree to take revenge on the citizens of ollipolis. Can Ollie and the gang stop them?</desc>
-  </programme>
-  <programme start="20200313103000 +0800" stop="20200313104500 +0800" channel="Channel 5">
-    <title lang="en">Go Go Footy Pups S1 - EP 0029 &amp; 0030</title>
-    <desc lang="en">The Footy Pups play in an animal league against a menagerie of teams, including the naughty pigs of Southampton and the shy hippos of Potamus Hotspur. Everyone learns how friendship and teamwork are the only way to win!</desc>
-  </programme>
-  <programme start="20200313104500 +0800" stop="20200313110000 +0800" channel="Channel 5">
-    <title lang="en">Go Go Footy Pups S2 - EP 0001 &amp; 0002</title>
-    <desc lang="en">The Footy Pups play in an animal league against a menagerie of teams, including the naughty pigs of Southampton and the shy hippos of Potamus Hotspur. Everyone learns how friendship and teamwork are the only way to win!</desc>
-  </programme>
-  <programme start="20200313110000 +0800" stop="20200313113000 +0800" channel="Channel 5">
-    <title lang="en">Blaze And The Monster Machines S2 - EP 20</title>
-    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and math</desc>
-  </programme>
   <programme start="20200313113000 +0800" stop="20200313120000 +0800" channel="Channel 5">
     <title lang="en">Top Wing S1 - EP 11</title>
     <desc lang="en">Top Wing follows four eager young birds---Swift, Penny, Brody, and Rod---who work together at Top Wing Academy as new cadets to earn their wings by helping their community. With the help of mentor Speedy, the cadets take on different missions for their rescue skills and also help those in need, all while learning important lessons</desc>
@@ -5002,54 +4926,6 @@
     <title lang="en">The World's Deadliest Drivers - EP 4</title>
     <desc lang="en">In this series, we see hilarious, outrageous and hazzardous footage taken directly from streets around the globe. From the motorcyclist who ended up back-flipping off a cliff, to the have-a-go hero who pulled a grandmother out of a burning car</desc>
   </programme>
-  <programme start="20200313020000 +0800" stop="20200313030000 +0800" channel="Channel 8">
-    <title lang="en">人海孤鸿 Battle Of Justice - EP 15</title>
-    <desc lang="en">(R) "Battle Of Justice" is a 1993 Mediacorp production. (重)</desc>
-  </programme>
-  <programme start="20200313030000 +0800" stop="20200313040000 +0800" channel="Channel 8">
-    <title lang="en">人海孤鸿 Battle Of Justice - EP 16</title>
-    <desc lang="en">(R) "Battle Of Justice" is a 1993 Mediacorp production. (重)</desc>
-  </programme>
-  <programme start="20200313040000 +0800" stop="20200313050000 +0800" channel="Channel 8">
-    <title lang="en">甘味人生 Taste Of Life - EP 279</title>
-    <desc lang="en">(R) Zhao Ju Cai and his wife Li Jin Xiu have five children. Devoted all his life to developing soy sauce products, much as Zhao Ju Cai hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's pursuit of invention, the Zhao brothers' lives are about to change. (PG)(重)赵居财，一生致力研发酱油产品，与妻李锦琇育有五个孩子；居财虽然希望众孩子之中有人接手经營家业，但也尊重孩子们的兴趣和志向。赵家兄弟也因为父亲赵居财的「发明梦」，人生逐渐起了变化。</desc>
-  </programme>
-  <programme start="20200313050000 +0800" stop="20200313060000 +0800" channel="Channel 8">
-    <title lang="en">甘味人生 Taste Of Life - EP 280</title>
-    <desc lang="en">(R) Zhao Ju Cai and his wife Li Jin Xiu have five children. Devoted all his life to developing soy sauce products, much as Zhao Ju Cai hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's pursuit of invention, the Zhao brothers' lives are about to change. (PG)(重)赵居财，一生致力研发酱油产品，与妻李锦琇育有五个孩子；居财虽然希望众孩子之中有人接手经營家业，但也尊重孩子们的兴趣和志向。赵家兄弟也因为父亲赵居财的「发明梦」，人生逐渐起了变化。</desc>
-  </programme>
-  <programme start="20200313060000 +0800" stop="20200313070000 +0800" channel="Channel 8">
-    <title lang="en">名厨出走记 2 之重新出发 Love On The Plate S2 - EP 10</title>
-    <desc lang="en">(R) The 2nd season of this award-winning food reality programme returns! Using limited ingredients that are available in the rural villages, celebrity chefs will harvest-catch the ingredients and whip up a mouth watering feast for the villagers. (重)新系列延续了第一系列的精神，安排平常习惯在宽敞、设备齐全厨房工作的厨师们出走，带他们到深山林中，让他们就地取材，用巧手煮出另类料理。</desc>
-  </programme>
-  <programme start="20200313070000 +0800" stop="20200313073000 +0800" channel="Channel 8">
-    <title lang="en">我赚到了！ Thrift Hunters - EP 4</title>
-    <desc lang="en">(R) In this episode, our hosts will visit a unique minced fish noodles shop. Besides enjoying good food, they also have the opportunity to do donation for the poor. There is a one and only free mobile tailoring vehicle in town, what kind of free service do they provide for customers? A trendy shop which marries the concept of shopping &amp; dining under one roof enables our 2 hosts to find their desired clothing &amp; meal at special discount. (重)这一集，主持人来到一间独特的鱼脞面店，除了能大快朵颐，还有机会献爱心做善事，而本地唯一的免费流动裁缝车，到底能为顾客提供哪些免费的服务呢？还有结合购物与餐饮于同一屋檐下的时尚店，也让两人各自找到心仪的服装及美食，并享有特价优惠。</desc>
-  </programme>
-  <programme start="20200313073000 +0800" stop="20200313080000 +0800" channel="Channel 8">
-    <title lang="en">狮城有约精华版 Hello Singapore Highlights  - EP 250</title>
-    <desc lang="en">Deliver social features that matter to you. 总结一天大小事，关心属于你我的家园。</desc>
-  </programme>
-  <programme start="20200313080000 +0800" stop="20200313090000 +0800" channel="Channel 8">
-    <title lang="en">爱...没有距离 Loving You - EP 4</title>
-    <desc lang="en">(R) Chen Shi remembers the promises he made to Lin Li when he proposed to her; he decides to break up with Yu Ting but when he sees her vulnerable side, he can't bear to continue. Chen Shi plans to broach the subject of divorce to Lin Li but Lin Li tells him that she wants to salvage their marriage; Chen Shi is caught in a dilemma.  (PG)(重)陈石想起当初求婚时对林俐的承诺，决定与玉婷分手，却看到玉婷脆弱的一面，于心不忍。他打算向林俐提出离婚，谁知林俐却放下身段，表示愿意挽救婚姻，希望他回头，陈石顿时陷入两难……。</desc>
-  </programme>
-  <programme start="20200313090000 +0800" stop="20200313093000 +0800" channel="Channel 8">
-    <title lang="en">晨光第一线 Morning Express  - EP 250</title>
-    <desc lang="en">(Live) A daily brand new News belt, from Monday to Friday, 9am - 9.30am. （现场直播）全新新闻时段，每逢星期一至五，早上九点，准时送上。</desc>
-  </programme>
-  <programme start="20200313093000 +0800" stop="20200313100000 +0800" channel="Channel 8">
-    <title lang="en">溏心风暴 3 Heart And Greed S3 - EP 39</title>
-    <desc lang="en">(R)(Part 1) Weijia is disappointed that Chengfeng is still trying to negotiate favourable terms for himself. Chengfeng explains his situation so that Weijia understands why he is actively pursuing power. Bei Er realises that she still has feelings for Weijia, but doesn't wish to break the status quo. (PG)(重)(第39集上)围家见乘风只跟他谈条件，而不是真诚的道歉认错感到非常失望。乘风见此最终将自己的事相告，围家才明白为何他变得积极追求权力。贝儿发现自己仍对围家有感觉，可是认为围家已放下，不想破坏现有关系。</desc>
-  </programme>
-  <programme start="20200313100000 +0800" stop="20200313103000 +0800" channel="Channel 8">
-    <title lang="en">焦点 Focus  - EP 40</title>
-    <desc lang="en">(R) This week on Focus: Malaysia new cabinet line-up; US presidential election 2020; and Airlines hit hard by coronavirus. (重)马来西亚新内阁；美国总统选举起跑；冠状病毒蔓延 航空业陷寒冬。</desc>
-  </programme>
-  <programme start="20200313103000 +0800" stop="20200313113000 +0800" channel="Channel 8">
-    <title lang="en">乔太守乱点鸳鸯 Comedy Of Mismatches</title>
-    <desc lang="en">(R) A dazzling tale of mistaken identities caused by monogram handkerchiefs. Ting Hong, Koo Mei and Li Hsiang Chun are just three of the lovelies on view in this "All's Well Ends Well" marital mixup. (重)孙玉郎与慧娘、裴政与徐文姑于庙中邂逅，一见钟情,暗中互换巾、扇定情，匆忙间却误递对象，致错配姻缘。玉姊珠姨与慧兄朴早有婚约，刘母因朴久病不愈，执意娶珠过门冲喜。玉不忍姊下嫁病夫，男扮女装代姊出嫁，与易钗而弁代兄拜堂的慧于新房重逢，二人得悉一切后结成真夫妇。</desc>
-  </programme>
   <programme start="20200313113000 +0800" stop="20200313123000 +0800" channel="Channel 8">
     <title lang="en">欢喜没烦恼 Happy-Go-Lucky - EP 8</title>
     <desc lang="en">(R) With the spread of fake news, how do we know what is real and what is not? Let the Happy folks teach you how. This week's Old is Bold brings us to Penang, Malaysia where we catch two movie actresses in action. Find out how to be a bold senior! (重)近来假新闻到处传，什么是真，什么是假？让欢喜街的街坊们教你如何分辨。这一集的〈乐龄新鲜人〉请来了两位重量级人物——跟着两位电影女演员到马来西亚槟城去了解怎么当一个真正的乐龄新鲜人！</desc>
@@ -5361,25 +5237,6 @@
   <programme start="20200315230000 +0800" stop="20200315233000 +0800" channel="Channel 8">
     <title lang="en">灵异怪谈8 Incredible Tales S8 - EP 3</title>
     <desc lang="en">(R) Cars play a crucial role in our lives today. Some prefer a secondhand car, instead of buying a brand new car. However, you must be careful when buying a car from a dealer because you never know when you're going to get more than what you paid for!  (PG13-恐怖画面)(重)</desc>
-  </programme>
-  <programme start="20200313011500 +0800" stop="20200313013000 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 16</title>
-    <desc lang="en">A complete nutritional superfood beverage!  营养价值丰富的谷粮饮料，为你补充体力、增强活力！</desc>
-  </programme>
-  <programme start="20200313013000 +0800" stop="20200313020000 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 8</title>
-    <desc lang="en">Eating healthy goes a long way, watch on to find out how to incorporate this green diet smoothie into your meals.  想补充养分、膳食纤维同时维持身段？不妨喝蔬果饮料当代餐吧！</desc>
-  </programme>
-  <programme start="20200313020000 +0800" stop="20200313023000 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 5</title>
-    <desc lang="en">A perfect blender that can handle it all! Learn from our hosts as they use this blender to prepare healthy meals quickly and swiftly. 讲究健康的你，也许需要一台搅拌器帮你快速准备养身食材。</desc>
-  </programme>
-  <programme start="20200313023000 +0800" stop="20200313110000 +0800" channel="Channel U">
-    <title lang="en">End of Transmission</title>
-  </programme>
-  <programme start="20200313110000 +0800" stop="20200313113000 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 3</title>
-    <desc lang="en">Discover how you can wake up every morning glowing and refreshed as our hosts prove how a comfortable pillow is key for a good night's sleep.  好的枕头能让你一觉醒来精神抖擞、容光焕发。来，躺躺看吧!</desc>
   </programme>
   <programme start="20200313113000 +0800" stop="20200313120000 +0800" channel="Channel U">
     <title lang="en">好货驾到 Deals For Joy - EP 4</title>
@@ -7296,469 +7153,425 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IQFUR_series.jpg" />
     <episode-num system="xmltv_ns">.329.</episode-num>
   </programme>
-  <programme start="20200313000000 +0800" stop="20200313003000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313000000 +0800" stop="20200313003000 +0800" channel="Berita RTM">
     <title lang="en">Berita Tengah Malam</title>
     <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200313003000 +0800" stop="20200313010000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313003000 +0800" stop="20200313010000 +0800" channel="Berita RTM">
     <title lang="en">Biz Malaysia</title>
     <desc lang="en">Dapatkan maklumat-maklumat semasa dan terkini mengenai ekonomi Malaysia dalam Biz Malaysia</desc>
   </programme>
-  <programme start="20200313010000 +0800" stop="20200313013000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313010000 +0800" stop="20200313013000 +0800" channel="Berita RTM">
     <title lang="en">Pastikan Sahih</title>
     <desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan sahih serta mencari kebenaran tentang berita-berita yang tular di media sosial</desc>
   </programme>
-  <programme start="20200313013000 +0800" stop="20200313023000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313013000 +0800" stop="20200313023000 +0800" channel="Berita RTM">
     <title lang="en">Naratif Tersembunyi</title>
     <desc lang="en">Sebuah program majalah yang memaparkan sejarah serta keunikan kawasan di Malaysia</desc>
   </programme>
-  <programme start="20200313023000 +0800" stop="20200313033000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313023000 +0800" stop="20200313033000 +0800" channel="Berita RTM">
     <title lang="en">Hamparan Alam</title>
     <desc lang="en">Bersama pengacara Shikin Kamal mengunjungi ke tempat-tempat menarik di dalam negara serta mengetahui keunikan di sesuatu kawasan tersebut</desc>
   </programme>
-  <programme start="20200313033000 +0800" stop="20200313043000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313033000 +0800" stop="20200313043000 +0800" channel="Berita RTM">
     <title lang="en">Evo Rasa</title>
     <desc lang="en">Evolusi perniagaan makanan dalam program Evo Rasa. Memaparkan asal-usul sejarah makanan dan pelbagai jenis makanan Malaysia mengikut selera tempatan dan kawasan tertentu</desc>
   </programme>
-  <programme start="20200313043000 +0800" stop="20200313053000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313043000 +0800" stop="20200313053000 +0800" channel="Berita RTM">
     <title lang="en">Ruwa Seni Bina Islam</title>
     <desc lang="en">Memaparkan keindahan masjid dan surau di negara kita dari segi hiasan luaran dan dalaman. Turut menyentuh dan berkongsi tentang sejarah pembinaan masjid dan surau</desc>
   </programme>
-  <programme start="20200313053000 +0800" stop="20200313063000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313053000 +0800" stop="20200313063000 +0800" channel="Berita RTM">
     <title lang="en">Langit Biru</title>
     <desc lang="en">Program dokumentari  yang menyaksikan sejarah dan lokasi-lokasi menarik di Indonesia</desc>
   </programme>
-  <programme start="20200313063000 +0800" stop="20200313070000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313063000 +0800" stop="20200313070000 +0800" channel="Berita RTM">
     <title lang="en">Destinasi Agung</title>
     <desc lang="en">Ikuti travelog yang membawa penonton mengetahui tentang keunikan seni bina serta sejarah sesebuah masjid atau surau terpilih termasuk sejarah, makam serta aktiviti yang dijalankan di masjid tersebut</desc>
   </programme>
-  <programme start="20200313070000 +0800" stop="20200313073000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313070000 +0800" stop="20200313073000 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi</title>
     <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda</desc>
   </programme>
-  <programme start="20200313073000 +0800" stop="20200313074500 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313073000 +0800" stop="20200313074500 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi Sabah</title>
     <desc lang="en">Saksikan berita pagi dari Sabah yang memaparkan perkembangan terkini serta isu-isu semasa</desc>
   </programme>
-  <programme start="20200313074500 +0800" stop="20200313080000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313074500 +0800" stop="20200313080000 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi Sarawak</title>
     <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200313080000 +0800" stop="20200313100000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313080000 +0800" stop="20200313100000 +0800" channel="Berita RTM">
     <title lang="en">Selamat Pagi Malaysia</title>
     <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita</desc>
   </programme>
-  <programme start="20200313100000 +0800" stop="20200313103000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313100000 +0800" stop="20200313103000 +0800" channel="Berita RTM">
     <title lang="en">Tersembunyi</title>
     <desc lang="en">Sebuah program yang memaparkan tentang kesihatan serta kupasan mengenai sesuatu penyakit</desc>
   </programme>
-  <programme start="20200313103000 +0800" stop="20200313110000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313103000 +0800" stop="20200313110000 +0800" channel="Berita RTM">
     <title lang="en">Inspirasi dan Perjuangan</title>
     <desc lang="en">Memaparkan kisah inspirasi dan perjuangan tokoh-tokoh yang berjaya melestarikan impian hidup bagi membantu masyarakat</desc>
   </programme>
-  <programme start="20200313110000 +0800" stop="20200313113000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313110000 +0800" stop="20200313113000 +0800" channel="Berita RTM">
     <title lang="en">Santri Serumpun</title>
     <desc lang="en">Program kembara ke Pusat-Pusat Pengajian Agama di Indonesia</desc>
   </programme>
-  <programme start="20200313113000 +0800" stop="20200313120000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313113000 +0800" stop="20200313120000 +0800" channel="Berita RTM">
     <title lang="en">Jejak Halal Asean</title>
     <desc lang="en">Sebuah travelog yang meneroka kepelbagaian budaya dan kehidupan masyarakat islam dinegara-negara asean. Episod kali ini, Jejak Halal Asean menjejaki Jogjakarta, Indonesia</desc>
   </programme>
-  <programme start="20200313120000 +0800" stop="20200313122000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313120000 +0800" stop="20200313122000 +0800" channel="Berita RTM">
     <title lang="en">Berita Mandarin</title>
     <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200313122000 +0800" stop="20200313123000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313122000 +0800" stop="20200313123000 +0800" channel="Berita RTM">
     <title lang="en">Galeri Nasional Mandarin</title>
     <desc lang="en">Rancangan berbentuk majalah berbahasaMandarinyang mengupas kegiatan semasa masyarakat</desc>
   </programme>
-  <programme start="20200313123000 +0800" stop="20200313130000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313123000 +0800" stop="20200313130000 +0800" channel="Berita RTM">
     <title lang="en">Update@Noon</title>
     <desc lang="en">Saksikan berita bahasa Inggeris yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200313130000 +0800" stop="20200313140000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313130000 +0800" stop="20200313140000 +0800" channel="Berita RTM">
     <title lang="en">Ruwa Seni Bina Islam</title>
     <desc lang="en">Memaparkan keindahan masjid dan surau di negara kita dari segi hiasan luaran dan dalaman. Turut menyentuh dan berkongsi tentang sejarah pembinaan masjid dan surau</desc>
   </programme>
-  <programme start="20200313140000 +0800" stop="20200313143000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313140000 +0800" stop="20200313143000 +0800" channel="Berita RTM">
     <title lang="en">Puncak Asean</title>
     <desc lang="en">Jom! Saksikan Jack Hafiz ke beberapa lokasi menarik di Vietnam sebelum menawan puncak Gunung Fansipan</desc>
   </programme>
-  <programme start="20200313143000 +0800" stop="20200313150000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313143000 +0800" stop="20200313150000 +0800" channel="Berita RTM">
     <title lang="en">Destinasi Agung</title>
     <desc lang="en">Ikuti travelog yang membawa penonton mengetahui tentang keunikan seni bina serta sejarah sesebuah masjid atau surau terpilih termasuk sejarah, makam serta aktiviti yang dijalankan di masjid tersebut</desc>
   </programme>
-  <programme start="20200313150000 +0800" stop="20200313153000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313150000 +0800" stop="20200313153000 +0800" channel="Berita RTM">
     <title lang="en">OneNews</title>
     <desc lang="en">Memaparkan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200313153000 +0800" stop="20200313160000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313153000 +0800" stop="20200313160000 +0800" channel="Berita RTM">
     <title lang="en">Ustaz Ronda-Ronda</title>
     <desc lang="en">Bersama hos Syed Iqmal melawat lokasi menarik dalam masa yang sama membincangkan topik 'Keliru'</desc>
   </programme>
-  <programme start="20200313160000 +0800" stop="20200313170000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313160000 +0800" stop="20200313170000 +0800" channel="Berita RTM">
     <title lang="en">Bicara Naratif (Ulangan)</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan</desc>
   </programme>
-  <programme start="20200313170000 +0800" stop="20200313180000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313170000 +0800" stop="20200313180000 +0800" channel="Berita RTM">
     <title lang="en">Berita Wilayah</title>
     <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa</desc>
   </programme>
-  <programme start="20200313180000 +0800" stop="20200313183000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313180000 +0800" stop="20200313183000 +0800" channel="Berita RTM">
     <title lang="en">Biz Malaysia</title>
     <desc lang="en">Dapatkan maklumat-maklumat semasa dan terkini mengenai ekonomi Malaysia dalam Biz Malaysia</desc>
   </programme>
-  <programme start="20200313183000 +0800" stop="20200313190000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313183000 +0800" stop="20200313190000 +0800" channel="Berita RTM">
     <title lang="en">Pastikan Sahih</title>
     <desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral dalam media social</desc>
   </programme>
-  <programme start="20200313190000 +0800" stop="20200313193000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313190000 +0800" stop="20200313193000 +0800" channel="Berita RTM">
     <title lang="en">Berita Mandarin</title>
     <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200313193000 +0800" stop="20200313200000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313193000 +0800" stop="20200313200000 +0800" channel="Berita RTM">
     <title lang="en">Berita Tamil</title>
     <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200313200000 +0800" stop="20200313210000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313200000 +0800" stop="20200313210000 +0800" channel="Berita RTM">
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200313210000 +0800" stop="20200313220000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313210000 +0800" stop="20200313220000 +0800" channel="Berita RTM">
     <title lang="en">Siaran Langsung : Bicara Naratif</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan</desc>
   </programme>
-  <programme start="20200313220000 +0800" stop="20200313223000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313220000 +0800" stop="20200313223000 +0800" channel="Berita RTM">
     <title lang="en">Biz Malaysia</title>
     <desc lang="en">Dapatkan maklumat-maklumat semasa dan terkini mengenai ekonomi Malaysia dalam Biz Malaysia</desc>
   </programme>
-  <programme start="20200313223000 +0800" stop="20200313230000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313223000 +0800" stop="20200313230000 +0800" channel="Berita RTM">
     <title lang="en">Pastikan Sahih</title>
     <desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan sahih serta mencari kebenaran tentang berita-berita yang tular di media sosial</desc>
   </programme>
-  <programme start="20200313230000 +0800" stop="20200313233000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313230000 +0800" stop="20200313233000 +0800" channel="Berita RTM">
     <title lang="en">BES Dunia</title>
     <desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia</desc>
   </programme>
-  <programme start="20200313233000 +0800" stop="20200313235900 +0800" channel="Saluran Berita RTM">
+  <programme start="20200313233000 +0800" stop="20200313235900 +0800" channel="Berita RTM">
     <title lang="en">Kes Fail Syed Azmi</title>
     <desc lang="en">Episod kali ini bersama Syed Azmi Al-Habshi mengupas tentang kes liwat</desc>
   </programme>
-  <programme start="20200314003000 +0800" stop="20200314010000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314003000 +0800" stop="20200314010000 +0800" channel="Berita RTM">
     <title lang="en">Biz Malaysia</title>
     <desc lang="en">Dapatkan maklumat-maklumat semasa dan terkini mengenai ekonomi Malaysia dalam Biz Malaysia</desc>
   </programme>
-  <programme start="20200314010000 +0800" stop="20200314013000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314010000 +0800" stop="20200314013000 +0800" channel="Berita RTM">
     <title lang="en">Pastikan Sahih</title>
     <desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan sahih serta mencari kebenaran tentang berita-berita yang tular di media sosial</desc>
   </programme>
-  <programme start="20200314013000 +0800" stop="20200314023000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314013000 +0800" stop="20200314023000 +0800" channel="Berita RTM">
     <title lang="en">Kenali Sempadan</title>
     <desc lang="en">Bersama Arja Lee menjelajah ke beberapa buah daerah yang bersempadan antara negeri-negeri dan mengenali keunikan dan keistimewaan sosiobudaya, sosioekonomi, bentuk muka bumi dan dialek pertuturan di sesuatu kawasan termasuk di sempadan Thailand, Brunei dan Indonesia secara lebih dekat</desc>
   </programme>
-  <programme start="20200314023000 +0800" stop="20200314033000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314023000 +0800" stop="20200314033000 +0800" channel="Berita RTM">
     <title lang="en">Naratif Tersembunyi</title>
     <desc lang="en">Sebuah program majalah yang memaparkan sejarah serta keunikan kawasan di Malaysia</desc>
   </programme>
-  <programme start="20200314033000 +0800" stop="20200314043000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314033000 +0800" stop="20200314043000 +0800" channel="Berita RTM">
     <title lang="en">Hamparan Alam</title>
     <desc lang="en">Bersama pengacara Shikin Kamal mengunjungi ke tempat-tempat menarik di dalam negara serta mengetahui keunikan di sesuatu kawasan tersebut</desc>
   </programme>
-  <programme start="20200314043000 +0800" stop="20200314053000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314043000 +0800" stop="20200314053000 +0800" channel="Berita RTM">
     <title lang="en">Evo Rasa</title>
     <desc lang="en">Evolusi perniagaan makanan dalam program Evo Rasa. Memaparkan asal-usul sejarah makanan dan pelbagai jenis makanan Malaysia mengikut selera tempatan dan kawasan tertentu</desc>
   </programme>
-  <programme start="20200314053000 +0800" stop="20200314063000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314053000 +0800" stop="20200314063000 +0800" channel="Berita RTM">
     <title lang="en">Ruwa Seni Bina Islam</title>
     <desc lang="en">Memaparkan keindahan masjid dan surau di negara kita dari segi hiasan luaran dan dalaman. Turut menyentuh dan berkongsi tentang sejarah pembinaan masjid dan surau</desc>
   </programme>
-  <programme start="20200314063000 +0800" stop="20200314070000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314063000 +0800" stop="20200314070000 +0800" channel="Berita RTM">
     <title lang="en">Jelajah Hati</title>
     <desc lang="en">Memaparkan kisah perjalanan Faizal Tahir dalam misinya cuba menjejaki dan berkongsi mengenai makam-makam tersohor dan masjid-masjid bersejarah di Pulau Jawa</desc>
   </programme>
-  <programme start="20200314070000 +0800" stop="20200314073000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314070000 +0800" stop="20200314073000 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi</title>
     <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda</desc>
   </programme>
-  <programme start="20200314073000 +0800" stop="20200314074500 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314073000 +0800" stop="20200314074500 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi Sabah</title>
     <desc lang="en">Saksikan berita pagi dari Sabah yang memaparkan perkembangan terkini serta isu-isu semasa</desc>
   </programme>
-  <programme start="20200314074500 +0800" stop="20200314080000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314074500 +0800" stop="20200314080000 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi Sarawak</title>
     <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200314080000 +0800" stop="20200314100000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314080000 +0800" stop="20200314100000 +0800" channel="Berita RTM">
     <title lang="en">Selamat Pagi Malaysia</title>
     <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita</desc>
   </programme>
-  <programme start="20200314100000 +0800" stop="20200314103000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314100000 +0800" stop="20200314103000 +0800" channel="Berita RTM">
     <title lang="en">Smart Parents</title>
     <desc lang="en">Sebuah rancangan motivasi tv yang akan membincangkan tentang tips ibu-bapa bijak anak hebat. Episod kali ini membincangkan topik 'Biar Anak Sukar Diurus Asalkan Mereka Menjadi Genius' bersama hos Zaid Mohamad</desc>
   </programme>
-  <programme start="20200314103000 +0800" stop="20200314110000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314103000 +0800" stop="20200314110000 +0800" channel="Berita RTM">
     <title lang="en">3 Ke 5 Jer</title>
     <desc lang="en">Rancangan travelog yang dihoskan oleh Nadia Hasnan memperkenalkan lokasi yang lebih indah lagi dengan konsep sama, bermodalkan bajet antara RM300 hingga RM500, anda berpeluang bercuti ke destinasi percutian menarik dalam negara pilihan anda</desc>
   </programme>
-  <programme start="20200314110000 +0800" stop="20200314120000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314110000 +0800" stop="20200314120000 +0800" channel="Berita RTM">
     <title lang="en">Pesona XY</title>
     <desc lang="en">Program yang membicarakan mengenai isu semasa dan kemasyarakatan</desc>
   </programme>
-  <programme start="20200314120000 +0800" stop="20200314123000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314120000 +0800" stop="20200314123000 +0800" channel="Berita RTM">
     <title lang="en">Berita Mandarin</title>
     <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200314123000 +0800" stop="20200314130000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314123000 +0800" stop="20200314130000 +0800" channel="Berita RTM">
     <title lang="en">Update@Noon</title>
     <desc lang="en">Saksikan berita bahasa Inggeris yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200314130000 +0800" stop="20200314133000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314130000 +0800" stop="20200314133000 +0800" channel="Berita RTM">
     <title lang="en">Berita Tengah Hari</title>
     <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200314133000 +0800" stop="20200314140000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314133000 +0800" stop="20200314140000 +0800" channel="Berita RTM">
     <title lang="en">Berita Tamil</title>
     <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200314140000 +0800" stop="20200314150000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314140000 +0800" stop="20200314150000 +0800" channel="Berita RTM">
     <title lang="en">Wira</title>
     <desc lang="en">Wira episod kali ini bersama hos Fazleena Hishamudin menyulusuri perjuangan Rosli Dhoby</desc>
   </programme>
-  <programme start="20200314150000 +0800" stop="20200314153000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314150000 +0800" stop="20200314153000 +0800" channel="Berita RTM">
     <title lang="en">Lensa IPT</title>
     <desc lang="en">Program yang memaparkan perkembangan semasa dunia Institusi Pengajian Tinggi Awam (IPTA) di Malaysia</desc>
   </programme>
-  <programme start="20200314153000 +0800" stop="20200314160000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314153000 +0800" stop="20200314160000 +0800" channel="Berita RTM">
     <title lang="en">Warna Warni Asean</title>
     <desc lang="en">Pada episod kali ini, hos Nik Michael Imran akan membawa anda menyaksikan keindahan Pesta Tanglung Taiwan</desc>
   </programme>
-  <programme start="20200314160000 +0800" stop="20200314170000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314160000 +0800" stop="20200314170000 +0800" channel="Berita RTM">
     <title lang="en">Vasantham</title>
     <desc lang="en">Program bual bicara berbahasa Tamil membincangkan isu semasa bersama tetamu undangan  di studio</desc>
   </programme>
-  <programme start="20200314170000 +0800" stop="20200314180000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314170000 +0800" stop="20200314180000 +0800" channel="Berita RTM">
     <title lang="en">Berita Wilayah</title>
     <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa</desc>
   </programme>
-  <programme start="20200314180000 +0800" stop="20200314183000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314180000 +0800" stop="20200314183000 +0800" channel="Berita RTM">
     <title lang="en">Bakul Telur Emas</title>
     <desc lang="en">Bakul Telur Emas pada minggu ini membincangkan tentang topik Puaka Saka Pusaka bersama Irda Rina seorang Pakar Perunding Kewangan</desc>
   </programme>
-  <programme start="20200314183000 +0800" stop="20200314190000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314183000 +0800" stop="20200314190000 +0800" channel="Berita RTM">
     <title lang="en">Terowong Rahsia Melaka</title>
     <desc lang="en">Perjalanan Dr. Nasa dalam membuktikan wujudnya terowong rahsia Melaka membawa beliau ke Pulau Nangka untuk mengkaji wujudnya perbendaharaan Melaka di Pulau Nangka</desc>
   </programme>
-  <programme start="20200314190000 +0800" stop="20200314193000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314190000 +0800" stop="20200314193000 +0800" channel="Berita RTM">
     <title lang="en">Berita Mandarin</title>
     <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200314193000 +0800" stop="20200314200000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314193000 +0800" stop="20200314200000 +0800" channel="Berita RTM">
     <title lang="en">Berita Tamil</title>
     <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200314200000 +0800" stop="20200314210000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314200000 +0800" stop="20200314210000 +0800" channel="Berita RTM">
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200314210000 +0800" stop="20200314213000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314210000 +0800" stop="20200314213000 +0800" channel="Berita RTM">
     <title lang="en">#Sayang (14 Mac 2020)</title>
     <desc lang="en">Program berbentuk majalah yang memaparkan aktiviti kemasyarakatan dan CSR di dalam negara. Episod kali ini memaparkan topik Jarang Jumpa? Seiring peredaran zaman dan pembangunan yang pesat, kini telah timbul satu masalah kesihatan yang agak serius dan membimbangkan bagi setiap lapisan masyarakat seawal peringkat bayi lagi yang dikenali sebagai Penyakit Jarang Jumpa</desc>
   </programme>
-  <programme start="20200314213000 +0800" stop="20200314220000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314213000 +0800" stop="20200314220000 +0800" channel="Berita RTM">
     <title lang="en">Teknologi Nano</title>
     <desc lang="en">Program majalah yang memaparkan penggunaan teknologi nano dalam penghasilan sesuatu produk dan teknologi</desc>
   </programme>
-  <programme start="20200314220000 +0800" stop="20200314223000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314220000 +0800" stop="20200314223000 +0800" channel="Berita RTM">
     <title lang="en">3 Ke 5 Jerr</title>
     <desc lang="en">Sebuah rancangan tempatan yang berkonsepkan percutian dengan bajet yang ditetapkan antara RM300 hingga RM500</desc>
   </programme>
-  <programme start="20200314223000 +0800" stop="20200314230000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314223000 +0800" stop="20200314230000 +0800" channel="Berita RTM">
     <title lang="en">Pantau</title>
     <desc lang="en">Memaparkan tentang teknologi sistem Bio Metrik yang digunakan sebagai sistem kawalan peranti akses untuk keselamatan dan alat pemantauan yang canggih</desc>
   </programme>
-  <programme start="20200314230000 +0800" stop="20200314233000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314230000 +0800" stop="20200314233000 +0800" channel="Berita RTM">
     <title lang="en">Suara Malaysia</title>
     <desc lang="en">Program bual bicara yang mengupas isu-isu semasa secara santai dan mengulas perkembangan semasa dalam media sosial</desc>
   </programme>
-  <programme start="20200314233000 +0800" stop="20200314235900 +0800" channel="Saluran Berita RTM">
+  <programme start="20200314233000 +0800" stop="20200314235900 +0800" channel="Berita RTM">
     <title lang="en">Kontra Analisa</title>
     <desc lang="en">Bersama hos Riz Ismail mengupas isu pergaulan bebas dalam kalangan remaja</desc>
   </programme>
-  <programme start="20200315003000 +0800" stop="20200315013000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315003000 +0800" stop="20200315013000 +0800" channel="Berita RTM">
     <title lang="en">Langit Biru</title>
     <desc lang="en">Program dokumentari  yang menyaksikan sejarah dan lokasi-lokasi menarik di Indonesia</desc>
   </programme>
-  <programme start="20200315013000 +0800" stop="20200315023000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315013000 +0800" stop="20200315023000 +0800" channel="Berita RTM">
     <title lang="en">Renjer</title>
     <desc lang="en">Saksikan tugas &amp; peranan renjer yang bertanggungjawab melaksana dan memantau kawasan rizab hutan hujan tropika</desc>
   </programme>
-  <programme start="20200315023000 +0800" stop="20200315033000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315023000 +0800" stop="20200315033000 +0800" channel="Berita RTM">
     <title lang="en">Kenali Sempadan</title>
     <desc lang="en">Bersama Arjaa Lee mengenali dan menjelajahi sempadan negeri-negeri di Malaysia, antaranya Sempadan antara Negeri Selangor dan Pahang, Sempadan antara Negeri Selangor dan Negeri Sembilan dan lain-lain. Rancangan ini memaparkan sejarah, tempat-tempat menarik dan budaya yang wujud di daerah sempadan</desc>
   </programme>
-  <programme start="20200315033000 +0800" stop="20200315043000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315033000 +0800" stop="20200315043000 +0800" channel="Berita RTM">
     <title lang="en">Naratif Tersembunyi</title>
     <desc lang="en">Sebuah program majalah yang memaparkan sejarah serta keunikan kawasan di Malaysia</desc>
   </programme>
-  <programme start="20200315043000 +0800" stop="20200315053000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315043000 +0800" stop="20200315053000 +0800" channel="Berita RTM">
     <title lang="en">Hamparan Alam</title>
     <desc lang="en">Bersama pengacara Shikin Kamal mengunjungi ke tempat-tempat menarik di dalam negara serta mengetahui keunikan di sesuatu kawasan tersebut</desc>
   </programme>
-  <programme start="20200315053000 +0800" stop="20200315063000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315053000 +0800" stop="20200315063000 +0800" channel="Berita RTM">
     <title lang="en">Evo Rasa</title>
     <desc lang="en">Evolusi perniagaan makanan dalam program Evo Rasa. Memaparkan asal-usul sejarah makanan dan pelbagai jenis makanan Malaysia mengikut selera tempatan dan kawasan tertentu</desc>
   </programme>
-  <programme start="20200315063000 +0800" stop="20200315070000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315063000 +0800" stop="20200315070000 +0800" channel="Berita RTM">
     <title lang="en">Gelanggang</title>
     <desc lang="en">Program yang memaparkan seni mempertahankan diri daripada Pertubuhan Seni Silat Lintau Asli Malaysia</desc>
   </programme>
-  <programme start="20200315070000 +0800" stop="20200315073000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315070000 +0800" stop="20200315073000 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi</title>
     <desc lang="en">Membawa berita-berita menyeluruh  dan terkini di seluruh Malaysia khas untuk anda</desc>
   </programme>
-  <programme start="20200315073000 +0800" stop="20200315074500 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315073000 +0800" stop="20200315074500 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi Sabah</title>
     <desc lang="en">Saksikan berita pagi dari Sabah yang memaparkan perkembangan terkini serta isu-isu semasa</desc>
   </programme>
-  <programme start="20200315074500 +0800" stop="20200315080000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315074500 +0800" stop="20200315080000 +0800" channel="Berita RTM">
     <title lang="en">Berita Pagi Sarawak</title>
     <desc lang="en">Saksikan Berita Pagi Sarawak memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200315080000 +0800" stop="20200315100000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315080000 +0800" stop="20200315100000 +0800" channel="Berita RTM">
     <title lang="en">Selamat Pagi Malaysia</title>
     <desc lang="en">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita</desc>
   </programme>
-  <programme start="20200315100000 +0800" stop="20200315103000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315100000 +0800" stop="20200315103000 +0800" channel="Berita RTM">
     <title lang="en">Inspirasi Tauke Muda</title>
     <desc lang="en">Pada episod kali ini, Inspirasi Tauke Muda menceritakan pengalaman dan cabaran seorang tauke muda iaitu Mohd Jeffrey Mohd Ali (Pemilik MJMA Cats Motel &amp; Spa) bersama hos Hana Hussain</desc>
   </programme>
-  <programme start="20200315103000 +0800" stop="20200315110000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315103000 +0800" stop="20200315110000 +0800" channel="Berita RTM">
     <title lang="en">Psikosis</title>
     <desc lang="en">Psikosis adalah sebuah rancangan yang memaparkan kisah-kisah, pengalaman dan rawatan tentang pelbagai penyakit mental bersama hos Aiman Amri. Psikosis pada minggu ini memaparkan tentang penyakit Kecelaruan Personaliti ataupun Borderline Personality Disorder (BPD)</desc>
   </programme>
-  <programme start="20200315110000 +0800" stop="20200315120000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315110000 +0800" stop="20200315120000 +0800" channel="Berita RTM">
     <title lang="en">Fresh Brew</title>
     <desc lang="en">Program bual bicara berbahasa Inggeris yang memaparkan pelbagai segmen menarik seperti Animal Diary, Sweet Tooth, Hobby Mania dengan topik perbincangan seperti kesihatan, keluarga dan gaya hidup</desc>
   </programme>
-  <programme start="20200315120000 +0800" stop="20200315123000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315120000 +0800" stop="20200315123000 +0800" channel="Berita RTM">
     <title lang="en">Berita Mandarin</title>
     <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200315123000 +0800" stop="20200315130000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315123000 +0800" stop="20200315130000 +0800" channel="Berita RTM">
     <title lang="en">World Around US</title>
     <desc lang="en">Rangkuman peristiwa menarik sekitar negara-negara Asean</desc>
   </programme>
-  <programme start="20200315130000 +0800" stop="20200315133000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315130000 +0800" stop="20200315133000 +0800" channel="Berita RTM">
     <title lang="en">Berita Tengah Hari</title>
     <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200315133000 +0800" stop="20200315140000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315133000 +0800" stop="20200315140000 +0800" channel="Berita RTM">
     <title lang="en">Berita Tamil</title>
     <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200315140000 +0800" stop="20200315150000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315140000 +0800" stop="20200315150000 +0800" channel="Berita RTM">
     <title lang="en">Wira Remaja</title>
     <desc lang="en">Bersama hos Izzue Islam dan Amira Aman bersama tetamu wira wira remaja dalam 4 segmen    1. Kisahku : Anastasia - Juru Pandu Arah Gunung  2. Rahsia Berjaya : Mohd Amer Harris - Pelumba Go Kart 3. Motivasi dan Inspirasi : Mohd Danial - Usahawan Logistik 4. Yezza : Pak Teh Naim - Miniature Rumah</desc>
   </programme>
-  <programme start="20200315150000 +0800" stop="20200315153000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315150000 +0800" stop="20200315153000 +0800" channel="Berita RTM">
     <title lang="en">Luar Daripada Kebiasaan</title>
     <desc lang="en">Luar Daripada Kebiasaan adalah sebuah program yang akan memberikan motivasi dan inspirasi melalui kisah dan cerita daripada tetamu OKU dan kanak kanak cilik yang hadir. Tetamu pada minggu ini Mohd Sukur bin Ibrahim, Usahwan OKU dan Pakar Motivasi bersama isteri Wan Nurul Syazwani Wan Mohd Yen dan adik Muhammad Imran Ismail, Atlet Basikal Tolak</desc>
   </programme>
-  <programme start="20200315153000 +0800" stop="20200315160000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315153000 +0800" stop="20200315160000 +0800" channel="Berita RTM">
     <title lang="en">Jelajah Vintaj</title>
     <desc lang="en">Ikuti pengembaraan Dato' Ahmad Tamimi Siregar memburu pelbagai barangan vintaj dalam kembaranya</desc>
   </programme>
-  <programme start="20200315160000 +0800" stop="20200315170000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315160000 +0800" stop="20200315170000 +0800" channel="Berita RTM">
     <title lang="en">What Say You</title>
     <desc lang="en">Program bicarawara berbahasa Mandarin yang membincangkan isu-isu semasa tanah air</desc>
   </programme>
-  <programme start="20200315170000 +0800" stop="20200315180000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315170000 +0800" stop="20200315180000 +0800" channel="Berita RTM">
     <title lang="en">Berita Wilayah</title>
     <desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa</desc>
   </programme>
-  <programme start="20200315180000 +0800" stop="20200315183000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315180000 +0800" stop="20200315183000 +0800" channel="Berita RTM">
     <title lang="en">Cina Muslim Malaysia</title>
     <desc lang="en">Dihoskan oleh Iswan Ismail, episod kali ini hos akan menemuramah pengalaman individu memeluk agama islam. Tetamu episod kali ini ialah Abdul Hadi (Pelajar Kolej Islam Antarabangsa Sultan Ismail Petra), Nor Natasha dan Mohd Sya'ban (Qari dan Qariah Negeri Melaka), dan Alfred Chong (Muallaf)</desc>
   </programme>
-  <programme start="20200315183000 +0800" stop="20200315190000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315183000 +0800" stop="20200315190000 +0800" channel="Berita RTM">
     <title lang="en">Artifak Bersuara</title>
     <desc lang="en">Episod kali ini menyelusuri khazanah bangunan bersejarah  istana lama iaitu Istana Bersejarah Ampang Hilir di Negeri Sembilan dan Istana Bandar Jugra yang terletak di Jugra, Kuala Langat Selangor</desc>
   </programme>
-  <programme start="20200315190000 +0800" stop="20200315193000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315190000 +0800" stop="20200315193000 +0800" channel="Berita RTM">
     <title lang="en">Berita Mandarin</title>
     <desc lang="en">Saksikan berita bahasa Mandarin yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200315193000 +0800" stop="20200315200000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315193000 +0800" stop="20200315200000 +0800" channel="Berita RTM">
     <title lang="en">Berita Tamil</title>
     <desc lang="en">Saksikan Berita Tamil yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200315200000 +0800" stop="20200315210000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315200000 +0800" stop="20200315210000 +0800" channel="Berita RTM">
     <title lang="en">Berita Perdana</title>
     <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara</desc>
   </programme>
-  <programme start="20200315210000 +0800" stop="20200315213000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315210000 +0800" stop="20200315213000 +0800" channel="Berita RTM">
     <title lang="en">Kita Malaysia (15 Mac 2020)</title>
     <desc lang="en">Ikuti topik Doktor Viral yang menampilkan kisah Doktor  Vaterinar yang pernah tular pada suatu ketika dahulu gara-gara sekeping gambar</desc>
   </programme>
-  <programme start="20200315213000 +0800" stop="20200315220000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315213000 +0800" stop="20200315220000 +0800" channel="Berita RTM">
     <title lang="en">Sains &amp; Teknologi</title>
     <desc lang="en">Saksikan paparan menarik program yang berorientasikan inovasi dan teknologi</desc>
   </programme>
-  <programme start="20200315220000 +0800" stop="20200315223000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315220000 +0800" stop="20200315223000 +0800" channel="Berita RTM">
     <title lang="en">Psikosis</title>
     <desc lang="en">Psikosis adalah sebuah rancangan yang memaparkan kisah-kisah, pengalaman dan rawatan tentang pelbagai penyakit mental bersama hos Aiman Amri. Psikosis pada minggu ini memaparkan tentang penyakit Kecelaruan Personaliti ataupun Borderline Personality Disorder (BPD)</desc>
   </programme>
-  <programme start="20200315223000 +0800" stop="20200315230000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315223000 +0800" stop="20200315230000 +0800" channel="Berita RTM">
     <title lang="en">Semanis Cuka</title>
     <desc lang="en">Bersama hos Nazeera Sardi mengupas isu kekeluargaan bersama tetamu Mohamad Abdullah Al-Amin, Noor Azlina Che Hasan dan Nina Fazurina</desc>
   </programme>
-  <programme start="20200315230000 +0800" stop="20200315233000 +0800" channel="Saluran Berita RTM">
+  <programme start="20200315230000 +0800" stop="20200315233000 +0800" channel="Berita RTM">
     <title lang="en">Suara Malaysia</title>
     <desc lang="en">Program bual bicara yang mengupas isu-isu semasa secara santai dan mengulas perkembangan semasa dalam media sosial</desc>
-  </programme>
-  <programme start="20200313010200 +0800" stop="20200313020000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Insight - EP 42</title>
-    <desc lang="en">Will the appointment of Mr Muhyiddin Yassin as Prime Minister herald the return of Malay nationalist politics in Malaysia?</desc>
-  </programme>
-  <programme start="20200313020000 +0800" stop="20200313030000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Singapore Tonight - EP 1</title>
-    <desc lang="en">From business to politics, health to technology, we bring you up-to-date with the latest news on Singapore and analyze how these events may affect you tomorrow</desc>
-  </programme>
-  <programme start="20200313030000 +0800" stop="20200313040000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Undercover Asia - EP 1</title>
-    <desc lang="en">Undercover Asia examines the Hong Kong protests through the lens of those caught in the middle: The police force, once Asia's finest, now - the most hated</desc>
-  </programme>
-  <programme start="20200313040000 +0800" stop="20200313050000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Asia Tonight - EP 1</title>
-    <desc lang="en">CNA's correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on what's happening in one of the most dynamic regions of the world</desc>
-  </programme>
-  <programme start="20200313050000 +0800" stop="20200313060000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Insight - EP 42</title>
-    <desc lang="en">Will the appointment of Mr Muhyiddin Yassin as Prime Minister herald the return of Malay nationalist politics in Malaysia?</desc>
-  </programme>
-  <programme start="20200313060000 +0800" stop="20200313070000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Singapore Tonight - EP 1</title>
-    <desc lang="en">From business to politics, health to technology, we bring you up-to-date with the latest news on Singapore and analyze how these events may affect you tomorrow</desc>
-  </programme>
-  <programme start="20200313070000 +0800" stop="20200313100000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Asia First - EP 1</title>
-    <desc lang="en">You'll wake up to understanding how developments in news and business across the globe overnight impacts you and affects your work day ahead in the Asia Pacific</desc>
-  </programme>
-  <programme start="20200313100000 +0800" stop="20200313100200 +0800" channel="Channel NewsAsia">
-    <title lang="en">Headline News - EP 1</title>
-    <desc lang="en">Update on local and world news</desc>
-  </programme>
-  <programme start="20200313100200 +0800" stop="20200313103000 +0800" channel="Channel NewsAsia">
-    <title lang="en">In Conversation - EP 20</title>
-    <desc lang="en">COVID-19 is disrupting international trade and global supply chains like never before.  Will it now put companies out of business and people out of jobs?</desc>
-  </programme>
-  <programme start="20200313103000 +0800" stop="20200313110000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Walk This Way - EP 2</title>
-    <desc lang="en">Adrian treks through a vast national park, and takes a different walk into the daunting Tu Lan cave system - a sprawling network that's millions of years old and home to the world's largest cave</desc>
-  </programme>
-  <programme start="20200313110000 +0800" stop="20200313123000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Asia Now - EP 1</title>
-    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events</desc>
   </programme>
   <programme start="20200313123000 +0800" stop="20200313130000 +0800" channel="Channel NewsAsia">
     <title lang="en">Walk This Way - EP 1</title>
@@ -9080,6 +8893,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.924.</episode-num>
   </programme>
   <programme start="20200313090200 +0800" stop="20200313100200 +0800" channel="Al Jazeera">
@@ -9087,6 +8901,7 @@
     <desc lang="en">Meet the Syrians - Meet the Kalaji family, one of the last refugee families from Syria to be granted a visa before the Trump travel ban in 2017</desc>
     <category lang="en">News</category>
     <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X162885.jpg" />
     <episode-num system="xmltv_ns">.146.</episode-num>
   </programme>
   <programme start="20200313100200 +0800" stop="20200313113200 +0800" channel="Al Jazeera">
@@ -9147,6 +8962,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.924.</episode-num>
   </programme>
   <programme start="20200313160200 +0800" stop="20200313163200 +0800" channel="Al Jazeera">
@@ -9188,6 +9004,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.924.</episode-num>
   </programme>
   <programme start="20200313200200 +0800" stop="20200313210200 +0800" channel="Al Jazeera">
@@ -9235,6 +9052,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.925.</episode-num>
   </programme>
   <programme start="20200314020200 +0800" stop="20200314033200 +0800" channel="Al Jazeera">
@@ -9249,6 +9067,7 @@
     <desc lang="en">We ask a disease expert about the coronavirus and what can be done to stop it, and discuss why white nationalist ideology is becoming more mainstream</desc>
     <category lang="en">News</category>
     <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X151000.jpg" />
     <episode-num system="xmltv_ns">.84.</episode-num>
   </programme>
   <programme start="20200314040200 +0800" stop="20200314050200 +0800" channel="Al Jazeera">
@@ -9282,6 +9101,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.925.</episode-num>
   </programme>
   <programme start="20200314090200 +0800" stop="20200314100200 +0800" channel="Al Jazeera">
@@ -9334,6 +9154,7 @@
     <desc lang="en">Meet the Syrians - Meet the Kalaji family, one of the last refugee families from Syria to be granted a visa before the Trump travel ban in 2017</desc>
     <category lang="en">News</category>
     <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X162885.jpg" />
     <episode-num system="xmltv_ns">.146.</episode-num>
   </programme>
   <programme start="20200314150200 +0800" stop="20200314153200 +0800" channel="Al Jazeera">
@@ -9348,6 +9169,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.925.</episode-num>
   </programme>
   <programme start="20200314160200 +0800" stop="20200314163200 +0800" channel="Al Jazeera">
@@ -9388,6 +9210,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.925.</episode-num>
   </programme>
   <programme start="20200314200200 +0800" stop="20200314210200 +0800" channel="Al Jazeera">
@@ -9408,6 +9231,7 @@
     <desc lang="en">We ask a disease expert about the coronavirus and what can be done to stop it, and discuss why white nationalist ideology is becoming more mainstream</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X151000.jpg" />
     <episode-num system="xmltv_ns">.84.</episode-num>
   </programme>
   <programme start="20200314230200 +0800" stop="20200315000200 +0800" channel="Al Jazeera">
@@ -9435,6 +9259,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.926.</episode-num>
   </programme>
   <programme start="20200315020200 +0800" stop="20200315033200 +0800" channel="Al Jazeera">
@@ -9481,6 +9306,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.926.</episode-num>
   </programme>
   <programme start="20200315090200 +0800" stop="20200315100200 +0800" channel="Al Jazeera">
@@ -9514,6 +9340,7 @@
     <desc lang="en">We ask a disease expert about the coronavirus and what can be done to stop it, and discuss why white nationalist ideology is becoming more mainstream</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X151000.jpg" />
     <episode-num system="xmltv_ns">.84.</episode-num>
   </programme>
   <programme start="20200315130200 +0800" stop="20200315133200 +0800" channel="Al Jazeera">
@@ -9547,6 +9374,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.926.</episode-num>
   </programme>
   <programme start="20200315160200 +0800" stop="20200315163200 +0800" channel="Al Jazeera">
@@ -9587,6 +9415,7 @@
     <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond</desc>
     <category lang="en">News</category>
     <category lang="en">Discussion / Interview / Debate</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1721X144619.jpg" />
     <episode-num system="xmltv_ns">.926.</episode-num>
   </programme>
   <programme start="20200315200200 +0800" stop="20200315210200 +0800" channel="Al Jazeera">
@@ -10437,301 +10266,6 @@
     <title lang="en">Rewind It: I'm Live</title>
     <category lang="en">Regular</category>
   </programme>
-  <programme start="20200312000000 +0000" stop="20200312003000 +0000" channel="BBC World News">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from London and Singapore, the latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312003000 +0000" stop="20200312004500 +0000" channel="BBC World News">
-    <title lang="en">Asia Business Report</title>
-    <desc lang="en">Live from Singapore, the essential business news as it breaks and a look ahead to the news that will shape the business day</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312004500 +0000" stop="20200312010000 +0000" channel="BBC World News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">All the latest sports news and results from around the globe</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312010000 +0000" stop="20200312013000 +0000" channel="BBC World News">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from London and Singapore, the latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312013000 +0000" stop="20200312014500 +0000" channel="BBC World News">
-    <title lang="en">Asia Business Report</title>
-    <desc lang="en">Live from Singapore, the essential business news as it breaks and a look ahead to the news that will shape the business day</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312014500 +0000" stop="20200312020000 +0000" channel="BBC World News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">All the latest sports news and results from around the globe</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312020000 +0000" stop="20200312023000 +0000" channel="BBC World News">
-    <title lang="en">BBC World News</title>
-    <desc lang="en">The latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312023000 +0000" stop="20200312024500 +0000" channel="BBC World News">
-    <title lang="en">Asia Business Report</title>
-    <desc lang="en">Live from Singapore, the essential business news as it breaks and a look ahead to the news that will shape the business day</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312024500 +0000" stop="20200312030000 +0000" channel="BBC World News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">All the latest sports news and results from around the globe</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312030000 +0000" stop="20200312033000 +0000" channel="BBC World News">
-    <title lang="en">BBC World News</title>
-    <desc lang="en">The latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312033000 +0000" stop="20200312040000 +0000" channel="BBC World News">
-    <title lang="en">Our World: Colombia: The New Cocaine War (R)</title>
-    <desc lang="en">Colombia has long been the world’s largest producer of cocaine. A historic peace deal in 2016 was meant to reduce the amount of cocaine being produced by offering farmers alternatives to growing coca.  But last year the UN estimated that its output was the largest since records began.   Our World travelled to the Cauca Valley to find that farmers are now caught between new criminal gangs with devastating consequences</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312040000 +0000" stop="20200312043000 +0000" channel="BBC World News">
-    <title lang="en">BBC World News</title>
-    <desc lang="en">The latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312043000 +0000" stop="20200312050000 +0000" channel="BBC World News">
-    <title lang="en">Hardtalk</title>
-    <desc lang="en">In-depth interviews with hard-hitting questions and sensitive topics being covered as famous personalities from all walks of life talk about the highs and lows in their lives</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312050000 +0000" stop="20200312053000 +0000" channel="BBC World News">
-    <title lang="en">The Briefing</title>
-    <desc lang="en">The latest news, business and sport from BBC News, plus your need-to-know guide to the big stories coming up today</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312053000 +0000" stop="20200312054500 +0000" channel="BBC World News">
-    <title lang="en">Business Briefing</title>
-    <desc lang="en">The latest economic and financial news, market updates and interviews with the key news-makers in the business world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312054500 +0000" stop="20200312060000 +0000" channel="BBC World News">
-    <title lang="en">The Briefing</title>
-    <desc lang="en">The latest news, business and sport from BBC News, plus your need-to-know guide to the big stories coming up today</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312060000 +0000" stop="20200312063000 +0000" channel="BBC World News">
-    <title lang="en">The Briefing</title>
-    <desc lang="en">The latest news, business and sport from BBC News, plus your need-to-know guide to the big stories coming up today</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312063000 +0000" stop="20200312064500 +0000" channel="BBC World News">
-    <title lang="en">Business Briefing</title>
-    <desc lang="en">The latest economic and financial news, market updates and interviews with the key news-makers in the business world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312064500 +0000" stop="20200312070000 +0000" channel="BBC World News">
-    <title lang="en">The Briefing</title>
-    <desc lang="en">The latest news, business and sport from BBC News, plus your need-to-know guide to the big stories coming up today</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312070000 +0000" stop="20200312073000 +0000" channel="BBC World News">
-    <title lang="en">BBC World News</title>
-    <desc lang="en">The latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312073000 +0000" stop="20200312074500 +0000" channel="BBC World News">
-    <title lang="en">BBC World News</title>
-    <desc lang="en">The latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312074500 +0000" stop="20200312080000 +0000" channel="BBC World News">
-    <title lang="en">World Business Report</title>
-    <desc lang="en">The latest business news with informed analysis from the world's financial centres</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312080000 +0000" stop="20200312083000 +0000" channel="BBC World News">
-    <title lang="en">BBC World News</title>
-    <desc lang="en">The latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312083000 +0000" stop="20200312090000 +0000" channel="BBC World News">
-    <title lang="en">Worklife</title>
-    <desc lang="en">Global business stories and what they mean for you</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312090000 +0000" stop="20200312093000 +0000" channel="BBC World News">
-    <title lang="en">Live With Lucy Hockings</title>
-    <desc lang="en">Lucy Hockings takes you to the key news events as they happen, live around the globe, with guests and the BBC's correspondents</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312093000 +0000" stop="20200312100500 +0000" channel="BBC World News">
-    <title lang="en">Hardtalk (R)</title>
-    <desc lang="en">In-depth interviews with hard-hitting questions and sensitive topics being covered as famous personalities from all walks of life talk about the highs and lows in their lives</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312100500 +0000" stop="20200312103000 +0000" channel="BBC World News">
-    <title lang="en">Click (R)</title>
-    <desc lang="en">The most anticipated video game of the last decade finally releases in March 2020. Half Life: Alyx is only playable using virtual reality kit</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312103000 +0000" stop="20200312110000 +0000" channel="BBC World News">
-    <title lang="en">Talking Business Africa (R) -Senegal</title>
-    <desc lang="en">Senegal is a country that is quickly becoming a preferred destination for investments in the Sahel region</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312110000 +0000" stop="20200312113000 +0000" channel="BBC World News">
-    <title lang="en">Live With Lucy Hockings</title>
-    <desc lang="en">Lucy Hockings takes you to the key news events as they happen, live around the globe, with guests and the BBC's correspondents</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312113000 +0000" stop="20200312114500 +0000" channel="BBC World News">
-    <title lang="en">World Business Report</title>
-    <desc lang="en">The latest business news with informed analysis from the world's financial centres</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312114500 +0000" stop="20200312120000 +0000" channel="BBC World News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">All the latest sports news and results from around the globe</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312120000 +0000" stop="20200312123000 +0000" channel="BBC World News">
-    <title lang="en">Live With Lucy Hockings</title>
-    <desc lang="en">Lucy Hockings takes you to the key news events as they happen, live around the globe, with guests and the BBC's correspondents</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312123000 +0000" stop="20200312130000 +0000" channel="BBC World News">
-    <title lang="en">Live With Lucy Hockings</title>
-    <desc lang="en">Lucy Hockings takes you to the key news events as they happen, live around the globe, with guests and the BBC's correspondents</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312130000 +0000" stop="20200312133000 +0000" channel="BBC World News">
-    <title lang="en">Impact</title>
-    <desc lang="en">Global news as it affects audiences in Asia. With breaking news, debate and analysis, using the full range of BBC Correspondents from the Asia Pacific nations and across the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312133000 +0000" stop="20200312134500 +0000" channel="BBC World News">
-    <title lang="en">Impact</title>
-    <desc lang="en">Global news as it affects audiences in Asia. With breaking news, debate and analysis, using the full range of BBC Correspondents from the Asia Pacific nations and across the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312134500 +0000" stop="20200312140000 +0000" channel="BBC World News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">All the latest sports news and results from around the globe</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312140000 +0000" stop="20200312143000 +0000" channel="BBC World News">
-    <title lang="en">Impact</title>
-    <desc lang="en">Global news as it affects audiences in Asia. With breaking news, debate and analysis, using the full range of BBC Correspondents from the Asia Pacific nations and across the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312143000 +0000" stop="20200312150000 +0000" channel="BBC World News">
-    <title lang="en">Talking Business With Aaron Heslehurst</title>
-    <desc lang="en">Talking Business with Aaron Heslehurst brings you global business news, whether it's happening in the boardroom or at the grass roots</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312150000 +0000" stop="20200312153000 +0000" channel="BBC World News">
-    <title lang="en">Impact</title>
-    <desc lang="en">Global news as it affects audiences in Asia. With breaking news, debate and analysis, using the full range of BBC Correspondents from the Asia Pacific nations and across the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312153000 +0000" stop="20200312160000 +0000" channel="BBC World News">
-    <title lang="en">Hardtalk (R)</title>
-    <desc lang="en">In-depth interviews with hard-hitting questions and sensitive topics being covered as famous personalities from all walks of life talk about the highs and lows in their lives</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312160000 +0000" stop="20200312163000 +0000" channel="BBC World News">
-    <title lang="en">Global With Matthew Amroliwala</title>
-    <desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you - with reports from the BBC's network of correspondents around the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312163000 +0000" stop="20200312170000 +0000" channel="BBC World News">
-    <title lang="en">Coronavirus Explained</title>
-    <desc lang="en">Matthew Amroliwala finds out what Covid-19 is, how it spreads and answers your questions about what action you should take at home, work and when travelling</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312170000 +0000" stop="20200312173000 +0000" channel="BBC World News">
-    <title lang="en">Global With Matthew Amroliwala</title>
-    <desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you - with reports from the BBC's network of correspondents around the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312173000 +0000" stop="20200312180000 +0000" channel="BBC World News">
-    <title lang="en">Focus On Africa</title>
-    <desc lang="en">The biggest African and international stories from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312180000 +0000" stop="20200312181500 +0000" channel="BBC World News">
-    <title lang="en">Global With Matthew Amroliwala</title>
-    <desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you - with reports from the BBC's network of correspondents around the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312181500 +0000" stop="20200312183000 +0000" channel="BBC World News">
-    <title lang="en">Global Business</title>
-    <desc lang="en">Matthew Amroliwala discusses the big issues facing the global economy, and brings breaking news from the world's biggest markets and companies</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312183000 +0000" stop="20200312190000 +0000" channel="BBC World News">
-    <title lang="en">Hardtalk (R)</title>
-    <desc lang="en">In-depth interviews with hard-hitting questions and sensitive topics being covered as famous personalities from all walks of life talk about the highs and lows in their lives</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312190000 +0000" stop="20200312193000 +0000" channel="BBC World News">
-    <title lang="en">Beyond 100 Days</title>
-    <desc lang="en">Katty Kay in Washington and Christian Fraser in London report on the events that are shaping the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312193000 +0000" stop="20200312200000 +0000" channel="BBC World News">
-    <title lang="en">Beyond 100 Days</title>
-    <desc lang="en">Katty Kay in Washington and Christian Fraser in London report on the events that are shaping the world</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312200000 +0000" stop="20200312203000 +0000" channel="BBC World News">
-    <title lang="en">Outside Source</title>
-    <desc lang="en">Ros Atkins with an innovative take on the latest global stories</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312203000 +0000" stop="20200312210000 +0000" channel="BBC World News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">All the latest sports news and results from around the globe</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312210000 +0000" stop="20200312213000 +0000" channel="BBC World News">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312213000 +0000" stop="20200312220000 +0000" channel="BBC World News">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312220000 +0000" stop="20200312223000 +0000" channel="BBC World News">
-    <title lang="en">Outside Source</title>
-    <desc lang="en">Ros Atkins with an innovative take on the latest global stories</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312223000 +0000" stop="20200312224500 +0000" channel="BBC World News">
-    <title lang="en">Asia Business Report</title>
-    <desc lang="en">Live from Singapore, the essential business news as it breaks and a look ahead to the news that will shape the business day</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312224500 +0000" stop="20200312230000 +0000" channel="BBC World News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">All the latest sports news and results from around the globe</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312230000 +0000" stop="20200312233000 +0000" channel="BBC World News">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from London and Singapore, the latest international news from the BBC</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312233000 +0000" stop="20200312234500 +0000" channel="BBC World News">
-    <title lang="en">Asia Business Report</title>
-    <desc lang="en">Live from Singapore, the essential business news as it breaks and a look ahead to the news that will shape the business day</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312234500 +0000" stop="20200313000000 +0000" channel="BBC World News">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">All the latest sports news and results from around the globe</desc>
-    <category lang="en">News</category>
-  </programme>
   <programme start="20200313000000 +0000" stop="20200313003000 +0000" channel="BBC World News">
     <title lang="en">Newsday</title>
     <desc lang="en">Live from London and Singapore, the latest international news from the BBC</desc>
@@ -11220,6 +10754,311 @@
   <programme start="20200314153000 +0000" stop="20200314160000 +0000" channel="BBC World News">
     <title lang="en">Follow The Food (R) -The New Gold Rush</title>
     <desc lang="en">In this episode we explore revolutionary methods of soil enrichment plus ways to farm without it altogether</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314160000 +0000" stop="20200314163000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314163000 +0000" stop="20200314170000 +0000" channel="BBC World News">
+    <title lang="en">In Business Africa (R)</title>
+    <desc lang="en">A weekly in- depth look at the economic trends that are shaping Africa's future. Presented by Nancy Kacungira and Lerato Mbele-Roberts</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314170000 +0000" stop="20200314173000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314173000 +0000" stop="20200314180000 +0000" channel="BBC World News">
+    <title lang="en">A Taste Of The City</title>
+    <desc lang="en">A Taste of the City is an exploration of authentic cuisine in some of the world's most vibrant, dynamic cities</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314180000 +0000" stop="20200314181000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314181000 +0000" stop="20200314183000 +0000" channel="BBC World News">
+    <title lang="en">Witness To A Crime (R)</title>
+    <desc lang="en">Former Jehovah's Witnesses are suing the organisation following historical sexual abuse by senior figures in the religion. Claire Jones reports</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314183000 +0000" stop="20200314190000 +0000" channel="BBC World News">
+    <title lang="en">The Travel Show (R)</title>
+    <desc lang="en">Join Ade Adepitan in the Maldives as he looks back on some of his favourite recent Travel Show stories</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314190000 +0000" stop="20200314191500 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314191500 +0000" stop="20200314193000 +0000" channel="BBC World News">
+    <title lang="en">Sport Today</title>
+    <desc lang="en">All the latest sports news and results from around the globe</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314193000 +0000" stop="20200314200000 +0000" channel="BBC World News">
+    <title lang="en">Coronavirus Explained</title>
+    <desc lang="en">Matthew Amroliwala finds out what Covid-19 is, how it spreads and answers your questions about what action you should take at home, work and when travelling</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314200000 +0000" stop="20200314201000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314201000 +0000" stop="20200314203000 +0000" channel="BBC World News">
+    <title lang="en">Resistance Women: The Fight Against Hitler In Berlin (R)</title>
+    <desc lang="en">Fergal Keane tells the remarkable stories of three very different women who risked everything to challenge the cruelty of the Nazis</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314203000 +0000" stop="20200314210000 +0000" channel="BBC World News">
+    <title lang="en">Afghanistan's Open Secret (R)</title>
+    <desc lang="en">For years victims of child sex abuse in Afghanistan have suffered in secret. Talking about it is taboo and those who have tried to speak out have been silenced</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314210000 +0000" stop="20200314213000 +0000" channel="BBC World News">
+    <title lang="en">World News Today</title>
+    <desc lang="en">The news programme for audiences who want more depth to their daily coverage. With a focus on Europe, Middle East and Africa</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314213000 +0000" stop="20200314220000 +0000" channel="BBC World News">
+    <title lang="en">Dateline London (R)</title>
+    <desc lang="en">Foreign correspondents based in London give an outsider's view of events in the UK</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314220000 +0000" stop="20200314221000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314221000 +0000" stop="20200314223000 +0000" channel="BBC World News">
+    <title lang="en">Reporters (R)</title>
+    <desc lang="en">A look back at what's been happening around the world this week. Reporters hears from the BBC's network of international correspondents</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314223000 +0000" stop="20200314230000 +0000" channel="BBC World News">
+    <title lang="en">A Taste Of The City (R)</title>
+    <desc lang="en">A Taste of the City is an exploration of authentic cuisine in some of the world's most vibrant, dynamic cities</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314230000 +0000" stop="20200314233000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314233000 +0000" stop="20200315000000 +0000" channel="BBC World News">
+    <title lang="en">My World</title>
+    <desc lang="en">We meet the young feminists speaking out in Brazil's favelas. Plus, what are the benefits of social media?</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315000000 +0000" stop="20200315003000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315003000 +0000" stop="20200315010000 +0000" channel="BBC World News">
+    <title lang="en">Our World: Who Betrayed Hevrin Khalaf?</title>
+    <desc lang="en">In October 2019 a rising star of Syrian democratic politics, 34 year-old Hevrin Khalaf, was brutally murdered in the Kurdish-governed north-east of the country. Yalda Hakim travels to Syria to investigate this young woman's killing and her battle for freedom and empowerment. Hevrin’s colleagues believe her death was the result of President Trump's withdrawal of support for the Kurds, who were a key American ally in the defeat of the so called Islamic State group</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315010000 +0000" stop="20200315011000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315011000 +0000" stop="20200315013000 +0000" channel="BBC World News">
+    <title lang="en">Witness To A Crime (R)</title>
+    <desc lang="en">Former Jehovah's Witnesses are suing the organisation following historical sexual abuse by senior figures in the religion. Claire Jones reports</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315013000 +0000" stop="20200315020000 +0000" channel="BBC World News">
+    <title lang="en">Dateline London (R)</title>
+    <desc lang="en">Foreign correspondents based in London give an outsider's view of events in the UK</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315020000 +0000" stop="20200315021000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315021000 +0000" stop="20200315023000 +0000" channel="BBC World News">
+    <title lang="en">Resistance Women: The Fight Against Hitler In Berlin (R)</title>
+    <desc lang="en">Fergal Keane tells the remarkable stories of three very different women who risked everything to challenge the cruelty of the Nazis</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315023000 +0000" stop="20200315030000 +0000" channel="BBC World News">
+    <title lang="en">Afghanistan's Open Secret (R)</title>
+    <desc lang="en">For years victims of child sex abuse in Afghanistan have suffered in secret. Talking about it is taboo and those who have tried to speak out have been silenced</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315030000 +0000" stop="20200315033000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315033000 +0000" stop="20200315040000 +0000" channel="BBC World News">
+    <title lang="en">Click (R) -Rivals</title>
+    <desc lang="en">From Huawei to Drone delivery and self driving cars to quantum computing the US and China are battling to control the next wave of technology innovation</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315040000 +0000" stop="20200315043000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315043000 +0000" stop="20200315050000 +0000" channel="BBC World News">
+    <title lang="en">A Taste Of The City (R)</title>
+    <desc lang="en">A Taste of the City is an exploration of authentic cuisine in some of the world's most vibrant, dynamic cities</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315050000 +0000" stop="20200315053000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315053000 +0000" stop="20200315060000 +0000" channel="BBC World News">
+    <title lang="en">In Business Africa (R)</title>
+    <desc lang="en">A weekly in- depth look at the economic trends that are shaping Africa's future. Presented by Nancy Kacungira and Lerato Mbele-Roberts</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315060000 +0000" stop="20200315063000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315063000 +0000" stop="20200315070000 +0000" channel="BBC World News">
+    <title lang="en">The Travel Show (R)</title>
+    <desc lang="en">Join Ade Adepitan in the Maldives as he looks back on some of his favourite recent Travel Show stories</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315070000 +0000" stop="20200315071000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315071000 +0000" stop="20200315073000 +0000" channel="BBC World News">
+    <title lang="en">Witness To A Crime (R)</title>
+    <desc lang="en">Former Jehovah's Witnesses are suing the organisation following historical sexual abuse by senior figures in the religion. Claire Jones reports</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315073000 +0000" stop="20200315080000 +0000" channel="BBC World News">
+    <title lang="en">Our World: Who Betrayed Hevrin Khalaf?</title>
+    <desc lang="en">In October 2019 a rising star of Syrian democratic politics, 34 year-old Hevrin Khalaf, was brutally murdered in the Kurdish-governed north-east of the country. Yalda Hakim travels to Syria to investigate this young woman's killing and her battle for freedom and empowerment. Hevrin’s colleagues believe her death was the result of President Trump's withdrawal of support for the Kurds, who were a key American ally in the defeat of the so called Islamic State group</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315080000 +0000" stop="20200315081000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315081000 +0000" stop="20200315083000 +0000" channel="BBC World News">
+    <title lang="en">Reporters (R)</title>
+    <desc lang="en">A look back at what's been happening around the world this week. Reporters hears from the BBC's network of international correspondents</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315083000 +0000" stop="20200315090000 +0000" channel="BBC World News">
+    <title lang="en">Dateline London (R)</title>
+    <desc lang="en">Foreign correspondents based in London give an outsider's view of events in the UK</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315090000 +0000" stop="20200315091000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315091000 +0000" stop="20200315093000 +0000" channel="BBC World News">
+    <title lang="en">Witness To A Crime (R)</title>
+    <desc lang="en">Former Jehovah's Witnesses are suing the organisation following historical sexual abuse by senior figures in the religion. Claire Jones reports</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315093000 +0000" stop="20200315100000 +0000" channel="BBC World News">
+    <title lang="en">Follow The Food (R) -The New Gold Rush</title>
+    <desc lang="en">In this episode we explore revolutionary methods of soil enrichment plus ways to farm without it altogether</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315100000 +0000" stop="20200315101000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315101000 +0000" stop="20200315103000 +0000" channel="BBC World News">
+    <title lang="en">Resistance Women: The Fight Against Hitler In Berlin (R)</title>
+    <desc lang="en">Fergal Keane tells the remarkable stories of three very different women who risked everything to challenge the cruelty of the Nazis</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315103000 +0000" stop="20200315110000 +0000" channel="BBC World News">
+    <title lang="en">A Taste Of The City (R)</title>
+    <desc lang="en">A Taste of the City is an exploration of authentic cuisine in some of the world's most vibrant, dynamic cities</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315110000 +0000" stop="20200315111000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315111000 +0000" stop="20200315113000 +0000" channel="BBC World News">
+    <title lang="en">Reporters (R)</title>
+    <desc lang="en">A look back at what's been happening around the world this week. Reporters hears from the BBC's network of international correspondents</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315113000 +0000" stop="20200315120000 +0000" channel="BBC World News">
+    <title lang="en">Coronavirus Explained</title>
+    <desc lang="en">Matthew Amroliwala finds out what Covid-19 is, how it spreads and answers your questions about what action you should take at home, work and when travelling</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315120000 +0000" stop="20200315123000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315123000 +0000" stop="20200315130000 +0000" channel="BBC World News">
+    <title lang="en">The Travel Show (R)</title>
+    <desc lang="en">Join Ade Adepitan in the Maldives as he looks back on some of his favourite recent Travel Show stories</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315130000 +0000" stop="20200315133000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315133000 +0000" stop="20200315140000 +0000" channel="BBC World News">
+    <title lang="en">Click (R) -Rivals</title>
+    <desc lang="en">From Huawei to Drone delivery and self driving cars to quantum computing the US and China are battling to control the next wave of technology innovation</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315140000 +0000" stop="20200315141500 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315141500 +0000" stop="20200315143000 +0000" channel="BBC World News">
+    <title lang="en">Sport Today</title>
+    <desc lang="en">All the latest sports news and results from around the globe</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315143000 +0000" stop="20200315150000 +0000" channel="BBC World News">
+    <title lang="en">100 Women (R) -Inside The Hidden World Of Egg Donation</title>
+    <desc lang="en">Cagil Kasapoglu travels to Cyprus to meet the women donating their eggs to help others to conceive</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315150000 +0000" stop="20200315151000 +0000" channel="BBC World News">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international news from the BBC</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315151000 +0000" stop="20200315153000 +0000" channel="BBC World News">
+    <title lang="en">Witness To A Crime (R)</title>
+    <desc lang="en">Former Jehovah's Witnesses are suing the organisation following historical sexual abuse by senior figures in the religion. Claire Jones reports</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315153000 +0000" stop="20200315160000 +0000" channel="BBC World News">
+    <title lang="en">Afghanistan's Open Secret (R)</title>
+    <desc lang="en">For years victims of child sex abuse in Afghanistan have suffered in secret. Talking about it is taboo and those who have tried to speak out have been silenced</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200312050000 -0400" stop="20200312070000 -0400" channel="Bloomberg">
@@ -12866,19 +12705,11 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200312220000 -0400" stop="20200312230000 -0400" channel="CNN">
+  <programme start="20200312220000 -0400" stop="20200313000000 -0400" channel="CNN">
     <title lang="en">CNN Town Hall</title>
     <sub-title lang="en">Coronavirus: Facts and Fears</sub-title>
-    <desc lang="en">Anderson Cooper and Dr. Sanjay Gupta host a CNN Global Town Hall on the Coronavirus. A look at what is the truth and what you need to know moving forward</desc>
+    <desc lang="en">Follow the latest developments on the Coronavirus form the United States and around the world</desc>
     <category lang="en">Discussion</category>
-  </programme>
-  <programme start="20200312230000 -0400" stop="20200313000000 -0400" channel="CNN">
-    <title lang="en">CNN Tonight With Don Lemon</title>
-    <desc lang="en">Don Lemon presents the day's biggest stories</desc>
-    <category lang="en">Current Affairs</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20200313000000 -0400" stop="20200313010000 -0400" channel="CNN">
     <title lang="en">Anderson Cooper 360</title>
@@ -12896,19 +12727,11 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200313020000 -0400" stop="20200313030000 -0400" channel="CNN">
+  <programme start="20200313020000 -0400" stop="20200313040000 -0400" channel="CNN">
     <title lang="en">CNN Town Hall</title>
     <sub-title lang="en">Coronavirus: Facts and Fears</sub-title>
-    <desc lang="en">Anderson Cooper and Dr. Sanjay Gupta host a CNN Global Town Hall on the Coronavirus. A look at what is the truth and what you need to know moving forward</desc>
+    <desc lang="en">Follow the latest developments on the Coronavirus form the United States and around the world</desc>
     <category lang="en">Discussion</category>
-  </programme>
-  <programme start="20200313030000 -0400" stop="20200313040000 -0400" channel="CNN">
-    <title lang="en">CNN Tonight With Don Lemon</title>
-    <desc lang="en">Don Lemon presents the day's biggest stories</desc>
-    <category lang="en">Current Affairs</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20200313040000 -0400" stop="20200313050000 -0400" channel="CNN">
     <title lang="en">Early Start</title>
@@ -13238,13 +13061,13 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200314210000 -0400" stop="20200314220000 -0400" channel="CNN">
+  <programme start="20200314210000 -0400" stop="20200314230000 -0400" channel="CNN">
     <title lang="en">CNN Town Hall</title>
     <sub-title lang="en">Coronavirus: Facts and Fears</sub-title>
-    <desc lang="en">Anderson Cooper and Dr. Sanjay Gupta host a CNN Global Town Hall on the Coronavirus. A look at what is the truth and what you need to know moving forward</desc>
+    <desc lang="en">Follow the latest developments on the Coronavirus form the United States and around the world</desc>
     <category lang="en">Discussion</category>
   </programme>
-  <programme start="20200314220000 -0400" stop="20200315000000 -0400" channel="CNN">
+  <programme start="20200314230000 -0400" stop="20200315010000 -0400" channel="CNN">
     <title lang="en">Unseen Enemy: Pandemic</title>
     <desc lang="en">Dr. Sanjay Gupta revisits three global epidemics: Ebola, Zika, and the flu, and explores the ways society and individuals can work together to reduce the spread of disease</desc>
     <category lang="en">Documentary</category>
