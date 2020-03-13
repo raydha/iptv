@@ -29,7 +29,7 @@ Some info:
 15: Vasantham 
 16: Astro Awani 
 17: BERNAMA 
-18: Saluran Berita RTM
+18: Berita RTM
 19: Channel NewsAsia 
 20: Al Jazeera
 21: Arirang TV
@@ -41,8 +41,10 @@ Some info:
 27: RT
 28: Sky News
 29: TRT World
-30: NASA TV
-31: Red Bull TV
+30: ABC News Australia
+31: NASA TV
+32: RedBull TV
+33: retro TV (test)
 ```
 
 ## Playlists
