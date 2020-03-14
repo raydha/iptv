@@ -46,7 +46,7 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8 
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master_04.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BERNAMA 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584165625/ei/mR5sXojOFI_OoAP915jYBA/ip/202.187.208.6/id/Bh5dqmsu2bA.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30az.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/14770/mh/X_/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/21/dover/11/keepalive/yes/fexp/23842630/mt/1584143954/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRQIgXXX2qQEdxBS5cleJCYZCcMZnINk7juSVs8YilYRFu1YCIQCkW6q-ToqD8W7ykLxq_uK0AvXcc3yzFsO0M3TdbeYzCg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/ABSNjpQwRQIgQLKtvRsNGiN7NHwryn-n7PXPm0_Z3Rb8uCOpgGolm7MCIQDWjzRUaxsERuowMvrwgL103L6Q3RrgHS_FjPndE37n2A%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
