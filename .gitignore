@@ -1,7 +1,3 @@
-playlist/source/
-playlist/playlist.m3u
-playlist/personal.txt
 playlist/tmp
-source
-windows/
-test-dir/
+wg++
+*.sh
