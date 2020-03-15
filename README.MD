@@ -12,7 +12,11 @@ Some info:
 
 ## Channels list
 ```
-TV1	TV2	TV3	NTV7	8TV	TV9	Drama Sangat	OKEY	RTM Sports HD	TV Alhijrah (offline)	Channel 5 	Channel 8 	Channel U 	Suria 	Vasantham 	Astro Awani 	BERNAMA 	Berita RTM	Channel NewsAsia 	Al Jazeera	Arirang TV	Bloomberg 	CGTN	DW	France24	NHK World Japan	RT	Sky News	TRT World	ABC News Australia	NASA TV	RedBull TV
+TV1	TV2	TV3	NTV7	8TV	TV9	Drama Sangat	OKEY	
+RTM Sports HD	TV Alhijrah (offline)	Channel 5 	Channel 8 	Channel U 	Suria 	Vasantham 	
+Astro Awani 	BERNAMA 	Berita RTM	Channel NewsAsia 	Al Jazeera	Arirang TV	Bloomberg 	CGTN	
+DW	France24	NHK World Japan	RT	Sky News	TRT World	ABC News Australia	NASA TV	
+RedBull TV
 ```
 
 ## Playlists
