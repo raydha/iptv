@@ -2,15 +2,16 @@
 This repository contains the playlists, EPG and other related resources to enjoy free-to-air TV channels online.
 
 ## Information
-The streams listed here are the official public streams hosted on their live TV websites and YouTube. We don't host, own or charge for any of the links posted here.
+The streams listed here are the **official public streams** hosted on their live TV websites and YouTube. No illegal channels will be shared here.
 
 Some info:
 * Streams are updated every 4 hour
 * EPG is updated daily at 01:00 with 3 days worth of data
-* The playlists are tested with M3U players which support HTTP headers such as `Referer` and `User-Agent`. Example: TiviMate, TVIrl, and (most) Kodi IPTV plugins. 
-* How they look like in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
+* Requires M3U players which support additional HTTP headers such as `Referer` and `User-Agent`
+* Sample in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
 ## Channels list
+Collecting almost 30 channels for free viewing! More channels will be added from time to time.
 TV1 | TV2 | TV3 | NTV7 | 8TV | TV9 | Drama Sangat | OKEY | RTM Sports HD | TV Alhijrah (offline) | Channel 5  | Channel 8  | Channel U  | Suria  | Vasantham  | Astro Awani  | BERNAMA  | Berita RTM | Channel NewsAsia  | ABC News | Al Jazeera | Arirang TV | Bloomberg  | CGTN | DW | France24 | NHK World Japan | RT | Sky News | TRT World | NASA TV | RedBull TV
 
 ## Playlists
