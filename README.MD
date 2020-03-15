@@ -21,7 +21,7 @@ Some info:
 7: Drama Sangat
 8: OKEY
 9: RTM Sports HD
-10: TV Alhijrah (offline)
+10: TV Alhijrah 
 11: Channel 5 
 12: Channel 8 
 13: Channel U 
@@ -44,7 +44,6 @@ Some info:
 30: ABC News Australia
 31: NASA TV
 32: RedBull TV
-33: retro TV (test)
 ```
 
 ## Playlists
