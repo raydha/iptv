@@ -11,38 +11,7 @@ Some info:
 * How they look like in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
 ## Channels list
-1: TV1
-2: TV2
-3: TV3
-4: NTV7
-5: 8TV
-6: TV9
-7: Drama Sangat
-8: OKEY
-9: RTM Sports HD
-10: TV Alhijrah (offline)
-11: Channel 5 
-12: Channel 8 
-13: Channel U 
-14: Suria 
-15: Vasantham 
-16: Astro Awani 
-17: BERNAMA 
-18: Berita RTM
-19: Channel NewsAsia 
-20: Al Jazeera
-21: Arirang TV
-22: Bloomberg 
-23: CGTN
-24: DW
-25: France24
-26: NHK World Japan
-27: RT
-28: Sky News
-29: TRT World
-30: ABC News Australia
-31: NASA TV
-32: RedBull TV
+TV1	TV2	TV3	NTV7	8TV	TV9	Drama Sangat	OKEY	RTM Sports HD	TV Alhijrah (offline)	Channel 5 	Channel 8 	Channel U 	Suria 	Vasantham 	Astro Awani 	BERNAMA 	Berita RTM	Channel NewsAsia 	Al Jazeera	Arirang TV	Bloomberg 	CGTN	DW	France24	NHK World Japan	RT	Sky News	TRT World	ABC News Australia	NASA TV	RedBull TV
 
 ## Playlists
 * Playlist:`https://freeview.github.io/iptv/playlist/tv.m3u`
