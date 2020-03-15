@@ -100,4 +100,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 # https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/index_1_av-b.m3u8|Referer=https://www.myretrotv.com/watch
 
 #EXTINF:-1 tvg-group="News" tvg-logo="",CCTV4 (Test)
-https://cctvakhwh5c-cntv.akamaized.net/live/cdrmcctveurope_1/index.m3u8?BR=md&region=beijing
+https://cctvakhwh5c-cntv.akamaized.net/live/cdrmcctveurope_1/index.m3u8?BR=md&region=beijing|Referer=http://tv.cctv.com/live/cctveurope/
