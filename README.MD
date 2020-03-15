@@ -11,7 +11,6 @@ Some info:
 * How they look like in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
 ## Channels list
-```
 1: TV1
 2: TV2
 3: TV3
@@ -21,7 +20,7 @@ Some info:
 7: Drama Sangat
 8: OKEY
 9: RTM Sports HD
-10: TV Alhijrah 
+10: TV Alhijrah (offline)
 11: Channel 5 
 12: Channel 8 
 13: Channel U 
@@ -44,7 +43,6 @@ Some info:
 30: ABC News Australia
 31: NASA TV
 32: RedBull TV
-```
 
 ## Playlists
 * Playlist:`https://freeview.github.io/iptv/playlist/tv.m3u`
