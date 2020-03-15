@@ -51,7 +51,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584327220/ei/
 #EXTINF:-1 tvg-group="ID" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
 https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G78DInOtyVKRo5f6XRYucZg)/dm/3/x6pz4sa/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k4ttBi7hCXzpArrvk82
 
-#EXTINF:-1 tvg-group="ID" tvg-logo="",tvOne
+#EXTINF:-1 tvg-group="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png",tvOne
 https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLUt1sTi7PqSepMPWTMfNpU)/dm/3/x619221/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
