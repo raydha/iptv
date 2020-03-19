@@ -126,7 +126,7 @@
     <url>http://www.redbull.tv</url>
   </channel>
   <channel id="NET">
-    <display-name lang="id">NET TV</display-name>
+    <display-name lang="id">NET</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_116.jpg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
@@ -4742,14 +4742,6 @@
     <category lang="en">Biography</category>
     <episode-num system="xmltv_ns">.8.</episode-num>
   </programme>
-  <programme start="20200319140000 +0800" stop="20200319143000 +0800" channel="Channel 5">
-    <title lang="en">Tricked (Canada)  - EP 13</title>
-    <desc lang="en">Tricked Canada is a high-energy family series that pulls the rabbit out of the hat and flips it on its ear. It drags magic off the stage and onto the streets as master magician Eric LeClerc goes undercover with hidden cameras, posing in a variety of guises such as store clerk, waiter or sales assistant to pull super sneaky pranks on unsuspecting people.</desc>
-  </programme>
-  <programme start="20200319143000 +0800" stop="20200319150000 +0800" channel="Channel 5">
-    <title lang="en">Secrets Of The Earth - EP 6</title>
-    <desc lang="en">This series explores our planet with the same sense of awe and wonder normally reserved for alien worlds. Computer graphics, visual analogies and expert scientists combine to reveal amazing, little-known facts and bring a stunning new perspective to the world you think you know.</desc>
-  </programme>
   <programme start="20200319150000 +0800" stop="20200319153000 +0800" channel="Channel 5">
     <title lang="en">Jack S1 - EP 0043 &amp; 0044</title>
     <desc lang="en">Jack is a human-like terrestrial from Beano, a small asteroid that orbits the earth. Unbeknownst to all parents on Earth, he tunes in with CHIP's help to search for and monitor little mysteries for Earth's children. Aided by the "Outer-Net", Jack with his 2 sidekicks - CHIP and Rocket, the goofy little dog, embark on numerous adventures to unravel those mysteries.</desc>
@@ -5114,18 +5106,6 @@
     <title lang="en">The World's Deadliest Weather S2 - EP 4</title>
     <desc lang="en">Revealing archives and real footages of the meteorological phenomena, witness some of the most deadly natural disasters the planet has ever seen.</desc>
   </programme>
-  <programme start="20200319140000 +0800" stop="20200319143000 +0800" channel="Channel 8">
-    <title lang="en">小鲤鱼历险记 The Adv Of Little Carp - EP 10</title>
-    <desc lang="en">(R) The beautiful Carps Lake suffers the scourge of the evil snake. The small Carp Pao Pao was forced to swim out of his desolate homeland in search of the power of the dragon. He makes the acquaintances of the cowardly two-sided turtle, the arrogant A Ku and the delicate Mei Mei.  (重)美丽的鲤鱼湖遭受了癞皮蛇的祸害，小鲤鱼泡泡被迫游出凄凉的家乡，寻找龙的力量。他先后结识了胆小的双面龟，傲气的阿酷，娇柔的美美。.</desc>
-  </programme>
-  <programme start="20200319143000 +0800" stop="20200319144500 +0800" channel="Channel 8">
-    <title lang="en">健康那些事 Get Fit With Me  - EP 4</title>
-    <desc lang="en">(R) Let's work out even when we are home alone! The sport experts will share exercise tips and routine by providing step by step tutorial.   (重)运动 (Exercise) 即使需要减少群体活动，自己一人同样能运动！运动达人们传授各种适合乐龄人士的运动，教大家不断 keep fit 强身健体。.</desc>
-  </programme>
-  <programme start="20200319144500 +0800" stop="20200319153000 +0800" channel="Channel 8">
-    <title lang="en">三个愿望 Three Wishes   - EP 3</title>
-    <desc lang="en">(R) Shanmei is worried that if she passes away due to her sickness, her children would not be independent enough to support themselves. She cries in the arms of Huijing who tries to comfort her, but is seen by Yaozong. Yaozong misunderstands and confronts Huijing. In Shanmei's attempt to stop this, she falls unconscious to the ground. Huijing then reveals the truth about Shanmei's sickness and Yaozong is devastated! (PG)(重)善美见子女们都不长进，担心自己一旦病逝，子女们无法自力更生，在前来安慰她的辉京怀里痛哭，被耀宗看见。耀宗误会辉京乘虚而入，与他发生冲突。善美极力阻止，结果昏迷倒地。辉京这时才透露善美患癌症的真相，耀宗感震惊！.</desc>
-  </programme>
   <programme start="20200319153000 +0800" stop="20200319163000 +0800" channel="Channel 8">
     <title lang="en">行医 The Oath - EP 18</title>
     <desc lang="en">(R) Jianzhong dies in a car accident, Siyun suspects Dewei is the mastermind behind the accident. Zhiyi warns Siyun that these are all conjectures and she has no evidence. (重)建中车祸身亡，思云怀疑建中的意外是德伟造成。芝仪提醒思云这只是她自己的猜测，没有真凭实据，不能乱说话。芝仪还说这个世界没有永远的秘密，如果德伟真的做了亏心事，一定会被揭发。.</desc>
@@ -5409,18 +5389,6 @@
   <programme start="20200321220000 +0800" stop="20200321223000 +0800" channel="Channel 8">
     <title lang="en">晚间新闻 News Tonight</title>
     <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。.</desc>
-  </programme>
-  <programme start="20200319140000 +0800" stop="20200319141500 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 16</title>
-    <desc lang="en">A complete nutritional superfood beverage!  营养价值丰富的谷粮饮料，为你补充体力、增强活力！.</desc>
-  </programme>
-  <programme start="20200319141500 +0800" stop="20200319143000 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 16</title>
-    <desc lang="en">A complete nutritional superfood beverage!  营养价值丰富的谷粮饮料，为你补充体力、增强活力！.</desc>
-  </programme>
-  <programme start="20200319143000 +0800" stop="20200319150000 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 8</title>
-    <desc lang="en">Eating healthy goes a long way, watch on to find out how to incorporate this green diet smoothie into your meals.  想补充养分、膳食纤维同时维持身段？不妨喝蔬果饮料当代餐吧！.</desc>
   </programme>
   <programme start="20200319150000 +0800" stop="20200319160000 +0800" channel="Channel U">
     <title lang="en">身在异乡非异客 Strangers At Home - EP 2</title>
@@ -7234,10 +7202,10 @@
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200321163000 +0800" stop="20200321170000 +0800" channel="Astro Awani">
-    <title lang="en">No information available</title>
-    <desc lang="en">No information available.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
+    <title lang="en">SAREF+: Renewable Hydropower</title>
+    <desc lang="en">In this episode, SAREF+ addresses the role of hydropower in achieving the renewable energy targets for Southeast Asia.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs / General</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20200321170000 +0800" stop="20200321172700 +0800" channel="Astro Awani">
@@ -7498,8 +7466,8 @@
     <desc lang="en">Saksikan Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
   </programme>
   <programme start="20200319210000 +0800" stop="20200319220000 +0800" channel="Berita RTM">
-    <title lang="en">Siaran Langsung : Bicara DR</title>
-    <desc lang="en">Program bicarawara bertema Bicara DR bersama tetamu undangan dan membincangkan isu sains dan teknologi sebagai topik pilihan.</desc>
+    <title lang="en">Siaran Langsung : Bicara Naratif (19 Mac 2020)</title>
+    <desc lang="en">Ikuti diskusi berkaitan COVID-19 : Ambil Tahu &amp; Bertindak Segera bersama tetamu Menteri Kesihatan, Yb. Dato' Seri Dr. Adham Baba.</desc>
   </programme>
   <programme start="20200319220000 +0800" stop="20200319223000 +0800" channel="Berita RTM">
     <title lang="en">Biz Malaysia</title>
@@ -7796,10 +7764,6 @@
   <programme start="20200321230000 +0800" stop="20200321233000 +0800" channel="Berita RTM">
     <title lang="en">Suara Malaysia</title>
     <desc lang="en">Program bual bicara yang mengupas isu-isu semasa secara santai dan mengulas perkembangan semasa dalam media sosial.</desc>
-  </programme>
-  <programme start="20200319140000 +0800" stop="20200319160000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Asia Now - EP 1</title>
-    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events.</desc>
   </programme>
   <programme start="20200319160000 +0800" stop="20200319160200 +0800" channel="Channel NewsAsia">
     <title lang="en">Headline News - EP 1</title>
@@ -19283,9 +19247,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20200319113000 +0700" stop="20200319133000 +0700" channel="NET">
-    <title lang="id">Ini Talkshow</title>
-  </programme>
   <programme start="20200319133000 +0700" stop="20200319140000 +0700" channel="NET">
     <title lang="id">OK Food</title>
   </programme>
@@ -19450,9 +19411,6 @@
   </programme>
   <programme start="20200321230000 +0700" stop="20200322000000 +0700" channel="NET">
     <title lang="id">NET TV</title>
-  </programme>
-  <programme start="20200319110000 +0700" stop="20200319130000 +0700" channel="Kompas TV">
-    <title lang="id">Kompas Siang</title>
   </programme>
   <programme start="20200319130000 +0700" stop="20200319140000 +0700" channel="Kompas TV">
     <title lang="id">Sapa Indonesia Siang</title>
@@ -19642,9 +19600,6 @@
   </programme>
   <programme start="20200321233000 +0700" stop="20200322000000 +0700" channel="Kompas TV">
     <title lang="id">Kompas TV</title>
-  </programme>
-  <programme start="20200319110000 +0700" stop="20200319130000 +0700" channel="tvOne">
-    <title lang="id">Kabar Siang (L)</title>
   </programme>
   <programme start="20200319130000 +0700" stop="20200319140000 +0700" channel="tvOne">
     <title lang="id">Hidup Sehat</title>
