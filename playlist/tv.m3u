@@ -61,7 +61,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587204038/ei/ZnuaXtClLu7I4-EPkbqTgAg/ip/202.187.145.58/id/Nkp6aUDGf4Q.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12730/mh/tC/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/0/pl/15/dover/11/keepalive/yes/mt/1587182358/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJpPlLswRgIhAO43nMUN3V5tByqYHyUcwqjcatPQCcKBH3aoYYIq6-YKAiEAgCmuHRy9oHC4bgBRCVuJA-GuIW2I4YxK_8mEj12gIyw%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRgIhAKqbIP748UxLdZKL4SDj8nxpkR0NyPUylUSrTMPOdQiJAiEAttM2OgezBMRfHk82ZYrnSzP4uTn062au1_u_000iyag%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
-https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
