@@ -4,10 +4,10 @@ This repository contains the playlists, EPG and other related resources to enjoy
 ## Information
 The streams listed here are the **official public streams** hosted on their live TV websites and YouTube. No illegal channels will be shared here.
 
-Some info:
-* Streams are updated every 4 hour
-* EPG is updated daily at 01:00 with 3 days worth of data
-* Requires M3U players which support additional HTTP headers such as `Referer` and `User-Agent`
+Additional info:
+* Streams are updated every 4 hour, make sure to use the playlist URL as if you don't, streams will expire
+* EPG is updated daily at 01:00 with 7 days worth of data
+* Requires M3U players which support additional HTTP headers such as `Referer` and `User-Agent`, E.g Tivimate, TVirl, Kodi
 * Sample in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
 
 ## Channels list
