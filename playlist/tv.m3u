@@ -54,6 +54,18 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1589061708/ei/
 #EXTINF:-1 tvg-group="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png",tvOne
 https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybHGN8CjooQIwqoCd39Z5zYE)/dm/3/x619221/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD
 
+#EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg",RCTI
+https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-mp4a_64000=2.m3u8
+
+#EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC TV
+https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1.m3u8
+
+#EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png",GTV
+https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1.m3u8
+
+#EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",iNews
+https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8
+
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
