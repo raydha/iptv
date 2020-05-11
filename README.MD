@@ -13,7 +13,7 @@ Additional info:
 ## Channels list
 Collecting almost 30 channels for free viewing! More channels will be added from time to time.
 
-TV1 | TV2 | TV3 | NTV7 | 8TV | TV9 | Drama Sangat | OKEY | RTM Sports HD | TV Alhijrah `offline` | TVIKIM | Astro Go Shop  | Channel 5  | Channel 8  | Channel U  | Suria  | Vasantham  | NET | Kompas TV | tvOne | RCTI | MNC TV | GTV | iNews | Trans TV | Metro TV | Astro Awani  | BERNAMA  | Berita RTM | Channel NewsAsia  | ABC News | Al Jazeera | Arirang TV | Bloomberg  | CGTN | DW | France24 | NHK World Japan | RT | Sky News | TRT World | NASA TV | CONtv | RedBull TV
+TV1 | TV2 | TV3 | NTV7 | 8TV | TV9 | Drama Sangat | OKEY | RTM Sports HD | ~~TV Alhijrah~~ | TVIKIM | Astro Go Shop  | Channel 5  | Channel 8  | Channel U  | Suria  | Vasantham  | NET | Kompas TV | tvOne | RCTI | MNC TV | GTV | iNews | Trans TV | Metro TV | Astro Awani  | BERNAMA  | Berita RTM | Channel NewsAsia  | ABC News | Al Jazeera | Arirang TV | Bloomberg  | CGTN | DW | France24 | NHK World Japan | RT | Sky News | TRT World | NASA TV | CONtv | RedBull TV 
 
 ### Expired streams
 Some streams expire once their token ends. It is important to use the URL instead of downloading the M3U file or forking this repo. Only TVirl and Tivimate paid subscription automatically updates & reloads the playlist and EPG. With the free version you will need to manually reload playlist.
