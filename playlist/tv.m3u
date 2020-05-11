@@ -61,7 +61,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1589176862/ei/
 https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybHGN8CjooQIwqoCd39Z5zYE)/dm/3/x619221/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD
 
 #EXTINF:-1 tvg-group="ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/RCTI_tegak_grey.png",RCTI
-https://linier.akamaized.net:443/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 
 #EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC TV
 https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
