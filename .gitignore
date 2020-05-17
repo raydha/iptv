@@ -1,5 +1,9 @@
+# Directories
 wg++
 source
 log
+
+# Files
 *.sh
 *.log
+.gitignore-bak
