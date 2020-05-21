@@ -135,9 +135,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_7
 #EXTINF:-1 tvg-group="Entertainment" tvg-logo="",Docurama (Test)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",Dove Channel (Test)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-
 #EXTINF:-1 tvg-group="Entertainment" tvg-logo="",Tastemade (Test)
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemadexumo/CDN/master.m3u8
 
