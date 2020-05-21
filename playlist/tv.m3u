@@ -30,8 +30,8 @@ https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1590098481/ei/0aXGXp3_M8KBssUPmaWwGA/ip/202.187.222.21/id/ikxZKKIGhfE.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12770/mh/-z/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/1/pl/18/dover/11/keepalive/yes/mt/1590076817/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgTNtPH2dHfSCWnl9YJBy12ixyG1VFQQ2EFUz_vb05KSYCIQCBrSDKYBsXz88RqGAuBFs5oYCV99P2y5rVXC9_QnjFDg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgDgKPPKpQFF4m8WkNeZvozFHpPIziOP1KKO-R_1OCFfkCICsd5zggsC4b5NxQcOWDxqiMiGWxt7L-ArvkmeMnyAa_/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCa5Go98H_EQOqwjYgx5-suw/live
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tvikim.my/images/logo-header-02.png",TVIKIM
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+# #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tvikim.my/images/logo-header-02.png",TVIKIM
+# https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/111.png",Astro Go Shop 
 https://agplayback03.aotg-video.astro.com.my/CH1/master_AGS_RAYA_04.m3u8 
@@ -60,22 +60,22 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1590098464/ei/
 #EXTINF:-1 tvg-group="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png",tvOne
 https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybOQTcAnb67LppjiqsCX2sN4)/dm/3/x619221/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD
 
-#EXTINF:-1 tvg-group="ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/RCTI_tegak_grey.png",RCTI
+# #EXTINF:-1 tvg-group="ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/RCTI_tegak_grey.png",RCTI
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC TV
+# #EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC TV
 https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png",GTV
+# #EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png",GTV
 https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",iNews
+# #EXTINF:-1 tvg-group="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",iNews
 https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-group="ID" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/logowhite.png",Trans TV
+# #EXTINF:-1 tvg-group="ID" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/logowhite.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-group="ID" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png",Metro TV
+# #EXTINF:-1 tvg-group="ID" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
