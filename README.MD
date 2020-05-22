@@ -1,4 +1,5 @@
 # Freeview IPTV Channels <img align="right" src="http://freeview.github.io/iptv/freeview.png" width="200">
+UPDATE 23/5/2020 - Server will be offline for maintenance 
 This repository contains the playlists, EPG and other related resources to enjoy free-to-air TV channels online.
 
 ## Information
