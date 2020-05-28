@@ -137,3 +137,9 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_7
 
 #EXTINF:-1 tvg-group="Sports" tvg-logo="https://freeview.github.io/iptv/logos/redbulltv.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="",CBeebies (Test)
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="",PBS Kids (Test)
+https://live-cdn.pbskids.org/out/u/est.m3u8|Referer=https://pbskids.org/video/livetv
