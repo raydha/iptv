@@ -24,14 +24,11 @@ https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lEzCDGEKhVZy8G9dN
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
-https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah
+# #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",~~TV Alhijrah~~
 |Referer=https://www.youtube.com/channel/UCa5Go98H_EQOqwjYgx5-suw/live
 
-# #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tvikim.my/images/logo-header-02.png",TVIKIM
-# https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tvikim.my/images/logo-header-02.png",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/111.png",Astro Go Shop 
 https://agplayback03.aotg-video.astro.com.my/CH1/master_AGS_RAYA_04.m3u8 
@@ -132,11 +129,14 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-group="Documentary" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA TV
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Referer=https://www.nasa.gov/multimedia/nasatv/index.html
 
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",CBeebies
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
 #EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://www.contv.com/static/media/ConTV-Logo.a1d15e62.png",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
 
 #EXTINF:-1 tvg-group="Sports" tvg-logo="https://freeview.github.io/iptv/logos/redbulltv.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-group="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",CBeebies
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
