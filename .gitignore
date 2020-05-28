@@ -2,6 +2,7 @@
 wg++
 source
 log
+epg/test
 
 # Files
 *.sh
