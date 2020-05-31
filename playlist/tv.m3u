@@ -37,19 +37,19 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://agplayback03.aotg-video.astro.com.my/CH1/master_AGS_RAYA_04.m3u8 
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8|User-Agent=meWATCH/3.6.103 Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1610 Build/MMB29M)
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8|User-Agent=meWATCH/3.6.103 Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1610 Build/MMB29M)
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png",Channel U 
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8|User-Agent=meWATCH/3.6.103 Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1610 Build/MMB29M)
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png",Suria 
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8|User-Agent=meWATCH/3.6.103 Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1610 Build/MMB29M)
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png",Vasantham 
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8|User-Agent=meWATCH/3.6.103 Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1610 Build/MMB29M)
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 #EXTINF:-1 group-title="ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",NET
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1590904905/ei/6fPSXrC9F52nz7sPiJSc0Aw/ip/202.186.203.193/id/JKQzLbfh7SM.28/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/9240/mh/gQ/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/16/dover/11/keepalive/yes/mt/1590883217/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgAXFgfLrO9H4zpPcKOhq5_uuMMxyRYqlXnxeXQ2O9nJMCIFBVURUzf5c-CPd_2oJzQD-4k5IPn_dTUEH1v-yCCK06/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhAOt57vktfLgX7Cvd3xrejrvA4netOZ4adGbIq8Y5qqQkAiEAgG-x8ts7PT070FXi2ITMEU99LGDag3h1_quv7Q3pmvs%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA/live
@@ -85,7 +85,7 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="MY/SG",okto
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8|User-Agent=meWATCH/3.6.103 Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1610 Build/MMB29M)
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
