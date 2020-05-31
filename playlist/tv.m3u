@@ -28,10 +28,10 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u
 |Referer=https://www.youtube.com/channel/UCa5Go98H_EQOqwjYgx5-suw/live
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
-https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_05.m3u8
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://www.tvikim.my/images/logo-header-02.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
