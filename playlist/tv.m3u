@@ -27,13 +27,16 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u
 # #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",~~TV Alhijrah~~
 |Referer=https://www.youtube.com/channel/UCa5Go98H_EQOqwjYgx5-suw/live
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125.png",Naura
+#EXTINF:-1 group-title="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
+https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 group-title="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://www.tvikim.my/images/logo-header-02.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/111.png",Astro Go Shop 
+#EXTINF:-1 group-title="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120.png",Astro Go Shop 
 https://agplayback03.aotg-video.astro.com.my/CH1/master_AGS_RAYA_04.m3u8 
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
@@ -60,22 +63,22 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1590919294/ei/
 #EXTINF:-1 group-title="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png",tvOne
 https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybPd7DsIqAh-igiNoHGgSYY4)/dm/3/x619221/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD
 
-# #EXTINF:-1 group-title="ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/RCTI_tegak_grey.png",RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
+#EXTINF:-1 group-title="ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/RCTI_tegak_grey.png",RCTI
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
 
-# #EXTINF:-1 group-title="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC TV
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#EXTINF:-1 group-title="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC TV
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
 
-# #EXTINF:-1 group-title="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png",GTV
-https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#EXTINF:-1 group-title="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png",GTV
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 
-# #EXTINF:-1 group-title="ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",iNews
-https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#EXTINF:-1 group-title="ID" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-# #EXTINF:-1 group-title="ID" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/logowhite.png",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
+#EXTINF:-1 group-title="ID" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/logowhite.png",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-# #EXTINF:-1 group-title="ID" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png",Metro TV
+#EXTINF:-1 group-title="ID" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Brunei" tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png",RTB Sukmaindera
@@ -92,7 +95,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BERNAMA 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1590919261/ei/_SvTXoqmL5Df4-EP55Gr8AU/ip/202.186.203.193/id/88FM6wgMst4.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30az.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/9600/mh/B4/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/1/pl/16/dover/11/keepalive/yes/mt/1590897617/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgL_Zg8gQ53s_SsePptHos4cFfXhO04EUN98tVtD25kk0CIQD15CRPKznZ1GgB2aQxtnh13SdeghnMfkjzKZKAZc8ihA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgVSWz2k6qDpDNrx5UKh47uSjCl8WBJkN8iiH_hL_-HY4CIQDccTDpb8UTFGf_ZjSf8149_XO9GhubPiqwRBj-q7K4LQ%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHakfDPh7tZXF7qayXD5dUoU)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
 #EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
