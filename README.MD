@@ -1,6 +1,6 @@
 # Freeview IPTV
 
-Free over-the-air IPTV Channels for Android TV with mostly SEA countries streams like Malaysia, Singapore, and Indonesia. 
+Free over-the-air IPTV Channels for Android TV from mostly SEA countries streams like Malaysia, Singapore, and Indonesia. 
 
 ## Channels
 
