@@ -179,3 +179,6 @@ https://stream-02.nyc.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXoe4om3xMNCyi5biP
 
 #EXTINF:-1,Test SG TV3
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXoe4om3xMNCyi5biPrAq1Y)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF-1,Test YT
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1591280744/ei/B7DYXoe5PILZDYb0obgC/ip/34.67.149.79/id/9Auq9mYxFEE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-qxoedn7d.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Yv/mm/44/mn/sn-qxoedn7d/ms/lva/mv/u/mvi/2/pl/24/dover/11/keepalive/yes/mt/1591258590/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANnTJLiHqUPbHPnuRpAGsCCJKw3liVxnWmerFPtHA-EnAiEAiTXQTh9N2PFjx4JQLUadY-pJqY9vHkcqOe9ENWx5p10%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAIw73W8rqRiv_Axbv6xk4UmttvShcYVdmE3phi6xkMLOAiAPgrK7UVtgCFakz0Ql-1WhecaWp8iGkGR0C6tOrIb8DQ%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
