@@ -1,10 +1,4 @@
 # Directories
 wg++
-source
 log
-epg/test
-
-# Files
-*.sh
-*.log
-.gitignore-bak
+scripts
