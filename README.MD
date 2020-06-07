@@ -1,6 +1,6 @@
 # Freeview IPTV
 
-[Free-to-air](https://en.wikipedia.org/wiki/Free-to-air) channels from Southeast Asian TV and news channels. This playlist is only tested in Android TV using Tivimate and TVirl; and Kodi.
+[Free-to-air](https://en.wikipedia.org/wiki/Free-to-air) TV channels from Southeast Asia. This playlist is only tested in Android TV using Tivimate and TVirl; and Kodi. It needs players with support for `Referer` and `User-Agent` headers.
 
 ## Channels
 
