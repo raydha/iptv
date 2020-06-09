@@ -4,7 +4,7 @@
 
 ## Channels
 
-The following is the list of channels available. Inactive/broken channels will be crossed out until they are available again.
+The following is the list of channels available:
 
 TV1 | TV2 | TV3 | NTV7 | 8TV | TV9 | Drama Sangat | OKEY | Hello | Naura | TVIKIM | Astro Go Shop  | Channel 5  | Channel 8  | Channel U  | Suria  | Vasantham  | RTB Sukmaindera | CBeebies | Kabillion | okto | Astro Awani  | BERNAMA  | Berita RTM | Channel NewsAsia  | ABC News | Al Jazeera | Arirang TV | Bloomberg  | CGTN | DW | France24 | NHK World Japan | RT | Sky News | TRT World | CGTN Documentary | NASA TV | CONtv | RedBull TV | RTM Sports HD
 
