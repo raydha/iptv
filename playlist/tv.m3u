@@ -55,13 +55,10 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8|User-Agent=Mozi
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 # #EXTINF:-1 group-title="ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",~~NET~~
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1591812030/ei/XsvgXrzuBJSxiwTR9obYCQ/ip/34.67.149.79/id/bAmnyjdqG50.1~21530102/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-qxo7rn7e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/XU/mm/44/mn/sn-qxo7rn7e/ms/lva/mv/u/mvi/0/pl/24/dover/11/keepalive/yes/fexp/23882514/mt/1591790024/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgQyXKxT_nWC7VCw2fkL5qcrIvR6M26kIdNQ4VKaQ1f38CIFcsFiNxMg6aANysu-QDKfpz2T6WILiKr_z4eSmFQbEH/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAMBx2rpJP-ohQP04wFUGuYwkV14sYKRmjcWxv_ZP8bYcAiBT_Z3SUr2WiB69uownGN2hotQ-qGsGM-iURTvjKITvXA%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA/live
 
 # #EXTINF:-1 group-title="ID" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",~~Kompas TV~~
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1591812026/ei/WsvgXvyHNNDYD-bvv9gL/ip/34.67.149.79/id/gIB2egm7tL8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-qxo7rn7e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/uj/mm/44/mn/sn-qxo7rn7e/ms/lva/mv/u/mvi/1/pl/24/dover/11/keepalive/yes/mt/1591790024/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgXtl15j4Yzrbv5JAdlt1ET-zwQcexf_QjH2rpE0VNEvACIQDAg8LDVl9ok0TvuKmwhgnmNdPxgZdJibdoSISDYYHo4A%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALcgPeI2iCwB1m178TFslcqA8TCIx_WpAKlJSZsuJFjzAiBlugXXEr03fv5V5Lb-SjpGytKeZtGZWzVtFboKXeZ8-A%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UC5BMIWZe9isJXLZZWPWvBlg/live
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1591768832/ei/oCLgXoLqCsfMjAS9kIXQBA/ip/34.67.149.79/id/bAmnyjdqG50.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-qxo7rn7l.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/6c/mm/44/mn/sn-qxo7rn7l/ms/lva/mv/u/mvi/2/pl/22/dover/11/keepalive/yes/mt/1591746745/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhANZuy1teVcQcbPg7Zek2BA_kEl37TJ7IFs4aHeR0g-jsAiAedgPMjzDqX32Bv_Jk1S-ejBHh0-3Utr5g_J8oKgWZKw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAOcyi7wSHjBgj68s4_V-8AJVdFEKiiQUwXs7WjiFBAWyAiB00mVmfqBAwFUTgDW-vFz8IaIGEsjjxqBs4zrqMCC1Eg%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA/live
+
 # #EXTINF:-1 group-title="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png",~~tvOne~~
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybNsABlykU5YsPgy-Afs0Bk0)/dm/3/x619221/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD
 
 # #EXTINF:-1 group-title="ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/RCTI_tegak_grey.png",~~RCTI~~
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
@@ -147,23 +144,8 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Re
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.contv.com/static/media/ConTV-Logo.a1d15e62.png",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
 
-# #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wixstatic.com/media/242286_049047be9f6d436e94e60be0067baca1~mv2.png",~~Combat Go~~
-# https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8
-
-# #EXTINF:-1 group-title="Sports" tvg-logo="",~~EDGEsport~~
-# https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/redbulltv.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png",RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-
-# #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sportsgrid.com/wp-content/uploads/2018/06/logo-e1528303421607.png",~~SportsGrid~~
-# https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-
-# #EXTINF:-1 group-title="Sports" tvg-logo="https://i0.wp.com/freetvblog.com/wp-content/uploads/2019/04/stadium-logo-300.jpeg",~~Stadium~~
-# https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-
-# #EXTINF:-1 group-title="Sports" tvg-logo="https://b.fssta.com/sta/images/navSection/images/shows/nav_shows_tmzSports.png",~~TMZ Sports~~
-# https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
