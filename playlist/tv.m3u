@@ -18,13 +18,8 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaXiim4pj91tpjU3oU
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv9.png",TV9
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXJXLCLEkkKkrkmK_IEHFXk)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
-<<<<<<< HEAD
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/dramasangat.png",Drama Sangat
 https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0s_lzKZONp7GSWCMIx20llw)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
-=======
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/dramasangat.png",Drama Sangat
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0s_lzKZONp7GSWCMIx20llw)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
->>>>>>> c0254b794b2d6b2b50a33a10822a03ab0e7b15e3
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/okey.png",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
