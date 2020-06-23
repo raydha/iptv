@@ -1,3 +1,10 @@
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+# This repository will be deprecated and archived soon. 
+## Streams will be removed and playlist will be made read only on 1st of August 2020, before being completely removed on 31st of August 2020.
+There have been reports of abuse of my EPG files and playlist files here where there are irresponsible parties selling them to public. Due to this and as well as personal reasons, the playlist will be removed.
+
+Thank you for your support. 
+
 # Freeview IPTV <img align="right" src="https://freeview.github.io/iptv/tv.png">
 
 [Free-to-air](https://en.wikipedia.org/wiki/Free-to-air) TV channels from Southeast Asia. This playlist is only tested in Android TV using Tivimate and TVirl; and Kodi. It needs players with support for `Referer` and `User-Agent` headers.
