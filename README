@@ -1,7 +1,4 @@
-Freeview TV channels playlist - THIS IS NOT MAINTAINED ANYMORE
-===============================================================
-
-New commits will only come from cronjobs.
+This repository is not being actively maintained anymore. New commits will only come from cronjobs.
 
 Playlist - https://freeview.github.io/iptv/playlist/tv.m3u`
 EPG - https://freeview.github.io/iptv/epg/tv.xml.gz
