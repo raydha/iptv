@@ -1,4 +1,4 @@
-# Freeview IPTV <img align="right" src="https://freeview.github.io/iptv/tv.png">
+# Freeview IPTV 
 
 ||Links|
 |-|-|
