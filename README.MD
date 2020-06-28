@@ -1,6 +1,6 @@
 # Freeview IPTV 
 
-![Not maintained](https://img.shields.io/badge/-Not%20actively%20maintained%20by%20contributors-red?style=social&) ![GitHub last commit](https://img.shields.io/github/last-commit/freeview/iptv?style=social)
+![Not maintained](https://img.shields.io/badge/-Not%20actively%20maintained%20by%20contributors-red) ![GitHub last commit](https://img.shields.io/github/last-commit/freeview/iptv?style=social)
 
 ||Links|
 |-|-|
