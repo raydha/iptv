@@ -55,7 +55,7 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://freeview.github.io/logos/cbeebies.png",CBeebies
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://freeview.github.io/logos/kabilion.png",Kabillion
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
